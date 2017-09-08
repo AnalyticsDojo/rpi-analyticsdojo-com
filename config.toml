@@ -1,0 +1,50 @@
+baseURL = "http://jasonkuruzovich.com/techfundamentals-fall2017-website/"
+languageCode = "en-us"
+title = "Fall 2017 Course Website for Technology Fundamentals for Business Analytics."
+theme = "docdock"
+publishDir = "docs"
+[params]
+noHomeIcon = false # default is false
+noSearch = false # default is false
+showVisitedLinks = false # default is false
+# themeStyle = "theme" # overide base css
+themeVariant = "blue" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+
+[[menu.shortcuts]]
+pre = "<h3>Important Links</h3>"
+name = "<i class='fa fa-github'></i> Course Materials"
+url = "https://github.com/jkuruzovich/techfundamentals-fall2017-materials"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-cloud'></i> Jupyterhub"
+url = "http://lab.analyticsdojo.com"
+weight = 5
+
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-sign-in'></i> LMS"
+url = "https://lms.rpi.edu"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-slack'></i> Slack"
+identifier = "Slack"
+url = "https://join.slack.com/t/tf-f17/shared_invite/MjMwNzcwMTg1MzE5LTE1MDMzNTE2NzMtZWVhOGYxNWFmYQ"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-dropbox'></i> Dropbox Share"
+identifier = "Dropbox"
+url = "https://www.dropbox.com/sh/5tpg39c7ynkbx11/AABgxq0CGM0gWbO3L0YMB8YKa?dl=0"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-github'></i> Course Website"
+url = "https://github.com/jkuruzovich/techfundamentals-fall2017-website"
+weight = 40

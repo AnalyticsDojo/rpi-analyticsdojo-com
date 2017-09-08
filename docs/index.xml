@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fall 2017 Technology Fundamentals for Business Analytics on Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/</link>
+    <description>Recent content in Fall 2017 Technology Fundamentals for Business Analytics on Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://jasonkuruzovich.com/techfundamentals-fall2017-website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Info</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/setup/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/setup/contact/</guid>
+      <description>Jason Kuruzovich (Instructor)
+ Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian Jiang (Teaching Assistant) - Slack (preferred) - Email: Jiangl - at - rpi.edu - Office Location: Pittsburgh 4108 (Located in the Severino Center)
+Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.</description>
+    </item>
+    
+    <item>
+      <title>Contact Info</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/contact/</guid>
+      <description>Jason Kuruzovich (Instructor)
+ Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian Jiang (Teaching Assistant) - Slack (preferred) - Email: Jiangl - at - rpi.edu - Office Location: Pittsburgh 4108 (Located in the Severino Center)
+Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/setup/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/setup/git/</guid>
+      <description>Git and Github Git is a version control system use to track changes to code, and when combined with Github it is an extremely powerful way to collaborate.
+(1) Start by creating a Github Account on github.com.
+(2) Install Github desktop if using OSX or Windows. Click here for download instructions for Github Desktop. (If you are a Linux user you probably already have git installed.)
+(3) Once you are done installing Github desktop, open the program.</description>
+    </item>
+    
+    <item>
+      <title>Online Classes</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/classes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/classes/</guid>
+      <description> Data Camp As part of this class you get a free subscription to Data Camp. I can&amp;rsquo;t post it here but will provide via email. Fast-AI Deep learning class. Siraj Rival Extremely entertaining YouTube star covers a wide variety of things in machine learning.  </description>
+    </item>
+    
+    <item>
+      <title>Office/Lab Hours</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/office/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/office/</guid>
+      <description>Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
+  This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
+    </item>
+    
+    <item>
+      <title>Podcasts</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/podcasts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/podcasts/</guid>
+      <description> Linear Digressions  </description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/schedule/</guid>
+      <description>Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
+[[Presentation]() Homework 1 Released ]   2 9-18 Intro to Python Click Here [Homework 2 Released]   3 9-25 Intro to Python (continued) Click Here [Homework 3 Released]   4 10-2 Intro to R Click Here [Homework 4 Released]    10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) Click Here [Homework 5 Released]   6 10-16 Intro to Visualization Click Here   7 10-23 Data Munging Click Here   8 10-30 Midterm Click Here   9 11-6 Introduction to Modeling I Click Here   10 11-13 Introduction to Modeling II Click Here   11 11-20 **Text Mining and Unstructured Data ** Click Here   12 11-27 Introduction to Big Data Click Here   13 12-4 Introduction to Deep Learning Click Here   14 12-11 **Presentations **   15 TBD** Final Exam Click Here    Class 1 Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/git/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/git/</guid>
+      <description> Pro Git
+ Codeschool Git Class
+ Learning about Branches
+ Explaining Git with D3
+ Understanding the Git Flow
+  </description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/grading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/grading/</guid>
+      <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   2 Kaggle Projects 25%   Midterm (7th Class) 15%   Final Exam 25%    </description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/python/</guid>
+      <description>Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library) Think Stats Probability and Statistics for Programmers in Python (free download)
+ Conda
+ Python + Numpy Tutorial
+ Python Docs Tutorial
+Python: Conda
+ Python + Numpy Tutorial
+ Python Docs Tutorial
+ Plotting:
+ matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/syllabus/assignments/</guid>
+      <description>Labs Labs will be designed to be completed during class. However, they will be due the Friday after class.
+Homework Assignments from one class will be due the following Wednesday by 11:59 PM. This allows for an time to ask about an assignment.
+These are instructions for submitting labs and assignments lab. We will be using Github Classroom to distribute and collect all assignments. This is new for this semester so expect some bumps.</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/r/</guid>
+      <description> Introduction to Statistical Learning (Free online PDF)
+ R for Data Science (available online)
+ Berkeley R Bootcamp
+  </description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/resources/books/</guid>
+      <description>O&amp;rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn&amp;rsquo;t listed, the library can adjust the list.
+Data Science &amp;amp; Business Data Science for Business 
+Git  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)
+ Introduction to Machine Learning with Python by Andreas C.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://jasonkuruzovich.com/techfundamentals-fall2017-website/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://jasonkuruzovich.com/techfundamentals-fall2017-website/_header/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

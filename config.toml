@@ -46,5 +46,5 @@ weight = 30
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-github'></i> Course Website"
-url = "https://github.com/jkuruzovich/techfundamentals-fall2017-website"
+url = "https://github.com/AnalyticsDojo/rpi-analyticsdojo-com/"
 weight = 40

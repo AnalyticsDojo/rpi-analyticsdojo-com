@@ -1,4 +1,4 @@
-baseURL = "http://jasonkuruzovich.com/techfundamentals-fall2017-website/"
+baseURL = "https://analyticsdojo.github.io/rpi-analyticsdojo-com/"
 languageCode = "en-us"
 title = "Fall 2017 Course Website for Technology Fundamentals for Business Analytics."
 theme = "docdock"

@@ -33,9 +33,9 @@ url = "https://lms.rpi.edu"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-slack'></i> Slack"
+name = "<i class='fa fa-slack'></i>Join Slack (rpi email)"
 identifier = "Slack"
-url = "https://join.slack.com/t/tf-f17/shared_invite/MjMwNzcwMTg1MzE5LTE1MDMzNTE2NzMtZWVhOGYxNWFmYQ"
+url = "https://join.slack.com/t/tf-f17/signup"
 weight = 20
 
 [[menu.shortcuts]]

@@ -9,6 +9,7 @@ weight = 20
 [Data Science for Business
 ](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/databases/business-intelligence/9781449374273)
 
+[Doing Data Science](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/databases/9781449363871)
 
 ### Git
 - [Pro Git](https://git-scm.com/book/en/v2)

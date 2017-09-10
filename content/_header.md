@@ -1,1 +1,2 @@
-![](dojo.png)
+
+![](/images/rpi.png)

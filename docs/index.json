@@ -1,38 +1,45 @@
 [
 {
-	"uri": "http://rpi.analyticsdojo.com/syllabus/",
-	"title": "Syllabus",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/class1/",
+	"title": "Class 1",
 	"tags": [],
 	"description": "",
-	"content": " IMPORTANT INFORMATION:  When: Lectures Monday Evenings from 6:00 PM to 8:50 PM Where: PITTS 4114\n  COURSE DESCRIPTION: The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods and processes of business analytics. We will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.\nCOURSE GOALS/OBJECTIVES The goal of this course will be to provide the technical foundation to enable students to become data scientists.\nSTUDENT LEARNING OUTCOMES Through this course you are expected to: (1) Demonstrate an understanding of analytics based problem solving and analytics thinking. (2) Be able to extract, match, transform, and clean data from a variety of sources. (3) Conduct structured statistical analyses to answer business related questions.\n"
+	"content": " Class 1 Course Overview \u0026amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps). Create a Slack account for the classroom Slack channel. We will use this for the majority of communications. Fill out this survey. Install Git, Github Desktop, and Anaconda (with Python 3.6). More detailed configuration instructions will be provided Monday but if you can get started with these that would be great. Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  In Class Activities:  Presentation. We\u0026rsquo;ll demonstrate Github Desktop, git, Jupyter, and get you started with some Python.  Assignment (due the second Wednesday following class by 11:59 PM):  Homework 1. More details on the homework assignment process can be found here. The link to accept the assignment is here .  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/",
+	"title": "MGMT6963-Tech Fundamentals",
+	"tags": [],
+	"description": "",
+	"content": " Technology Fundamentals for Business Analytics (MGMT6963-Fall2017) IMPORTANT INFORMATION:  When: Lectures Monday Evenings from 6:00 PM to 8:50 PM Where: PITTS 4114\n  COURSE DESCRIPTION: The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods and processes of business analytics. We will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.\nCOURSE GOALS/OBJECTIVES The goal of this course will be to provide the technical foundation to enable students to become data scientists.\nSTUDENT LEARNING OUTCOMES Through this course you are expected to: (1) Demonstrate an understanding of analytics based problem solving and analytics thinking.\n(2) Be able to extract, match, transform, and clean data from a variety of sources. (3) Conduct structured statistical analyses to answer business related questions.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/class2/",
+	"title": "Class 2",
+	"tags": [],
+	"description": "",
+	"content": " Class 2 Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarly be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step by ste introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities: See the variety of notebooks\nAssignment (due Wednesday following next class by 11:59 PM):  Assignment 2 Links: local github Total points: 30. Please run the automated tests at the bottom of this assignment and turn in a PDF by selecting File-\u0026gt;Print Preview and then print-\u0026gt;save as .pdf. Turn in via the RPI LMS.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/",
 	"title": "Computer Setup",
 	"tags": [],
 	"description": "",
-	"content": " Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.\nWe will be testing this semester a online JupyterHub instance, but the idea is to have this primarily for in-class exercises.\nPlease feel free to post issues on the Slack channel.\nStep 1: Install Github Desktop (or if git user can skip to next) Install Github desktop if using OSX or Windows.\nClick here for download instructions for Github Desktop.\nStep 2: Install and Configure Anaconda We will be using Anaconda to provide a Jupyter environment for both R and Python.\nFollow the following instructions to install Anaconda from Continuum Analytics. OSX Windows Linux\nOnce you have the Anaconda Distribution, follow below for advanced configuration.\nOSX  Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Windows Windows may often have issues associated with installation if you have had previous versions of Anaconda installed. If it doesn\u0026rsquo;t work, start by uninstalling everything\n Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Linux If you are a Linux user, please help in supporting the class. You likely won\u0026rsquo;t need my help. ;) 1. Follow the online instructions to install the Anaconda Distribution with Python 3.6 2. Follow below for advanced configuration.\nAdvanced Configuration (a.) Clone the class repository either from the desktop tool or from the command line.\nFrom the Github tool: From the command line:\n$ git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials  (b.) From the command line change directories to the techfundamentals-fall2017-materials folder.\n$ cd techfundamentals-fall2017-materials  Or from the Github Application right click on the repository name and click Open in Terminal. (c.) Install the new Conda environment using the following command:\n$ conda env create -f environment.yml  (d.) Activate the environment using the following command:\n$ source activate ad  (e.) Launch a Jupyter notebook with the command:\n$ jupyter notebook  "
+	"content": "Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.\nWe will be testing this semester a online JupyterHub instance, but the idea is to have this primarily for in-class exercises.\nPlease feel free to post issues on the Slack channel.\nFollow the instructions to install git/GitHub Desktop and Anaconda.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/setup/contact/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/contact/",
 	"title": "Contact Info",
 	"tags": [],
 	"description": "",
-	"content": "Jason Kuruzovich (Instructor)\n Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian Jiang (Teaching Assistant) - Slack (preferred) - Email: Jiangl - at - rpi.edu - Office Location: Pittsburgh 4108 (Located in the Severino Center)\nAsk technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.\nI\u0026rsquo;d prefer that you address other messages to me also through Slack (rather than email). This will enable me to turn off my email while continuing to give priority support to this class.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/syllabus/contact/",
-	"title": "Contact Info",
-	"tags": [],
-	"description": "",
-	"content": "Jason Kuruzovich (Instructor)\n Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian Jiang (Teaching Assistant) - Slack (preferred) - Email: Jiangl - at - rpi.edu - Office Location: Pittsburgh 4108 (Located in the Severino Center)\nAsk technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.\nI\u0026rsquo;d prefer that you address other messages to me also through Slack (rather than email). This will enable me to turn off my email while continuing to give priority support to this class.\n"
+	"content": "Jason Kuruzovich (Instructor)\n Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)\n Slack (preferred) Email: Jiangl - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.\nI\u0026rsquo;d prefer that you address other messages to me also through Slack (rather than email). This will enable me to turn off my email while continuing to give priority support to this class.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/git/",
-	"title": "Git",
+	"title": "Git/GitHub",
 	"tags": [],
 	"description": "",
-	"content": " Git and Github Git is a version control system use to track changes to code, and when combined with Github it is an extremely powerful way to collaborate.\n(1) Start by creating a Github Account on github.com.\n(2) Install Github desktop if using OSX or Windows. Click here for download instructions for Github Desktop. (If you are a Linux user you probably already have git installed.)\n(3) Once you are done installing Github desktop, open the program. Sign in with your Github Credentials to link the desktop application with your Github account.\n(4) On Github Desktop, click Preferences -\u0026gt; Advanced -\u0026gt; Install Commandline Tools\n"
+	"content": " Git and Github Git is a version control system use to track changes to code, and when combined with Github it is an extremely powerful way to collaborate.\n(1) Install the git command line tool. There are a lot of options but you should be able to just utilize the defaults.\n(2) Create an account on github.com.\n(3) Install Github desktop if using OSX or Windows. Click here for download instructions for Github Desktop.\n(4) Once you are done installing Github desktop, open the program. Sign in with your Github Credentials to link the desktop application with your Github account.\n(5) Clone the class repository either from the desktop tool or from the command line.\nFrom the Github tool: From the command line:\n$ git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials  (6) In the future when you want to update the repository, you can do so either from the command line or the GitHub Desktop tool.\nFrom the GitHub Desktop, press the sync button after selecting the repository: From the command line:\ngit pull  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/classes/",
@@ -49,11 +56,11 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/syllabus/office/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],
 	"description": "",
-	"content": " Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\n  This class doesn\u0026rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary \u0026ldquo;Lab\u0026rdquo; time for people who are just getting started with technology. Please show up if you are having technical problems or would like more help with step by step instructions.\n"
+	"content": "Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\nThis class doesn\u0026rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary \u0026ldquo;Lab\u0026rdquo; time for people who are just getting started with technology. Please show up if you are having technical problems or would like more help with step by step instructions.\nLianlian (Dorothy) Jiang (Teaching Assistant) * Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment * Office/Lab Location: 2226 Pittsburgh.\nPlease see Dorothy primarily for issues related to grading.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
@@ -63,11 +70,11 @@
 	"content": " Linear Digressions  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/syllabus/schedule/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/",
 	"title": "Schedule",
 	"tags": [],
 	"description": "",
-	"content": "     Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\n[[Presentation]() Homework 1 Released ]   2 9-18 Intro to Python Click Here [Homework 2 Released]   3 9-25 Intro to Python (continued) Click Here [Homework 3 Released]   4 10-2 Intro to R Click Here [Homework 4 Released]    10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) Click Here [Homework 5 Released]   6 10-16 Intro to Visualization Click Here   7 10-23 Data Munging Click Here   8 10-30 Midterm Click Here   9 11-6 Introduction to Modeling I Click Here   10 11-13 Introduction to Modeling II Click Here   11 11-20 **Text Mining and Unstructured Data ** Click Here   12 11-27 Introduction to Big Data Click Here   13 12-4 Introduction to Deep Learning Click Here   14 12-11 **Presentations **   15 TBD** Final Exam Click Here    Class 1 Course Overview \u0026amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Fill out this survey. Follow the Computer Setup instructions on the left panel  In Class Activities: -Presentation. - We\u0026rsquo;ll demonstrate Github Desktop.\nAssignment (due the second Wednesday following class by 11:59 PM):  Lab 01  Click the above link and follow instruction in the assignments page.\nClass 2 Introduction to Python Class Objective: The goal of this class is to introduce you to Python. We will cover some basic data structures as well as operations on those data structures.\nReadings (To be done before class):  Think Python-2E Read through Chapters 1-10. Don\u0026rsquo;t worry, they are short chapters and we will cover many of the more important topics for data analytics multiple times, both directly and in cases studies. While the exercises presented in the book are done in the interpreter, you can utilize Jupyter notebooks as well.  In Class Activities: See the variety of notebooks\nAssignment (due Wednesday following next class by 11:59 PM):  Assignment 2 Links: local github Total points: 30. Please run the automated tests at the bottom of this assignment and turn in a PDF by selecting File-\u0026gt;Print Preview and then print-\u0026gt;save as .pdf. Turn in via the RPI LMS.\n  "
+	"content": "    Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nmore Homework 1 Released (Due 9-20)   2 9-18 Data Fundamentals and Introduction to Python This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python. more Homework 2 Released    3 9-25 Data Fundamentals and Introduction to Python (continued) more    4 10-2 Intro to R more     10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) more [Homework 5 Released]   6 10-16 Intro to Visualization more   7 10-23 Data Munging more   8 10-30 Midterm more   9 11-6 Introduction to Modeling I more   10 11-13 Introduction to Modeling II more   11 11-20 **Text Mining and Unstructured Data ** more   12 11-27 Introduction to Big Data more   13 12-4 Introduction to Deep Learning more   14 12-11 **Presentations **   15 TBD** Final Exam more    "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/git/",
@@ -77,11 +84,11 @@
 	"content": " Pro Git\n Codeschool Git Class\n Learning about Branches\n Explaining Git with D3\n Understanding the Git Flow\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/syllabus/grading/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/grading/",
 	"title": "Grading",
 	"tags": [],
 	"description": "",
-	"content": "   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   2 Kaggle Projects 25%   Midterm (7th Class) 15%   Final Exam 25%    "
+	"content": "   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/python/",
@@ -91,11 +98,18 @@
 	"content": "  Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library) Think Stats Probability and Statistics for Programmers in Python (free download)\n Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\nPython: Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\n Plotting:\n matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using.\n seaborn: The Seaborn library has some nice additional visualization functions that we may use occasionally.\n Pandas:\n Learn Pandas A set of lessons providing an overview of the Pandas library.\n Python for Data Science Another set of notebook demonstrating Pandas functionality.\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/syllabus/assignments/",
+	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
+	"title": "Anaconda",
+	"tags": [],
+	"description": "",
+	"content": " Step 2: Install and Configure Anaconda We will be using Anaconda to provide a Jupyter environment for both R and Python.\nFollow the following instructions to install Anaconda from Continuum Analytics. OSX Windows Linux\nOnce you have the Anaconda Distribution, follow below for advanced configuration.\nOSX  Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Windows Windows may often have issues associated with installation if you have had previous versions of Anaconda installed. If it doesn\u0026rsquo;t work, start by uninstalling everything\n Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Linux If you are a Linux user, please help in supporting the class. You likely won\u0026rsquo;t need my help. ;) 1. Follow the online instructions to install the Anaconda Distribution with Python 3.6 2. Follow below for advanced configuration.\nAdvanced Configuration (a.) Change directories to the techfundamentals-fall2017-materials folder you cloned earlier.\n$ cd \u0026lt;insert full path \u0026gt;\\techfundamentals-fall2017-materials  Or from the Github Application right click on the repository name and click Open in Terminal. (b.) create a new environment\n$ conda env create -f environment.yml  (c.) Now we can activate the new AD environment. If you shut down your terminal you will have to do this each time.\n$ source activate ad  (d.) Launch a Jupyter notebook with the command:\n$ jupyter notebook  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6963/assignments/",
 	"title": "Assignments",
 	"tags": [],
 	"description": "",
-	"content": " Labs Labs will be designed to be completed during class. However, they will be due the Friday after class.\nHomework Assignments from one class will be due the following Wednesday by 11:59 PM. This allows for an time to ask about an assignment.\nThese are instructions for submitting labs and assignments lab. We will be using Github Classroom to distribute and collect all assignments. This is new for this semester so expect some bumps.\nThe advantage to this is that you will be learning to work with real tools while submitting assignments.\nStep 1: Accept the Assignment  By clicking Accept the Assignment on the link in the class website GitHub will automatically create a starter private repository for you. It might take a few minutes.  Step 2: Clone the private repository  Clone the repository using whatever development environment you are using. You should be able to see the repository URL on github.com.  Step 3: Commit your changes to the repository.  Add and commit your changes using the command line or GitHub Desktop. Push your changes (sync/publish on the Desktop) to the GitHub repository.  Step 4: Verify your code.  At the time the homework is due the final code in the repository will be tagged as the submissions and future commits won\u0026rsquo;t be evaluated. View your repository on GitHub and make sure that all of your commits have been pushed.  "
+	"content": " Labs Labs will be designed to be completed during class. However, they will be due the Friday after class.\nHomework Assignments from one class will be due the following Wednesday by 11:59 PM. This allows for an time to ask about an assignment.\nThese are instructions for submitting labs and assignments lab. We will be using Github Classroom to distribute and collect all assignments. This is new for this semester so expect some bumps.\nThe advantage to this is that you will be learning to work with real tools while submitting assignments.\nStep 1: Accept the Assignment  By clicking Accept the Assignment on the link in the class website GitHub will automatically create a starter private repository for you. It might take a few minutes.  Step 2: Clone the private repository  Clone the repository using whatever development environment you are using. You should be able to see the repository URL on github.com.  Step 3: Commit your changes to the repository.  Add and commit your changes using the command line or GitHub Desktop. Push your changes (sync/publish on the Desktop) to the GitHub repository.  Step 4: Verify your code.  At the time the homework is due the final code in the repository will be tagged as the submissions and future commits won\u0026rsquo;t be evaluated. View your repository on GitHub and make sure that all of your commits have been pushed.  I\u0026rsquo;ve put together a Jupyter Notebook we will use in class to go over the basics of git. In addition, there are a number of resources posted to the git resources tab. Post to the #homeworks tab on Slack.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/r/",
@@ -109,14 +123,14 @@
 	"title": "Books",
 	"tags": [],
 	"description": "",
-	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nGit  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Big Data  Mining Massive Datasets  "
+	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Big Data  Mining Massive Datasets  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/",
-	"title": "Fall 2017 Technology Fundamentals for Business Analytics",
+	"title": "RPI Analytics Dojo",
 	"tags": [],
-	"description": "",
-	"content": " Fall 2017 Technology Fundamentals for Business Analytics Important Information:  When: Lectures Monday Evenings from 6:00 PM to 8:50 PM Where: PITTS 4114\n  Office Hours and Contact Information Jason Kuruzovich (Instructor)\n- Email: kuruzj - at - rpi.edu (Prefer contact via Slack) - Office Hours: Thursday 10:00 - 12:00 and by appointment If office hours get crowded I\u0026rsquo;ll be in SA lounge. This may be adjusted if results of class survey suggest it. - Office Location: Pittsburgh 4108 (Located in the Severino Center)\n"
+	"description": "Technology and Infrastructure for Teaching Data &amp; Computation Courses",
+	"content": " Current Courses: Technology Fundamentals for Business Analytics (MGMT6963-Fall2017)\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/_header/",

@@ -44,7 +44,7 @@
   <div id="header-wrapper">
     <div id="header">
        
-	<p><img src="dojo.png" alt="" /></p>
+	<p><img src="/images/rpi.png" alt="" /></p>
  
 
 
@@ -81,13 +81,89 @@
  
   
     
-    <li data-nav-id="/syllabus/" class="dd-item 
+    <li data-nav-id="/mgmt6963/" class="dd-item 
         
         
         parent
         ">
-      <a href="/syllabus/">
-        <span>Syllabus</span>
+      <a href="/mgmt6963/">
+        <span>MGMT6963-Tech Fundamentals</span>
+
+        
+        
+
+          
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
+          
+
+        
+
+        
+      </a>
+      
+        <ul>
+          
+          
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/mgmt6963/contact/" class="dd-item
+     
+      ">
+        <a href="/mgmt6963/contact/">
+        <span>Contact Info</span> 
+        
+        </a></li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/mgmt6963/office/" class="dd-item
+     
+      ">
+        <a href="/mgmt6963/office/">
+        <span>Office/Lab Hours</span> 
+        
+        </a></li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+    <li data-nav-id="/mgmt6963/schdule/" class="dd-item 
+        
+        
+        parent
+        ">
+      <a href="/mgmt6963/schdule/">
+        <span>Schedule</span>
 
         
         
@@ -115,11 +191,11 @@
  
   
     
-      <li data-nav-id="/syllabus/contact/" class="dd-item
+      <li data-nav-id="/mgmt6963/schdule/class1/" class="dd-item
      
       ">
-        <a href="/syllabus/contact/">
-        <span>Contact Info</span> 
+        <a href="/mgmt6963/schdule/class1/">
+        <span>Class 1</span> 
         
         </a></li>
      
@@ -135,14 +211,23 @@
  
   
     
-      <li data-nav-id="/syllabus/office/" class="dd-item
+      <li data-nav-id="/mgmt6963/schdule/class2/" class="dd-item
      
       ">
-        <a href="/syllabus/office/">
-        <span>Office/Lab Hours</span> 
+        <a href="/mgmt6963/schdule/class2/">
+        <span>Class 2</span> 
         
         </a></li>
      
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
   
  
 
@@ -155,30 +240,10 @@
  
   
     
-      <li data-nav-id="/syllabus/schedule/" class="dd-item
+      <li data-nav-id="/mgmt6963/grading/" class="dd-item
      
       ">
-        <a href="/syllabus/schedule/">
-        <span>Schedule</span> 
-        
-        </a></li>
-     
-  
- 
-
-            
-          
-            
-            
-
-
- 
-  
-    
-      <li data-nav-id="/syllabus/grading/" class="dd-item
-     
-      ">
-        <a href="/syllabus/grading/">
+        <a href="/mgmt6963/grading/">
         <span>Grading</span> 
         
         </a></li>
@@ -195,10 +260,10 @@
  
   
     
-      <li data-nav-id="/syllabus/assignments/" class="dd-item
+      <li data-nav-id="/mgmt6963/assignments/" class="dd-item
      
       ">
-        <a href="/syllabus/assignments/">
+        <a href="/mgmt6963/assignments/">
         <span>Assignments</span> 
         
         </a></li>
@@ -256,11 +321,11 @@
  
   
     
-      <li data-nav-id="/setup/contact/" class="dd-item
+      <li data-nav-id="/setup/git/" class="dd-item
      
       ">
-        <a href="/setup/contact/">
-        <span>Contact Info</span> 
+        <a href="/setup/git/">
+        <span>Git/GitHub</span> 
         
         </a></li>
      
@@ -276,11 +341,11 @@
  
   
     
-      <li data-nav-id="/setup/git/" class="dd-item
+      <li data-nav-id="/setup/anaconda/" class="dd-item
      
       ">
-        <a href="/setup/git/">
-        <span>Git</span> 
+        <a href="/setup/anaconda/">
+        <span>Anaconda</span> 
         
         </a></li>
      
@@ -536,7 +601,7 @@
 
 
 
- <a href='/'>Fall 2017 Technology Fundamentals for Business Analytics</a> > Computer Setup
+ <a href='/'>RPI Analytics Dojo</a> > Computer Setup
 
  
 
@@ -545,22 +610,7 @@
             </div>
             <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#step-1-install-github-desktop-or-if-git-user-can-skip-to-next">Step 1: Install Github Desktop (or if git user can skip to next)</a></li>
-<li><a href="#step-2-install-and-configure-anaconda">Step 2: Install and Configure Anaconda</a></li>
-<li><a href="#osx">OSX</a></li>
-<li><a href="#windows">Windows</a></li>
-<li><a href="#linux">Linux</a></li>
-<li><a href="#advanced-configuration">Advanced Configuration</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
+
     </div>
 </div>
 
@@ -575,87 +625,13 @@
 
 
 
-
-
 <p>Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.</p>
 
 <p>We will be testing this semester a online JupyterHub instance, but the idea is to have this primarily for in-class exercises.</p>
 
 <p>Please feel free to post issues on the Slack channel.</p>
 
-<h3 id="step-1-install-github-desktop-or-if-git-user-can-skip-to-next">Step 1: Install Github Desktop (or if git user can skip to next)</h3>
-
-<p>Install Github desktop if using OSX or Windows.</p>
-
-<p><a href="https://desktop.github.com/">Click here for download instructions for Github Desktop</a>.</p>
-
-<h3 id="step-2-install-and-configure-anaconda">Step 2: Install and Configure Anaconda</h3>
-
-<p>We will be using Anaconda to provide a Jupyter environment for both R and Python.</p>
-
-<p>Follow the following instructions to install Anaconda from <a href="https://www.continuum.io/">Continuum Analytics</a>.
-<a href="#osx">OSX</a>
-<a href="#windows">Windows</a>
-<a href="#linux">Linux</a></p>
-
-<p>Once you have the Anaconda Distribution, follow below for <a href="#advanced-configuration">advanced configuration</a>.</p>
-
-<h3 id="osx">OSX</h3>
-
-<ol>
-<li>Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/mac-os">install the Anaconda Distribution with Python 3.6</a></li>
-<li>Follow below for <a href="#advanced-configuration">advanced configuration</a>.</li>
-</ol>
-
-<h3 id="windows">Windows</h3>
-
-<p>Windows may often have issues associated with installation if you have had previous versions of Anaconda installed.  If it doesn&rsquo;t work, start by uninstalling everything</p>
-
-<ol>
-<li>Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/windows">install the Anaconda Distribution with Python 3.6</a></li>
-<li>Follow below for <a href="#advanced-configuration">advanced configuration</a>.</li>
-</ol>
-
-<h3 id="linux">Linux</h3>
-
-<p>If you are a Linux user, please help in supporting the class. You likely won&rsquo;t need my help. ;)
-1. Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/linux">install the Anaconda Distribution with Python 3.6</a>
-2. Follow below for <a href="#advanced-configuration">advanced configuration</a>.</p>
-
-<h3 id="advanced-configuration">Advanced Configuration</h3>
-
-<p>(a.) Clone the <a href="https://github.com/jkuruzovich/techfundamentals-fall2017-materials">class repository</a> either from the desktop tool or from the command line.</p>
-
-<p>From the Github tool:
-<img src="clone.png" alt="clone" /></p>
-
-<p>From the command line:</p>
-
-<pre><code>$ git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
-</code></pre>
-
-<p>(b.) From the command line change directories to the <code>techfundamentals-fall2017-materials</code> folder.</p>
-
-<pre><code>$ cd techfundamentals-fall2017-materials
-</code></pre>
-
-<p>Or from the Github Application right click on the repository name and click <code>Open in Terminal.</code>
-<img src="terminal.png" alt="clone" /></p>
-
-<p>(c.) Install the new Conda environment using the following command:</p>
-
-<pre><code>$ conda env create -f environment.yml
-</code></pre>
-
-<p>(d.) Activate the environment using the following command:</p>
-
-<pre><code>$ source activate ad
-</code></pre>
-
-<p>(e.) Launch a Jupyter notebook with the command:</p>
-
-<pre><code>$ jupyter notebook
-</code></pre>
+<p>Follow the instructions to install <a href="/setup/git/">git/GitHub Desktop</a> and <a href="/setup/anaconda">Anaconda</a>.</p>
 
 
 <footer class=" footline" >
@@ -709,6 +685,188 @@
 
                     
                     
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
                     
 
                     
@@ -792,154 +950,6 @@
             
         
                     
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
             
             
@@ -966,10 +976,10 @@
 
 
         
-            <a class="nav nav-prev" href="/syllabus/assignments/" title="Assignments"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/mgmt6963/assignments/" title="Assignments"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/setup/contact/" title="Contact Info" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/setup/git/" title="Git/GitHub" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 

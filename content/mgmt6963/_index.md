@@ -1,9 +1,12 @@
 +++
-title = "Syllabus"
+title = "MGMT6963-Tech Fundamentals"
 description = ""
 weight = 1
 alwaysopen = true
 +++
+## Technology Fundamentals for Business Analytics (MGMT6963-Fall2017)
+
+
 ### IMPORTANT INFORMATION:
 
 * **When:** Lectures Monday Evenings from 6:00 PM to 8:50 PM
@@ -20,7 +23,7 @@ The goal of this course will be to provide the technical foundation to enable st
 
 ### STUDENT LEARNING OUTCOMES  
 
-Through this course you are expected to:
-(1)	Demonstrate an understanding of analytics based problem solving and analytics thinking.
-(2)	Be able to extract, match, transform, and clean data from a variety of sources.
-(3)	Conduct structured statistical analyses to answer business related questions.
+Through this course you are expected to: <br>
+(1)	Demonstrate an understanding of analytics based problem solving and analytics thinking.<br>
+(2)	Be able to extract, match, transform, and clean data from a variety of sources. <br>
+(3)	Conduct structured statistical analyses to answer business related questions.<br>

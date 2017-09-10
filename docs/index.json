@@ -126,11 +126,18 @@
 	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Big Data  Mining Massive Datasets  "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/data8-rpi/",
+	"title": "Data 8 @ Rensselaer",
+	"tags": [],
+	"description": "",
+	"content": " Data 8 @ Rensselaer Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\nThe goal would be to resource the class with at least 2 instructors and a reasonable student to TA ratio. Additional IT infrastructure staff, potentially provided by RCOS, will also be needed.\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/",
 	"title": "RPI Analytics Dojo",
 	"tags": [],
 	"description": "Technology and Infrastructure for Teaching Data &amp; Computation Courses",
-	"content": " Current Courses: Technology Fundamentals for Business Analytics (MGMT6963-Fall2017)\n"
+	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (MGMT6963-Fall2017)\nCourse Proposal: Data 8 @ Rensselaer\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/_header/",

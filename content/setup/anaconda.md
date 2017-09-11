@@ -37,8 +37,18 @@ If you are a Linux user, please help in supporting the class. You likely won't n
 (b.) Change directories to the `techfundamentals-fall2017-materials` folder you cloned earlier.
 
 ```
-$ cd <insert full path >\techfundamentals-fall2017-materials
+cd <insert full path >\techfundamentals-fall2017-materials
 ```
+For the above, changing directories differs for Windows or Mac users. For example, on a Mac it might be:
+```
+cd /Users/jasonkuruzovich/githubdesktop/techfundamentals-fall2017-materials
+```
+On Windows, if you have a space somewhere in your path make sure that you include quotes:
+
+```
+cd "c:\Users\jasonkuruzovich\github\techfundamentals-fall2017-materials"
+```
+
 
 (b.) create a new environment
 ```
@@ -47,10 +57,10 @@ $ conda env create -f environment.yml
 
 (c.) Now we can activate the new AD environment. If you shut down your terminal you will have to do this each time.
 ```
-$ source activate ad
+source activate ad
 ```
 
 (d.) Launch a Jupyter notebook with the command:
 ```
-$ jupyter notebook
+jupyter notebook
 ```

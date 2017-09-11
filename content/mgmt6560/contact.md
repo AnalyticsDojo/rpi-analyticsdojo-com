@@ -15,7 +15,7 @@ Jason Kuruzovich (Instructor)
 Lianlian (Dorothy) Jiang  (Teaching Assistant)
 
   * [Slack](@Lianlian_Jiang) (preferred)
-  * Email: Jiangl - at - rpi.edu
+  * Email: Jiangl4 - at - rpi.edu
   * Office Location: 2226 Pittsburgh
 
 **Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.**

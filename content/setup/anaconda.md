@@ -32,14 +32,13 @@ If you are a Linux user, please help in supporting the class. You likely won't n
 
 ### Advanced Configuration
 
-(a.) Change directories to the `techfundamentals-fall2017-materials` folder you cloned earlier.
+(a.) Windows users, open an 'Anaconda Prompt'.  Mac/Linux users open a standard terminal.
+
+(b.) Change directories to the `techfundamentals-fall2017-materials` folder you cloned earlier.
 
 ```
 $ cd <insert full path >\techfundamentals-fall2017-materials
 ```
-
-Or from the Github Application right click on the repository name and click `Open in Terminal.`
-![clone](terminal.png)
 
 (b.) create a new environment
 ```

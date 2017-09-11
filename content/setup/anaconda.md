@@ -52,7 +52,7 @@ cd "c:\Users\jasonkuruzovich\github\techfundamentals-fall2017-materials"
 
 (b.) create a new environment
 ```
-$ conda env create -f environment.yml
+conda create --name ad python=3 anaconda
 ```
 
 (c.) Now we can activate the new AD environment. If you shut down your terminal you will have to do this each time.
@@ -64,3 +64,4 @@ source activate ad
 ```
 jupyter notebook
 ```
+You will need to run c-d each time to launch Jupyter.

@@ -50,18 +50,13 @@ cd "c:\Users\jasonkuruzovich\github\techfundamentals-fall2017-materials"
 ```
 
 
-(b.) create a new environment
-```
-conda create --name ad python=3 anaconda
-```
-
-(c.) Now we can activate the new AD environment. If you shut down your terminal you will have to do this each time.
-```
-source activate ad
-```
-
-(d.) Launch a Jupyter notebook with the command:
+(b.) Launch a Jupyter notebook with the command:
 ```
 jupyter notebook
 ```
 You will need to run c-d each time to launch Jupyter.
+
+*There may be some packages you still have to install.  You will know this is an issue if an `import` command fails.  You can install packages with:
+```
+conda install <packagename>
+```

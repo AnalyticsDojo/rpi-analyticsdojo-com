@@ -13,7 +13,7 @@
 
 ## Office Hours and Contact Information
 Jason Kuruzovich (Instructor)    
-- Email: kuruzj - at - rpi.edu [Prefer contact via Slack](http://piazza.com/rpi/fall2016/mgmt6963)
+- Email: kuruzj - at - rpi.edu [Prefer contact via Slack](http://piazza.com/rpi/fall2016/mgmt6560)
 - Office Hours:  Thursday 9:30 - 12:00 and by appointment *If office hours get crowded I'll be in SA lounge.*  This may be adjusted if results of class survey suggest it.
 - Office Location: Pittsburgh 4108 (Located in the Severino Center)
 

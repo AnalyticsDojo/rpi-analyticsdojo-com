@@ -24,4 +24,4 @@ This class is to discuss the broader issues of data analytics, the approach of t
 
 
 #### Assignment (due the second Wednesday following class by 11:59 PM):
-- Homework 1. More details on the homework assignment process can be found [here](/mgmt6963/assignments/). The link to accept the assignment is [here ](https://classroom.github.com/a/J4JB1fpn).
+- Homework 1. More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The link to accept the assignment is [here ](https://classroom.github.com/a/J4JB1fpn).

@@ -2,14 +2,9 @@
 title = "Data 8 @ Rensselaer"
 description = ""
 weight = 20
-
-
 +++
 
-![](/images/dojo.png)
 
-
-## Data 8 @ Rensselaer
 Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.
 
 For the [Data 8 class](http://data8.org), the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure ([online textbook](https://www.inferentialthinking.com), [auto-grader](https://okpy.org), [Jupyter-based cloud computing infrastructure for data science](https://github.com/jupyterhub/zero-to-jupyterhub-k8s)) created the worlds largest data science class.

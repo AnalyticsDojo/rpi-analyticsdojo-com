@@ -7,9 +7,9 @@ alwaysopen = true
 
 |    | Date  | Readings/Content/Assignments                                     |
 |:---|:------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1  | 9-11  | **The Rise of Analytics** <br> This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.<br>[more](/mgmt6963/classes/class1/) <br> [*Homework 1 Released (Due 9-20)*](/mgmt6963/classes/class1/) |
-| 2  | 9-18  | **Data Fundamentals and Introduction to Python** <br>This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python.                    <br>[more](/mgmt6963/classes/class2/) <br> Homework 2 Released <br>                                     |
-| 3  | 9-25  | **Data Fundamentals and Introduction to Python** (continued) <br>  more <br>                                                                                                                                  |
+| 1  | 9-11  | **The Rise of Analytics** <br> This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.<br>[more](/mgmt6560/classes/class1/) <br> [*Homework 1 Released (Due 9-20)*](/mgmt6560/classes/class1/) |
+| 2  | 9-18  | **Data Fundamentals and Introduction to Python** <br>This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python.                    <br>[more](/mgmt6560/classes/class2/) <br> Homework 2 Released <br>                                     |
+| 3  | 9-25  | **Data Fundamentals and Introduction to Python** (continued) <br>  more <br>                                                                                                                                |
 | 4  | 10-2  | **Intro to R** <br> [more](#class-4) <br>                                                                                                                                                                                                  |
 |    | 10-9  | *Columbus Day - No Class*                                                                                                                                                                                                                                       |
 | 5  | 10-10 | *(Tuesday)* **Intro to R** (continued) <br> [more](#class-5) [Homework 5 Released]                                                                                                                                                                              |
@@ -23,3 +23,6 @@ alwaysopen = true
 | 13 | 12-4  | **Introduction to Deep Learning**  <br> [more](#class-13)                                                                                                                                                                                                       |
 | 14 | 12-11 | **Presentations **                                                                                                                                                                                                                                              |
 | 15 | TBD** | Final Exam  <br> [more](#final)
+
+
+**Note. In person attendance at the final is manditory.  Do not make plane reservations until it is determined.

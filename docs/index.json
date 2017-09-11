@@ -1,20 +1,20 @@
 [
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/class1/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schdule/class1/",
 	"title": "Class 1",
 	"tags": [],
 	"description": "",
 	"content": " Class 1 Course Overview \u0026amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps). Create a Slack account for the classroom Slack channel. We will use this for the majority of communications. Fill out this survey. Install Git, Github Desktop, and Anaconda (with Python 3.6). More detailed configuration instructions will be provided Monday but if you can get started with these that would be great. Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  In Class Activities:  Presentation. We\u0026rsquo;ll demonstrate Github Desktop, git, Jupyter, and get you started with some Python.  Assignment (due the second Wednesday following class by 11:59 PM):  Homework 1. More details on the homework assignment process can be found here. The link to accept the assignment is here .  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/",
-	"title": "MGMT6963-Tech Fundamentals",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/",
+	"title": "MGMT6560-Tech Fundamentals",
 	"tags": [],
 	"description": "",
-	"content": " Technology Fundamentals for Business Analytics (MGMT6963-Fall2017) IMPORTANT INFORMATION:  When: Lectures Monday Evenings from 6:00 PM to 8:50 PM Where: PITTS 4114\n  COURSE DESCRIPTION: The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods and processes of business analytics. We will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.\nCOURSE GOALS/OBJECTIVES The goal of this course will be to provide the technical foundation to enable students to become data scientists.\nSTUDENT LEARNING OUTCOMES Through this course you are expected to: (1) Demonstrate an understanding of analytics based problem solving and analytics thinking.\n(2) Be able to extract, match, transform, and clean data from a variety of sources. (3) Conduct structured statistical analyses to answer business related questions.\n"
+	"content": " Technology Fundamentals for Business Analytics (MGMT6560-Fall2017) IMPORTANT INFORMATION:  When: Lectures Monday Evenings from 6:00 PM to 8:50 PM Where: PITTS 4114  COURSE DESCRIPTION: The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods and processes of business analytics. We will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.\nCOURSE GOALS/OBJECTIVES The goal of this course will be to provide the technical foundation to enable students to become data scientists.\nSTUDENT LEARNING OUTCOMES Through this course you are expected to: (1) Demonstrate an understanding of analytics based problem solving and analytics thinking.\n(2) Be able to extract, match, transform, and clean data from a variety of sources. (3) Conduct structured statistical analyses to answer business related questions.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/class2/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schdule/class2/",
 	"title": "Class 2",
 	"tags": [],
 	"description": "",
@@ -28,7 +28,7 @@
 	"content": "Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.\nWe will be testing this semester a online JupyterHub instance, but the idea is to have this primarily for in-class exercises.\nPlease feel free to post issues on the Slack channel.\nFollow the instructions to install git/GitHub Desktop and Anaconda.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/contact/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/contact/",
 	"title": "Contact Info",
 	"tags": [],
 	"description": "",
@@ -56,7 +56,7 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/office/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],
 	"description": "",
@@ -70,11 +70,11 @@
 	"content": " Linear Digressions  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/schdule/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schdule/",
 	"title": "Schedule",
 	"tags": [],
 	"description": "",
-	"content": "    Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nmore Homework 1 Released (Due 9-20)   2 9-18 Data Fundamentals and Introduction to Python This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python. more Homework 2 Released    3 9-25 Data Fundamentals and Introduction to Python (continued) more    4 10-2 Intro to R more     10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) more [Homework 5 Released]   6 10-16 Intro to Visualization more   7 10-23 Data Munging more   8 10-30 Midterm more   9 11-6 Introduction to Modeling I more   10 11-13 Introduction to Modeling II more   11 11-20 **Text Mining and Unstructured Data ** more   12 11-27 Introduction to Big Data more   13 12-4 Introduction to Deep Learning more   14 12-11 **Presentations **   15 TBD** Final Exam more    "
+	"content": "    Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nmore Homework 1 Released (Due 9-20)   2 9-18 Data Fundamentals and Introduction to Python This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python. more Homework 2 Released    3 9-25 Data Fundamentals and Introduction to Python (continued) more    4 10-2 Intro to R more     10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) more [Homework 5 Released]   6 10-16 Intro to Visualization more   7 10-23 Data Munging more   8 10-30 Midterm more   9 11-6 Introduction to Modeling I more   10 11-13 Introduction to Modeling II more   11 11-20 **Text Mining and Unstructured Data ** more   12 11-27 Introduction to Big Data more   13 12-4 Introduction to Deep Learning more   14 12-11 **Presentations **   15 TBD** Final Exam more    **Note. In person attendance at the final is manditory. Do not make plane reservations until it is determined.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/git/",
@@ -84,7 +84,7 @@
 	"content": " Pro Git\n Codeschool Git Class\n Learning about Branches\n Explaining Git with D3\n Understanding the Git Flow\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/grading/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/grading/",
 	"title": "Grading",
 	"tags": [],
 	"description": "",
@@ -105,7 +105,7 @@
 	"content": " Step 2: Install and Configure Anaconda We will be using Anaconda to provide a Jupyter environment for both R and Python.\nFollow the following instructions to install Anaconda from Continuum Analytics. OSX Windows Linux\nOnce you have the Anaconda Distribution, follow below for advanced configuration.\nOSX  Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Windows Windows may often have issues associated with installation if you have had previous versions of Anaconda installed. If it doesn\u0026rsquo;t work, start by uninstalling everything\n Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Linux If you are a Linux user, please help in supporting the class. You likely won\u0026rsquo;t need my help. ;) 1. Follow the online instructions to install the Anaconda Distribution with Python 3.6 2. Follow below for advanced configuration.\nAdvanced Configuration (a.) Change directories to the techfundamentals-fall2017-materials folder you cloned earlier.\n$ cd \u0026lt;insert full path \u0026gt;\\techfundamentals-fall2017-materials  Or from the Github Application right click on the repository name and click Open in Terminal. (b.) create a new environment\n$ conda env create -f environment.yml  (c.) Now we can activate the new AD environment. If you shut down your terminal you will have to do this each time.\n$ source activate ad  (d.) Launch a Jupyter notebook with the command:\n$ jupyter notebook  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6963/assignments/",
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/assignments/",
 	"title": "Assignments",
 	"tags": [],
 	"description": "",
@@ -130,14 +130,14 @@
 	"title": "Data 8 @ Rensselaer",
 	"tags": [],
 	"description": "",
-	"content": " Data 8 @ Rensselaer Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\nThe goal would be to resource the class with at least 2 instructors and a reasonable student to TA ratio. Additional IT infrastructure staff, potentially provided by RCOS, will also be needed.\n"
+	"content": "Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\nThe goal would be to resource the class with at least 2 instructors and a reasonable student to TA ratio. Additional IT infrastructure staff, potentially provided by RCOS, will also be needed.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/",
 	"title": "RPI Analytics Dojo",
 	"tags": [],
 	"description": "Technology and Infrastructure for Teaching Data &amp; Computation Courses",
-	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (MGMT6963-Fall2017)\nCourse Proposal: Data 8 @ Rensselaer\n"
+	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (MGMT6560-Fall2017)\nCourse Proposal: Data 8 @ Rensselaer\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/_header/",

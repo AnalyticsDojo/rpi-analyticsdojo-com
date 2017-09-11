@@ -157,12 +157,12 @@
  
   
     
-    <li data-nav-id="/mgmt6560/schdule/" class="dd-item 
+    <li data-nav-id="/mgmt6560/schedule/" class="dd-item 
         
         
         parent
         ">
-      <a href="/mgmt6560/schdule/">
+      <a href="/mgmt6560/schedule/">
         <span>Schedule</span>
 
         
@@ -191,10 +191,10 @@
  
   
     
-      <li data-nav-id="/mgmt6560/schdule/class1/" class="dd-item
+      <li data-nav-id="/mgmt6560/schedule/class1/" class="dd-item
      
       ">
-        <a href="/mgmt6560/schdule/class1/">
+        <a href="/mgmt6560/schedule/class1/">
         <span>Class 1</span> 
         
         </a></li>
@@ -211,10 +211,10 @@
  
   
     
-      <li data-nav-id="/mgmt6560/schdule/class2/" class="dd-item
+      <li data-nav-id="/mgmt6560/schedule/class2/" class="dd-item
      
       ">
-        <a href="/mgmt6560/schdule/class2/">
+        <a href="/mgmt6560/schedule/class2/">
         <span>Class 2</span> 
         
         </a></li>
@@ -651,8 +651,10 @@
 <ul>
 <li><a href="#step-1-accept-the-assignment">Step 1: Accept the Assignment</a></li>
 <li><a href="#step-2-clone-the-private-repository">Step 2: Clone the private repository</a></li>
-<li><a href="#step-3-commit-your-changes-to-the-repository">Step 3: Commit your changes to the repository.</a></li>
-<li><a href="#step-4-verify-your-code">Step 4: Verify your code.</a></li>
+<li><a href="#step-3-add-your-changes">Step 3: Add your changes.</a></li>
+<li><a href="#step-4-commit-your-changes">Step 4: Commit your changes.</a></li>
+<li><a href="#step-5-push-your-changes">Step 5: Push your changes.</a></li>
+<li><a href="#step-6-verify-your-code">Step 6: Verify your code.</a></li>
 </ul></li>
 </ul></li>
 </ul></li>
@@ -698,13 +700,42 @@
 <li>Clone the repository using whatever development environment you are using. You should be able to see the repository URL on <a href="http://github.com">github.com</a>.</li>
 </ul>
 
-<h4 id="step-3-commit-your-changes-to-the-repository">Step 3: Commit your changes to the repository.</h4>
+<pre><code>git clone &lt;insert repository name here&gt;
+</code></pre>
+
+<h4 id="step-3-add-your-changes">Step 3: Add your changes.</h4>
 
 <ul>
-<li>Add and commit your changes using the command line or GitHub Desktop.  Push your changes (sync/publish on the Desktop) to the GitHub repository.</li>
+<li>Add your changes to the repository using the command line or GitHub Desktop.</li>
 </ul>
 
-<h4 id="step-4-verify-your-code">Step 4: Verify your code.</h4>
+<p>To add all changed files:</p>
+
+<pre><code>git add -A
+</code></pre>
+
+<p>To add a single file:</p>
+
+<pre><code>git add &lt;filename&gt;
+</code></pre>
+
+<h4 id="step-4-commit-your-changes">Step 4: Commit your changes.</h4>
+
+<ul>
+<li><p>Add your changes to the repository using the command line or GitHub Desktop.</p>
+
+<pre><code>git commit -m &quot;insert your commit message here&quot;
+</code></pre>
+
+<h4 id="step-5-push-your-changes">Step 5: Push your changes.</h4></li>
+
+<li><p>Push your changes to the remote repository.</p>
+
+<pre><code>git push
+</code></pre></li>
+</ul>
+
+<h4 id="step-6-verify-your-code">Step 6: Verify your code.</h4>
 
 <ul>
 <li>At the time the homework is due the final code in the repository will be tagged as the submissions and future commits won&rsquo;t be evaluated.  View your repository on <a href="https://github.com">GitHub</a> and make sure that all of your commits have been pushed.</li>

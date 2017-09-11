@@ -13,20 +13,20 @@
     
     <item>
       <title>Class 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schdule/class1/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schdule/class1/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class1/</guid>
       <description>Class 1 Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
 Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps).</description>
     </item>
     
     <item>
       <title>Class 2</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schdule/class2/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schdule/class2/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class2/</guid>
       <description>Class 2 Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.
 Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarly be focusing on techniques and practices related to data science.</description>
     </item>

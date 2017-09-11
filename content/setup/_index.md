@@ -14,7 +14,7 @@ In describing options, there are *cloud* and *laptop* based ways of doing the ex
 ## Cloud
 A cloud based way of doing data science doesn't require you to install anything and you can be up and running in working with concepts asap.
 
-### Our Cloud
+### Our Cloud: lab.analyticsdojo.com
 For the cloud instance at [lab.analyticsdojo.com](http://lab.analyticsdojo.com), there is some cool technology that is driving this. We are utilizing [Kubernetes](https://kubernetes.io) on the Google Cloud Platform to run Jupyterhub.  This is based on some amazing work by a talented community of open source developers.
 
 When someone logs into the platform, the students obtain their own *container* to run on, giving them access to a compute environment that is much more flexible than a typical brower.
@@ -22,9 +22,9 @@ When someone logs into the platform, the students obtain their own *container* t
 ##Laptop
 When running on your laptop, there are 2 different configuration options that that are possible.
 
-For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with
+For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase 
 
-It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment.   
+It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment.
 
 
 

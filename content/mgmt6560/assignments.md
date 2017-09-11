@@ -20,10 +20,35 @@ The advantage to this is that you will be learning to work with real tools while
 #### Step 2: Clone the private repository
 - Clone the repository using whatever development environment you are using. You should be able to see the repository URL on [github.com](http://github.com).
 
-#### Step 3: Commit your changes to the repository.
-- Add and commit your changes using the command line or GitHub Desktop.  Push your changes (sync/publish on the Desktop) to the GitHub repository.
+```
+git clone <insert repository name here>
+```
 
-#### Step 4: Verify your code.
+
+#### Step 3: Add your changes.
+- Add your changes to the repository using the command line or GitHub Desktop.
+
+To add all changed files:
+```
+git add -A
+```
+To add a single file:
+```
+git add <filename>
+```
+
+#### Step 4: Commit your changes.
+- Add your changes to the repository using the command line or GitHub Desktop.
+```
+git commit -m "insert your commit message here"
+```
+#### Step 5: Push your changes.
+- Push your changes to the remote repository.
+```
+git push
+```
+
+#### Step 6: Verify your code.
 - At the time the homework is due the final code in the repository will be tagged as the submissions and future commits won't be evaluated.  View your repository on [GitHub](https://github.com) and make sure that all of your commits have been pushed.
 
 **I've put together a Jupyter Notebook we will use in class to go over the basics of git.  In addition, there are a number of resources posted to the [git resources tab](resources/git/). Post to the #homeworks tab on Slack.**

@@ -23,7 +23,7 @@ From the Github tool:
 
 From the command line:
 ```
-$ git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
+git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
 ```
 
 (6) In the future when you want to update the repository, you can do so either from the command line or the GitHub Desktop tool.

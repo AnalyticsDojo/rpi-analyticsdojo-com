@@ -19,3 +19,22 @@ The goal of this class is to introduce you to some of the foundational aspects o
 
 #### Assignment (due the second Wednesday following class by 11:59 PM):
 - Homework 2. More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The link to accept the assignment is [here ](https://classroom.github.com/a/9fXCTWwC).
+
+#### In Class Activities:
+- [Presentation](https://www.dropbox.com/s/84opk3uo3cyxxwg/02-data.pptx?dl=0).
+- Deleting and repulling your repository.
+```
+%%bash
+rm -rf techfundamentals-fall2017-materials
+git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
+```
+
+- Updating your repository. (Run from within repository).
+```
+%%bash
+git stash -u
+git pull
+```
+
+#### Assignment (due the second Wednesday following class by 11:59 PM):
+- Homework 2. More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The link to accept the assignment is [here ](https://classroom.github.com/a/9fXCTWwC).

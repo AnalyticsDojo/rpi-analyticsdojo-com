@@ -56,6 +56,13 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/",
+	"title": "Class 3",
+	"tags": [],
+	"description": "",
+	"content": " Class 3 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax.\nReadings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],

@@ -71,11 +71,15 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/proposals/self-driving-rc/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/resources/books/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/data8-rpi/</loc>
+    <loc>http://rpi.analyticsdojo.com/proposals/data8/</loc>
   </url>
   
   <url>
@@ -89,6 +93,11 @@
   
   <url>
     <loc>http://rpi.analyticsdojo.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/proposals/</loc>
     <priority>0</priority>
   </url>
   

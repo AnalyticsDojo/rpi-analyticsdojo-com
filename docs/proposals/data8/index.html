@@ -7,7 +7,7 @@
     <meta name="description" content="">
 
 
-    <title>Anaconda :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title>Data 8 @ Rensselaer :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link href="/css/nucleus.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     
 
   </head>
-  <body class="" data-url="/setup/anaconda/">
+  <body class="" data-url="/proposals/data8/">
     <nav id="sidebar" class="">
 
 
@@ -288,7 +288,7 @@
   
     
     <li data-nav-id="/setup/" class="dd-item 
-        parent
+        
         
         parent
         ">
@@ -342,7 +342,7 @@
   
     
       <li data-nav-id="/setup/anaconda/" class="dd-item
-     active
+     
       ">
         <a href="/setup/anaconda/">
         <span>Anaconda</span> 
@@ -530,7 +530,7 @@
   
     
     <li data-nav-id="/proposals/" class="dd-item 
-        
+        parent
         
         
         ">
@@ -541,7 +541,7 @@
         
 
           
-            <i class="fa fa-angle-right fa-lg category-icon"></i>
+            <i class="fa fa-angle-down fa-lg category-icon"></i>
           
 
         
@@ -584,7 +584,7 @@
   
     
       <li data-nav-id="/proposals/data8/" class="dd-item
-     
+     active
       ">
         <a href="/proposals/data8/">
         <span>Data 8 @ Rensselaer</span> 
@@ -685,7 +685,7 @@
 
 
 
- <a href='/'>RPI Analytics Dojo</a> > <a href='/setup/'>Compute Environment</a> > Anaconda
+ <a href='/'>RPI Analytics Dojo</a> > <a href='/proposals/'>Proposals</a> > Data 8 @ Rensselaer
 
  
 
@@ -696,21 +696,7 @@
             </div>
             <div class="progress">
     <div class="wrapper">
-<nav id="TableOfContents">
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li><a href="#step-2-install-and-configure-anaconda">Step 2: Install and Configure Anaconda</a></li>
-<li><a href="#osx">OSX</a></li>
-<li><a href="#windows">Windows</a></li>
-<li><a href="#linux">Linux</a></li>
-<li><a href="#advanced-configuration">Advanced Configuration</a></li>
-</ul></li>
-</ul></li>
-</ul>
-</nav>
+
     </div>
 </div>
 
@@ -719,77 +705,25 @@
         
         <div id="body-inner">
           
-            <h1>Anaconda</h1>
+            <h1>Data 8 @ Rensselaer</h1>
           
 
 
 
 
+<p>Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.</p>
 
+<p>For the <a href="http://data8.org">Data 8 class</a>, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (<a href="https://www.inferentialthinking.com">online textbook</a>, <a href="https://okpy.org">auto-grader</a>, <a href="https://github.com/jupyterhub/zero-to-jupyterhub-k8s">Jupyter-based cloud computing infrastructure for data science</a>) created the worlds largest data science class.</p>
 
-<h3 id="step-2-install-and-configure-anaconda">Step 2: Install and Configure Anaconda</h3>
+<p><strong>This proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.</strong></p>
 
-<p>We will be using Anaconda to provide a Jupyter environment for both R and Python.</p>
+<p>This course integrates programming, statistics, and analysis in a single course using the Python programming language.</p>
 
-<p>Follow the following instructions to install Anaconda from <a href="https://www.continuum.io/">Continuum Analytics</a>.
-<a href="#osx">OSX</a>
-<a href="#windows">Windows</a>
-<a href="#linux">Linux</a></p>
+<p>Sharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard&rsquo;s popular introductory CS course-was the most popular course at Yale last year.</p>
 
-<p>Once you have the Anaconda Distribution, follow below for <a href="#advanced-configuration">advanced configuration</a>.</p>
+<p>Bringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the <a href="http://data.berkeley.edu/topics/connector-courses">Connector Courses</a> model but be aligned with the Unique offerings of Rensselaer.</p>
 
-<h3 id="osx">OSX</h3>
-
-<ol>
-<li>Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/mac-os">install the Anaconda Distribution with Python 3.6</a></li>
-<li>Follow below for <a href="#advanced-configuration">advanced configuration</a>.</li>
-</ol>
-
-<h3 id="windows">Windows</h3>
-
-<p>Windows may often have issues associated with installation if you have had previous versions of Anaconda installed.  If it doesn&rsquo;t work, start by uninstalling everything</p>
-
-<ol>
-<li>Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/windows">install the Anaconda Distribution with Python 3.6</a></li>
-<li>Follow below for <a href="#advanced-configuration">advanced configuration</a>.</li>
-</ol>
-
-<h3 id="linux">Linux</h3>
-
-<p>If you are a Linux user, please help in supporting the class. You likely won&rsquo;t need my help. ;)
-1. Follow the online instructions to <a href="https://docs.continuum.io/anaconda/install/linux">install the Anaconda Distribution with Python 3.6</a>
-2. Follow below for <a href="#advanced-configuration">advanced configuration</a>.</p>
-
-<h3 id="advanced-configuration">Advanced Configuration</h3>
-
-<p>(a.) Windows users, open an &lsquo;Anaconda Prompt&rsquo;.  Mac/Linux users open a standard terminal.</p>
-
-<p>(b.) Change directories to the <code>techfundamentals-fall2017-materials</code> folder you cloned earlier.</p>
-
-<pre><code>cd &lt;insert full path &gt;\techfundamentals-fall2017-materials
-</code></pre>
-
-<p>For the above, changing directories differs for Windows or Mac users. For example, on a Mac it might be:</p>
-
-<pre><code>cd /Users/jasonkuruzovich/githubdesktop/techfundamentals-fall2017-materials
-</code></pre>
-
-<p>On Windows, if you have a space somewhere in your path make sure that you include quotes:</p>
-
-<pre><code>cd &quot;c:\Users\jasonkuruzovich\github\techfundamentals-fall2017-materials&quot;
-</code></pre>
-
-<p>(b.) Launch a Jupyter notebook with the command:</p>
-
-<pre><code>jupyter notebook
-</code></pre>
-
-<p>You will need to run c-d each time to launch Jupyter.</p>
-
-<p>*There may be some packages you still have to install.  You will know this is an issue if an <code>import</code> command fails.  You can install packages with:</p>
-
-<pre><code>conda install &lt;packagename&gt;
-</code></pre>
+<p>Following the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.</p>
 
 
 <footer class=" footline" >
@@ -966,7 +900,6 @@
             
                 
                     
-                    
                 
                 
 
@@ -979,9 +912,6 @@
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -998,7 +928,6 @@
             
             
                 
-                    
                     
                 
                 
@@ -1018,9 +947,6 @@
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -1134,6 +1060,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -1147,6 +1074,9 @@
             
                 
                     
+                        
+                        
+                    
                 
                 
 
@@ -1163,6 +1093,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -1184,10 +1115,10 @@
 
 
         
-            <a class="nav nav-prev" href="/setup/git/" title="Git/GitHub"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/proposals/self-driving-rc/" title="Autonomous RC Racing @Rensselaer"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/resources/" title="Additional Resources" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/proposals/self-driving-rc/" title="Autonomous RC Racing @Rensselaer" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 

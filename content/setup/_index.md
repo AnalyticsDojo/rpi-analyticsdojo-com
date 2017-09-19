@@ -22,9 +22,9 @@ When someone logs into the platform, the students obtain their own *container* t
 ##Laptop
 When running on your laptop, there are 2 different configuration options that that are possible.
 
-For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase 
+For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase
 
-It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment.
+It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment. This has worked perfectly in the past for Mac users and not so well for Windows users, but I understand Docker for Windows has come a long way. 
 
 
 

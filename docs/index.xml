@@ -80,8 +80,8 @@ Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</guid>
-      <description> Class 4 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and unstructured data in Python.
-Readings (To be done before class): </description>
+      <description> Class 4 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  </description>
     </item>
     
     <item>
@@ -92,16 +92,6 @@ Readings (To be done before class): </description>
       <guid>http://rpi.analyticsdojo.com/mgmt6560/office/</guid>
       <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
 This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
-    </item>
-    
-    <item>
-      <title>Class 5</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</guid>
-      <description>Class 4 Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Not that you have already started with Python, many of the concepts will map.
-Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.</description>
     </item>
     
     <item>

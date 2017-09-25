@@ -67,7 +67,7 @@
 	"title": "Class 4",
 	"tags": [],
 	"description": "",
-	"content": " Class 4 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and unstructured data in Python.\nReadings (To be done before class): "
+	"content": " Class 4 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/office/",
@@ -75,13 +75,6 @@
 	"tags": [],
 	"description": "",
 	"content": "Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\nThis class doesn\u0026rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary \u0026ldquo;Lab\u0026rdquo; time for people who are just getting started with technology. Please show up if you are having technical problems or would like more help with step by step instructions.\nLianlian (Dorothy) Jiang (Teaching Assistant) * Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment * Office/Lab Location: 2226 Pittsburgh. Please see Dorothy primarily for issues related to grading.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/",
-	"title": "Class 5",
-	"tags": [],
-	"description": "",
-	"content": " Class 4 Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Not that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.\nIn Class Activities:  Kaggle Titanic Step 2 Cortana Intelligence Gallery - Python 3 Support Intro to R Overview Links: local github slides Local Files and R Links: local github slides Azure Files and R Links: local github slides R Datastructures Links: local github slides DataFrames Links: local github slides Functions Links: local github slides Titanic Basline in R  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",

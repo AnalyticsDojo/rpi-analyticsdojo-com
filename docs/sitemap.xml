@@ -39,7 +39,15 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560/office/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</loc>
   </url>
   
   <url>
@@ -75,10 +83,6 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/proposals/self-driving-rc/</loc>
-  </url>
-  
-  <url>
     <loc>http://rpi.analyticsdojo.com/resources/books/</loc>
   </url>
   
@@ -93,6 +97,10 @@
   
   <url>
     <loc>http://rpi.analyticsdojo.com/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/proposals/self-driving-rc/</loc>
   </url>
   
   <url>

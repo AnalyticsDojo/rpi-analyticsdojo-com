@@ -7,7 +7,7 @@
     <meta name="description" content="">
 
 
-    <title>Compute Environment :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title>Class 5 :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link href="/css/nucleus.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     
 
   </head>
-  <body class="" data-url="/setup/">
+  <body class="" data-url="/mgmt6560/schedule/class5/">
     <nav id="sidebar" class="">
 
 
@@ -82,7 +82,7 @@
   
     
     <li data-nav-id="/mgmt6560/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -158,7 +158,7 @@
   
     
     <li data-nav-id="/mgmt6560/schedule/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -272,7 +272,7 @@
   
     
       <li data-nav-id="/mgmt6560/schedule/class5/" class="dd-item
-     
+     active
       ">
         <a href="/mgmt6560/schedule/class5/">
         <span>Class 5</span> 
@@ -348,8 +348,8 @@
   
     
     <li data-nav-id="/setup/" class="dd-item 
-        parent
-        active
+        
+        
         parent
         ">
       <a href="/setup/">
@@ -742,7 +742,17 @@
 
 
 
- <a href='/'>RPI Analytics Dojo</a> > Compute Environment
+
+
+
+
+
+
+ <a href='/'>RPI Analytics Dojo</a> > <a href='/mgmt6560/'>MGMT6560-Tech Fundamentals</a> > <a href='/mgmt6560/schedule/'>Schedule</a> > Class 5
+
+ 
+
+ 
 
  
 
@@ -753,11 +763,13 @@
     <div class="wrapper">
 <nav id="TableOfContents">
 <ul>
-<li>
+<li><a href="#class-4">Class 4</a>
 <ul>
-<li><a href="#cloud">Cloud</a>
+<li><a href="#introduction-to-r">Introduction to R</a>
 <ul>
-<li><a href="#our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</a></li>
+<li><a href="#class-objective">Class Objective:</a></li>
+<li><a href="#readings-to-be-done-before-class">Readings (To be done before class):</a></li>
+<li><a href="#in-class-activities">In Class Activities:</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -770,7 +782,7 @@
         
         <div id="body-inner">
           
-            <h1>Compute Environment</h1>
+            <h1>Class 5</h1>
           
 
 
@@ -778,39 +790,39 @@
 
 
 
-<p>Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.</p>
+<h1 id="class-4">Class 4</h1>
 
-<p>We will be testing this semester a online JupyterHub instance that should simplify a lot of the setup. However this is still in an alpha release and it would be good to get an alternate compute environment setup on your laptop.</p>
+<h2 id="introduction-to-r">Introduction to R</h2>
 
-<p>In describing options, there are <em>cloud</em> and <em>laptop</em> based ways of doing the exercises.</p>
+<h3 id="class-objective">Class Objective:</h3>
 
-<h2 id="cloud">Cloud</h2>
+<p>The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Not that you have already started with Python, many of the concepts will map.</p>
 
-<p>A cloud based way of doing data science doesn&rsquo;t require you to install anything and you can be up and running in working with concepts asap.</p>
+<h3 id="readings-to-be-done-before-class">Readings (To be done before class):</h3>
 
-<h3 id="our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</h3>
+<p>(1) <a href="http://r4ds.had.co.nz/introduction.html">Introduction</a>
+(2) <a href="http://r4ds.had.co.nz/workflow-basics.html">Workflow Basics</a>
+(3) From <a href="http://adv-r.had.co.nz/Data-structures.html">Data Structures</a> including Vectors, Attributes,
+Matrices, arrays, and Data frames.</p>
 
-<p>For the cloud instance at <a href="http://lab.analyticsdojo.com">lab.analyticsdojo.com</a>, there is some cool technology that is driving this. We are utilizing <a href="https://kubernetes.io">Kubernetes</a> on the Google Cloud Platform to run Jupyterhub.  This is based on some amazing work by a talented community of open source developers.</p>
+<h3 id="in-class-activities">In Class Activities:</h3>
 
-<p>When someone logs into the platform, the students obtain their own <em>container</em> to run on, giving them access to a compute environment that is much more flexible than a typical brower.</p>
-
-<p>##Laptop
-When running on your laptop, there are 2 different configuration options that that are possible.</p>
-
-<p>For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase</p>
-
-<p>It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment. This has worked perfectly in the past for Mac users and not so well for Windows users, but I understand Docker for Windows has come a long way.</p>
-
-<p>Please feel free to post issues on the Slack channel.</p>
-
-<p>Follow the instructions to install <a href="/setup/git/">git/GitHub Desktop</a> and <a href="/setup/anaconda">Anaconda</a>.</p>
+<ul>
+<li><a href="https://www.kaggle.com/analyticsdojo/titanic/kaggle-titanic-analyticsdojo/">Kaggle Titanic Step 2</a></li>
+<li><a href="https://gallery.cortanaintelligence.com/Notebook/Analyzing-PyPI-Data-to-Determine-Python-3-Support-2">Cortana Intelligence Gallery - Python 3 Support</a></li>
+<li>Intro to R Overview Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-overview.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-overview.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-overview.ipynb#/">slides</a></li>
+<li>Local Files and R  Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-localfile.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-localfile.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-localfile.ipynb#/">slides</a></li>
+<li>Azure Files and R  Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-azureml.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-azureml.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-azureml.ipynb#/">slides</a></li>
+<li>R Datastructures  Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-datastructures.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-datastructures.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-datastructures.ipynb#/">slides</a></li>
+<li>DataFrames  Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-dataframes.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-dataframes.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-dataframes.ipynb#/">slides</a></li>
+<li>Functions Links: <a href="http://localhost:8888/notebooks/classes/04-intro-r/intro-r-functions.ipynb">local</a> <a href="https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-functions.ipynb">github</a> <a href="http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/04-intro-r/intro-r-functions.ipynb#/">slides</a></li>
+<li><a href="https://www.kaggle.com/analyticsdojo/titanic/titanic-baseline-models-analyticsdojo-r">Titanic Basline in R</a></li>
+</ul>
 
 
 <footer class=" footline" >
 	
 </footer>
-
-
 
 
 
@@ -849,8 +861,6 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -866,6 +876,9 @@ When running on your laptop, there are 2 different configuration options that th
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -899,6 +912,7 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
+                    
                 
                 
 
@@ -912,21 +926,8 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
-            
-            
-                
+                        
                     
                 
                 
@@ -987,44 +988,6 @@ When running on your laptop, there are 2 different configuration options that th
             
         
                     
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
                         
             
             
@@ -1038,6 +1001,12 @@ When running on your laptop, there are 2 different configuration options that th
                     
                     
 
+                    
+            
+        
+                    
+            
+        
                     
                         
             
@@ -1122,6 +1091,54 @@ When running on your laptop, there are 2 different configuration options that th
             
         
                     
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
                         
             
             
@@ -1244,10 +1261,10 @@ When running on your laptop, there are 2 different configuration options that th
 
 
         
-            <a class="nav nav-prev" href="/mgmt6560/assignments/" title="Assignments"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/mgmt6560/schedule/class4/" title="Class 4"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/setup/git/" title="Git/GitHub" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/mgmt6560/grading/" title="Grading" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -1273,3 +1290,4 @@ When running on your laptop, there are 2 different configuration options that th
 
   </body>
 </html>
+

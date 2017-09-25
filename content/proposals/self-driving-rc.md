@@ -1,5 +1,4 @@
-+++
-title = "Autonomous RC Racing @Rensselaer"
+# Autonomous RC Racing @Rensselaer"
 description = ""
 weight = 20
 +++

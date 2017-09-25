@@ -18,7 +18,7 @@
 	"title": "Class 2",
 	"tags": [],
 	"description": "",
-	"content": " Class 2 Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarly be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step by ste introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  Assignment (due the second Wednesday following class by 11:59 PM):  Homework 2. More details on the homework assignment process can be found here. The link to accept the assignment is here .  In Class Activities:  Presentation. Deleting and repulling your repository.\n%%bash rm -rf techfundamentals-fall2017-materials git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials  Updating your repository. (Run from within repository).\n%%bash git stash -u git pull   Assignment (due the second Wednesday following class by 11:59 PM):  Homework 2. More details on the homework assignment process can be found here. The link to accept the assignment is here .  "
+	"content": " Class 2 Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarly be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step by ste introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  Presentation. Deleting and repulling your repository.\n%%bash rm -rf techfundamentals-fall2017-materials git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials  Updating your repository. (Run from within repository).\n%%bash git stash -u git pull   Assignment (due the second Wednesday following class by 11:59 PM):  Homework 2. More details on the homework assignment process can be found here. The link to accept the assignment is here .  NOTE: PLEASE IGNORE THE PANDAS QUESTIONS, WE WILL DO THOSE NEXT TIME\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/",
@@ -60,7 +60,14 @@
 	"title": "Class 3",
 	"tags": [],
 	"description": "",
-	"content": " Class 3 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax.\nReadings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  "
+	"content": " Class 3 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/",
+	"title": "Class 4",
+	"tags": [],
+	"description": "",
+	"content": " Class 4 Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and unstructured data in Python.\nReadings (To be done before class): "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/office/",
@@ -68,6 +75,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\nThis class doesn\u0026rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary \u0026ldquo;Lab\u0026rdquo; time for people who are just getting started with technology. Please show up if you are having technical problems or would like more help with step by step instructions.\nLianlian (Dorothy) Jiang (Teaching Assistant) * Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment * Office/Lab Location: 2226 Pittsburgh. Please see Dorothy primarily for issues related to grading.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/",
+	"title": "Class 5",
+	"tags": [],
+	"description": "",
+	"content": " Class 4 Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Not that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.\nIn Class Activities:  Kaggle Titanic Step 2 Cortana Intelligence Gallery - Python 3 Support Intro to R Overview Links: local github slides Local Files and R Links: local github slides Azure Files and R Links: local github slides R Datastructures Links: local github slides DataFrames Links: local github slides Functions Links: local github slides Titanic Basline in R  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
@@ -81,7 +95,7 @@
 	"title": "Schedule",
 	"tags": [],
 	"description": "",
-	"content": "    Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nmore Homework 1 Released (Due 9-20)   2 9-18 Data Fundamentals and Introduction to Python This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python. more Homework 2 Released    3 9-25 Data Fundamentals and Introduction to Python (continued) This class will continue to extend our knowledge of some basic python data structures and syntax. more    4 10-2 Intro to R more     10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R (continued) more [Homework 5 Released]   6 10-16 Intro to Visualization more   7 10-23 Data Munging more   8 10-30 Midterm more   9 11-6 Introduction to Modeling I more   10 11-13 Introduction to Modeling II more   11 11-20 **Text Mining and Unstructured Data ** more   12 11-27 Introduction to Big Data more   13 12-4 Introduction to Deep Learning more   14 12-11 **Presentations **   15 TBD** Final Exam more    **Note. In person attendance at the final is manditory. Do not make plane reservations until it is determined.\n"
+	"content": "    Date Readings/Content/Assignments     1 9-11 The Rise of Analytics This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.\nmore Homework 1 Released (Due 9-20)   2 9-18 Data Fundamentals and Introduction to Python This class will cover some of the foundational of data munging as well as provide an introduction to programming with Python. more Homework 2 Released    3 9-25 Data Fundamentals and Introduction to Python (continued) This class will continue to extend our knowledge of some basic python data structures and syntax. more         4 10-2 Introduction to APIs and Unstructured data more     10-9 Columbus Day - No Class   5 10-10 (Tuesday) Intro to R more [Homework 5 Released]   6 10-16 Intro to Visualization more   7 10-23 Data Munging more   8 10-30 Midterm more   9 11-6 Introduction to Modeling I more   10 11-13 Introduction to Modeling II more   11 11-20 **Text Mining and Unstructured Data ** more   12 11-27 Introduction to Big Data more   13 12-4 Introduction to Deep Learning more   14 12-11 **Presentations **   15 TBD** Final Exam more    **Note. In person attendance at the final is manditory. Do not make plane reservations until it is determined.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/git/",
@@ -126,13 +140,6 @@
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/proposals/self-driving-rc/",
-	"title": "Autonomous RC Racing @Rensselaer",
-	"tags": [],
-	"description": "",
-	"content": "Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nThis course integrates programming, statistics, and analysis in a single course using the Python programming language.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",
 	"title": "Books",
 	"tags": [],
@@ -159,6 +166,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/proposals/self-driving-rc/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " Autonomous RC Racing @Rensselaer\u0026rdquo; description = \u0026ldquo;\u0026rdquo; weight = 20 +++\nData literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nThis course integrates programming, statistics, and analysis in a single course using the Python programming language.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/categories/",

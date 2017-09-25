@@ -4,8 +4,6 @@ description = ""
 weight = 1
 +++
 
-## Class 1
-
 ### Course Overview & Introduction to the Data Science Lifecycle
 
 #### Class Objective:

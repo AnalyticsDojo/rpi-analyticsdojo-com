@@ -4,8 +4,6 @@ description = ""
 weight = 2
 +++
 
-## Class 2
-
 ## Data Fundamentals and Introduction to Python
 
 ### Class Objective:

@@ -1,0 +1,1 @@
+@channel Thank you for everyone who has jumped into help when I was away. I survived 4 days in the woods with 200 5th graders and was able to jump in and help some folks remotely (but not everyone). As I wasn’t available for office hours, I’d like to try to hold some virtual office hours tomorrow. Please feel free to direct message me if you are really struggling and

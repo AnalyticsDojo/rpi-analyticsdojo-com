@@ -161,9 +161,8 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/assignments/</guid>
-      <description>Labs Labs will be designed to be completed during class. However, they will be due the Friday after class.
-Homework Assignments from one class will be due the following Wednesday by 11:59 PM. This allows for an time to ask about an assignment.
-These are instructions for submitting labs and assignments lab. We will be using Github Classroom to distribute and collect all assignments. This is new for this semester so expect some bumps.</description>
+      <description>#READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. There will be a section that says &amp;ldquo;click here to accept the assignment&amp;rdquo;, where here is highlighted with the appropriate link.
+Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:</description>
     </item>
     
     <item>

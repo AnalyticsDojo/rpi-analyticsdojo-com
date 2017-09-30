@@ -71,7 +71,7 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/</guid>
       <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
-Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment (due the second Wednesday following class by 11:59 PM): - Homework 3.</description>
+Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment (due the second Wednesday following class by 11:59 PM):</description>
     </item>
     
     <item>
@@ -161,7 +161,8 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/assignments/</guid>
-      <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. There will be a section that says &amp;ldquo;click here to accept the assignment&amp;rdquo;, where here is highlighted with the appropriate link. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:</description>
+      <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
+https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
     </item>
     
     <item>

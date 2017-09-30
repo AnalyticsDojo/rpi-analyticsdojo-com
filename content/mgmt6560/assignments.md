@@ -4,8 +4,8 @@ description = ""
 weight = 10
 +++
 
-#READ THIS FIRST
-**For each assignment you must first *accept the assignment*.  The link to accept an assignment is not on this page but on the class page under the assignment heading. There will be a section that says "click here to accept the assignment", where here is highlighted with the appropriate link.**
+# READ THIS FIRST
+### **For each assignment you must first *accept the assignment*.  The link to accept an assignment is not on this page but on the class page under the assignment heading. There will be a section that says "click here to accept the assignment", where here is highlighted with the appropriate link.**
 
 Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
 

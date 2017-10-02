@@ -19,7 +19,7 @@ https://github.com/techfundamentals-fall20XX/hm-xx-<your-github-username>
 ## Homework
 Assignments from one class will be due the following Wednesday by 11:59 PM.  This allows for time to ask about an assignment.
 
-These are instructions for submitting labs and assignments lab. We will be using [Github Classroom](https://classroom.github.com) to distribute and collect all assignments.  This is new for this semester so expect some bumps.
+These are instructions for submitting labs and assignments lab. We will be using Github Classroom to distribute and collect all assignments.  This is new for this semester so expect some bumps.
 
 The advantage to this is that you will be learning to work with real tools while submitting assignments.
 

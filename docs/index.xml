@@ -80,8 +80,8 @@ Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</guid>
-      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
-Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  </description>
+      <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment (The assignment will be available by the Wednesday morning after class and due the second Thursday following class by 11:59 PM):</description>
     </item>
     
     <item>
@@ -92,6 +92,16 @@ Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Da
       <guid>http://rpi.analyticsdojo.com/mgmt6560/office/</guid>
       <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
 This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
+    </item>
+    
+    <item>
+      <title>Class 5</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</guid>
+      <description>Class 5 Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.</description>
     </item>
     
     <item>
@@ -183,8 +193,8 @@ https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/project1/</guid>
-      <description>Project 1 is Due October 13th at 11:59 PM. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploritory data analysis to modeling and evaluation.
-Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections. The following are recommended projects. If you are just getting started, I&amp;rsquo;d suggest that you stick with these.</description>
+      <description>Project 1 is Due October 13th at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
     </item>
     
     <item>

@@ -2,7 +2,6 @@
 title = "Class 5"
 description = ""
 weight = 5
-draft=true
 +++
 
 # Class 5

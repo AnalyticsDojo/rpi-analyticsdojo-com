@@ -4,10 +4,10 @@ description = ""
 weight = 12
 +++
 
-### Project 1 is Due October 13th at 11:59 PM.
+#### Project 1 is Due October 13th at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 
 ###  Project Objective
-The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploritory data analysis to modeling and  evaluation.
+The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and  evaluation.
 
 ### Project Selection
 There are a tremendous number of potential [Kaggle](https://www.kaggle.com) projects available that would make excellent selections. The following are recommended projects.  If you are just getting started, I'd suggest that you stick with these.
@@ -36,5 +36,9 @@ The description below describes an ideal project.  Projects will be evaluated su
 - *Data description and initial processing (40 points. 3 pages).* The student was able to clearly present an overall picture of the data using techniques presented in the class.  This includes basic structure field by field descriptions as well as visualization and basic statistics. Where necessary they have adequately used techniques for cleaning the data or generating new features.
 
 - *Modeling and Evaluation(30 points, 2 pages).* There is a clear insightful comparison of approaches, and he predictive characteristics of the different models are clearly compared in a table with appropriate conclusions. There are outside resources consulted in the description of specific algorithms if relevant.
+
+### Project Submission
+
+- *The project is to be submitted to the [LMS](https://lms.rpi.edu).
 
 **NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean's office and receive a 0 on the project grade.**

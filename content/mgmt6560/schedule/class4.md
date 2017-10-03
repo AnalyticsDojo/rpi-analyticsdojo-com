@@ -20,4 +20,5 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 - [Project 1](/mgmt6560/project1/)
 
 ### Assignment
-- Homework 4 (Available 10-4; Due 10-12).
+- Homework 4 (Available 10-4; Due 10-12).<br><br>
+{{< button href="https://classroom.github.com/a/qlNBhGRv" >}} Accept the Assignment {{< /button >}}

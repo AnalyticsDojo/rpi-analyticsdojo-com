@@ -21,3 +21,4 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 
 ### Assignment
 (The assignment will be available by the Wednesday morning after class and due the second Thursday following class by 11:59 PM):
+- Homework 4 (Due 10-12).

@@ -18,9 +18,8 @@ The goal of this class is to continue to extend our knowledge of some basic pyth
 - [Presentation](https://www.dropbox.com/s/n4o9u6fws3yei3a/03-python.pptx?dl=0)
 - Introduction to [Kaggle With Titanic](https://www.kaggle.com/c/titanic)
 
-### Assignment
-(due the second Wednesday following class by 11:59 PM):
+### Assignment:
 
-- Homework 3. More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
+- Homework 3 (Due 10-5). More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
 
 {{< button href="https://classroom.github.com/a/Y1khoSx1" >}} Accept the Assignment {{< /button >}}

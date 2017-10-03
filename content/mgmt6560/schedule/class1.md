@@ -21,7 +21,7 @@ This class is to discuss the broader issues of data analytics, the approach of t
 - We'll demonstrate [Github Desktop](https://desktop.github.com), git, Jupyter, and get you started with some Python.
 
 
-#### Assignment (due the second Wednesday following class by 11:59 PM):
-- Homework 1. More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
+#### Assignment:
+- Homework 1 (Due 9-20). More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
 
 {{< button href="https://classroom.github.com/a/J4JB1fpn" >}} Accept the Assignment {{< /button >}}

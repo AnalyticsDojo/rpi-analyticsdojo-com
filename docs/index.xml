@@ -71,7 +71,7 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/</guid>
       <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
-Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment (due the second Wednesday following class by 11:59 PM):</description>
+Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment:  Homework 3 (Due 10-5).</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book.
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</guid>
       <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
-Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment (The assignment will be available by the Wednesday morning after class and due the second Thursday following class by 11:59 PM):</description>
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment (The assignment will be available by the Wednesday morning after class and due the second Thursday following class by 11:59 PM): - Homework 4 (Due 10-12).</description>
     </item>
     
     <item>
@@ -193,7 +193,7 @@ https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/project1/</guid>
-      <description>Project 1 is Due October 20th at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+      <description>Project 1 is Due 10-20 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
     </item>
     

@@ -26,4 +26,4 @@ alwaysopen = true
 | 15 | 12-18 | Final Exam (6:30-9:30PM) <br> [more](#final)
 
 
-**Note. In person attendance at the final is manditory.  Do not make plane reservations until it is determined.
+**Note. In person attendance at the final is mandatory.  Do not make plane reservations until it is determined.

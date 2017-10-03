@@ -19,5 +19,5 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 - [Presentation](https://www.dropbox.com/s/a82gjffnx58updl/04-api-feature.pptx?dl=0)
 - [Project 1](/mgmt6560/project1/)
 
-### Assignment:
-- Homework 4 (Due 10-12).
+### Assignment
+- Homework 4 (Available 10-4; Due 10-12).

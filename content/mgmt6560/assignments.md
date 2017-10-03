@@ -41,14 +41,11 @@ To add all changed files via the command line, you must be in the homework direc
 ```
 cd hm-xx-<your-github-username>
 ```
-Then add the files.
+Then *you must* add the files you have changed to git. The `-A` command is telling git to add all of the files. While you could name the files directly, this is the easiest way.
 ```
 git add -A
 ```
-To add a single file:
-```
-git add <filename>
-```
+
 
 #### Step 4: Commit your changes.
 - Add your changes to the repository using the command line or GitHub Desktop.

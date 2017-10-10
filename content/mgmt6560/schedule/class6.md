@@ -1,7 +1,7 @@
 +++
-title = "Class 5"
+title = "Class 6"
 description = ""
-weight = 5
+weight = 6
 +++
 
 # Class 6
@@ -14,4 +14,4 @@ The goal of this class is to dive into a couple Kaggle projects in detail, discu
 
 ### Assignment (To be done before class):
 (1) (10 points, Due 10/16) Prepare a 3 minute powerpoint presentation that details a specific solution.  It should be just 1 slide on the problem and one slide on the solution (should include a link).
-Solutions should be ones that generate solutions to the prediction challenge. They shouldn't just be exploratory analysis. 
+Solutions should be ones that generate solutions to the prediction challenge. They shouldn't just be exploratory analysis.

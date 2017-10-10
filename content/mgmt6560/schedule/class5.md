@@ -17,3 +17,7 @@ The goal of this class is to get you familiar to using R. While we will be Jupyt
 (2) [Workflow Basics](http://r4ds.had.co.nz/workflow-basics.html)
 (3) From [Data Structures](http://adv-r.had.co.nz/Data-structures.html) including Vectors, Attributes,
 Matrices, arrays, and Data frames.
+
+### Assignment
+- Homework 5 (Due 10-19).<br><br>
+{{< button href="https://classroom.github.com/a/MN4YDGJh" >}} Accept the Assignment {{< /button >}}

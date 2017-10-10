@@ -4,17 +4,13 @@ description = ""
 weight = 5
 +++
 
-# Class 5
+# Class 6
 
-## Introduction to R
+## Project 1 Work Session
 
 ### Class Objective:
 
-The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.
 
-### Readings (To be done before class):
-(1) [Introduction](http://r4ds.had.co.nz/introduction.html)
-(2) [Workflow Basics](http://r4ds.had.co.nz/workflow-basics.html)
-(3) From [Data Structures](http://adv-r.had.co.nz/Data-structures.html) including Vectors, Attributes,
-Matrices, arrays, and Data frames.
-(4) [Install RStudio](https://www.rstudio.com/products/rstudio/download/)
+### Assignment (To be done before class):
+(1) (10 points, Due 10/16) Prepare a 3 minute powerpoint presentation that details a specific solution relevant to the [project](/mgmt6560/project1/).  It should be just 1 slide on the problem and one slide on the solution (should include a link). 

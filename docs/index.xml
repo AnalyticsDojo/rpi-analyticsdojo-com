@@ -100,8 +100,9 @@ This class doesn&amp;rsquo;t have an official lab section because of graduate st
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</guid>
-      <description>Class 5 Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
-Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.</description>
+      <description>Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.
+Assignment  Homework 5 (Due 10-19).</description>
     </item>
     
     <item>
@@ -119,7 +120,7 @@ Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) Fro
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class6/</guid>
-      <description>Class 6 Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.
+      <description>Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.
 Assignment (To be done before class): (1) (10 points, Due 10&amp;frasl;16) Prepare a 3 minute powerpoint presentation that details a specific solution. It should be just 1 slide on the problem and one slide on the solution (should include a link).</description>
     </item>
     
@@ -144,6 +145,16 @@ Assignment (To be done before class): (1) (10 points, Due 10&amp;frasl;16) Prepa
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/grading/</guid>
       <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
+    </item>
+    
+    <item>
+      <title>Class 7</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class7/</guid>
+      <description> Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
+Assignment (To be done before class):  Designing Great Visualizations Tableau getting Started  </description>
     </item>
     
     <item>
@@ -203,7 +214,7 @@ https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/project1/</guid>
-      <description>Project 1 is Due 10-20 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+      <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
     </item>
     

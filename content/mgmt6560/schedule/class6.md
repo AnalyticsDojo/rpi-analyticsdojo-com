@@ -4,8 +4,6 @@ description = ""
 weight = 6
 +++
 
-# Class 6
-
 ## Project 1 Work Session
 
 ### Class Objective:

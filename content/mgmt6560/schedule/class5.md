@@ -4,8 +4,6 @@ description = ""
 weight = 5
 +++
 
-# Class 5
-
 ## Introduction to R
 
 ### Class Objective:

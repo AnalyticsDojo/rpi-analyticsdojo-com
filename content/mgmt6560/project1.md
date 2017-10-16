@@ -4,16 +4,20 @@ description = ""
 weight = 12
 +++
 
-#### Project 1 is Due 10-20 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
+#### Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 
 ###  Project Objective
 The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and  evaluation.
 
 ### Project Selection
-There are a tremendous number of potential [Kaggle](https://www.kaggle.com) projects available that would make excellent selections. The following are recommended projects.  If you are just getting started, I'd suggest that you stick with these.
-
+There are a tremendous number of potential [Kaggle](https://www.kaggle.com) projects available that would make excellent selections. The following are currently approved projects.
+*Easier*
 1. [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
-2. [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1)
+2. [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1) (It seems this is now closed but is good if you got in early.)
+3. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) (This is an beginner dataset, but could work for us.)
+
+*Advanced
+4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/) (This is an advanced project.)
 
 If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.
 

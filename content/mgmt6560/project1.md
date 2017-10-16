@@ -19,6 +19,9 @@ There are a tremendous number of potential [Kaggle](https://www.kaggle.com) proj
 *Advanced
 4. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/) (This is an advanced project.)
 
+#### A list of solutions can be found[here](https://docs.google.com/spreadsheets/d/1DQddDfxnpAsbr_EU5GE4iLAoNQzC2BkzH4eiAtVNZg4/edit?usp=sharing).
+
+
 If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.
 
 ### Deliverables

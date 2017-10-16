@@ -17,9 +17,7 @@ The goal of this class is to introduce principles of visualization and to show e
 ### In Class Activities:
 
 #### Examples
-
-
-*Topical Examples*
+*Examples*
 -[#Tags and the City](http://e.infogr.am/blog/12-amazing-new-data-visualization-examples-web/)
 - [538](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 - [Trump vs Clinton 1](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html)
@@ -33,7 +31,6 @@ The goal of this class is to introduce principles of visualization and to show e
 *Uncovering Patterns Examples*
 - [The Dude Map](http://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)<br>
 
-
 *Interactive Examples*
 - [Family Income](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html])
 - [Snake Oil Suplements](http://www.informationisbeautiful.net/visualizations/snake-oil-supplements/)
@@ -42,12 +39,7 @@ The goal of this class is to introduce principles of visualization and to show e
 
 ### Presentation
 - [Presentation](https://docs.google.com/presentation/d/1qHAXXFF_psMG0P-Cp9_fDPR5OPZFu-pLq4HzqWJy4kM/edit?usp=sharing)<br>
-
 - Tableau Case [See Click Fix Kaggle](https://www.kaggle.com/c/see-click-predict-fix) -- [Data](https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv)
-
-- Visualization in R Links: [local](http://localhost:8888/notebooks/classes/06-visualizations/visualization-r-ggplot.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/06-visualizations/visualization-r-ggplot.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/06-visualizations/visualization-r-ggplot.ipynb#/)
-
-- Visualization in Python Links: [local](http://localhost:8888/notebooks/classes/06-visualizations/visualization-python-matplotlib.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/06-visualizations/visualization-python-matplotlib.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/06-visualizations/visualization-python-matplotlib.ipynb#/)
 
 ### Tool List
 #### Publication Optimized
@@ -62,3 +54,4 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/)
 - [Tableau](http://www.tableau.com/stories/workbook/understand-your-business-glance)
 - [Plot.ly](https://plot.ly)
+- [Google Data Studio Beta](https://datastudio.google.com/u/0/navigation/reporting)

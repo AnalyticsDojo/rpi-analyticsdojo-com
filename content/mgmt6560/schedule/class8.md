@@ -1,5 +1,5 @@
 +++
-title = "Class 8"
+title = "Class 8 - Midterm"
 description = ""
 weight = 8
 +++

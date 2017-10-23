@@ -26,8 +26,6 @@ The goal of this class is to introduce principles of visualization and to show e
 #### Explaining Complex Data
 - [Social Media in one](http://mashable.com/2017/07/11/conversation-prism-brian-solis-update-2017/#FMeXfLhzlqOI)
 - [Live Wind Map](http://hint.fm/wind/)
-- [Food Consumption](http://www.foodservicewarehouse.com/calorie-viz/)
-- [GapMinder](http://www.gapminder.org/)
 - [538](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
 - [Trump vs Clinton 1](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html)
 - [Sentiment](https://www.kaggle.com/donyoe/d/mrisdal/2016-us-presidential-debates/vp-debate-sentiments-and-difference-btwn-debates)

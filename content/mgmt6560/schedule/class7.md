@@ -16,15 +16,12 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Designing Great Visualizations](http://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
 - [Tableau getting Started](http://www.tableau.com/learn/tutorials/on-demand/getting-started)
 - [Ted Talk](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization#t-304102)
+
 ### In Class Activities:
 
-#### Examples
-*Classic Examples*<br>
-
+#### Classic Examples
 - [Nightingale's 'Coxcombs'](http://understandinguncertainty.org/coxcombs)
 - [Napolean's March](https://commons.wikimedia.org/wiki/File%3AMinard.png)
-
-<br>
 
 #### Explaining Complex Data
 - [Social Media in one](http://mashable.com/2017/07/11/conversation-prism-brian-solis-update-2017/#FMeXfLhzlqOI)
@@ -40,12 +37,12 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Mountains Out of Molehills](http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/)
 - [Billion Dollar O'Gram](http://www.informationisbeautiful.net/visualizations/billion-dollar-o-gram-2013/)
 
-#### Uncovering Patterns*
+#### Uncovering Patterns
 - [The Dude Map](http://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)<br>
 - [Peak Breakup Times](http://www.informationisbeautiful.net/2010/peak-break-up-times-on-facebook/)
 - [Tags and the City](https://www.tagsandthecity.net/san-francisco-bay-area/)
 
-#### Interactive Examples*
+#### Interactive Examples
 - [Snake Oil Supplements](http://www.informationisbeautiful.net/visualizations/snake-oil-supplements/)
 - [Family Income](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html])
 - [Media](http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/)

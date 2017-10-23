@@ -42,7 +42,6 @@ The goal of this class is to introduce principles of visualization and to show e
 
 #### Interactive Examples
 - [Snake Oil Supplements](http://www.informationisbeautiful.net/visualizations/snake-oil-supplements/)
-- [Family Income](http://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html])
 - [Media](http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/)
 - [Campaign Staff Connections](http://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html)
 - [GapMinder Classic](http://www.gapminder.org/tools/#_chart-type=bubbles)

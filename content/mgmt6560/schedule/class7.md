@@ -65,8 +65,8 @@ The goal of this class is to introduce principles of visualization and to show e
 
 
 ### Assignment
-Homework 6 Released (Due 11-9)
-This assignment should be turned into the LMS as
+Homework 6 (Due 11-9)
+This assignment should be turned into the LMS as a PDF. 
 
 #### Getting Started with Tableau Desktop.
 For this lab we will begin the process of learning visualization through the [See Click Fix Kaggle Project](https://www.kaggle.com/c/see-click-predict-fix).  Go ahead and download the train file from [Github](https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv) or from the [Dropbox/Kaggle folder](https://www.dropbox.com/sh/1jrwf7ojow5js9t/AABaFESbOX81yotc3AuBNa0Za?dl=0).

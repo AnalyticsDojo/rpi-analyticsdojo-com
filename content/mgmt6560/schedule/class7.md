@@ -72,7 +72,7 @@ Homework 6 Released (Due 11-9)
 This assignment should be turned into the LMS as
 
 #### Getting Started with Tableau Desktop.
-For this lab we will begin the process of learning visualization through the [See Click Fix Kaggle Project](https://www.kaggle.com/c/see-click-predict-fix).  Go ahead and download the train file from [Github](https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv).
+For this lab we will begin the process of learning visualization through the [See Click Fix Kaggle Project](https://www.kaggle.com/c/see-click-predict-fix).  Go ahead and download the train file from [Github](https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv) or from the [Dropbox/Kaggle folder](https://www.dropbox.com/sh/1jrwf7ojow5js9t/AABaFESbOX81yotc3AuBNa0Za?dl=0).
 
 The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.
 

@@ -33,6 +33,9 @@ Your goal is to develop a 6 page (1 inch margins, single spaced) report of some 
 3. *Modeling and evaluation of 3 other solutions.* Identify 3 other Kaggle solutions completed by others. You can do this by selecting on the project and then clicking on the link to Kernels. Summarize the features, modeling approach, and performance in a table. Then do some further research to comment on (2 pages)
 4. *Appendix.* Link to a notebook containing all exploratory data analysis code from part (2) as well as  each of the original solutions of (3).
 
+For the Appendix in the project, you are welcome to provide links however you want, but I have setup a private github repository here [https://classroom.github.com/a/maQB6ufJ](https://classroom.github.com/a/maQB6ufJ).
+
+
 ### Project Evaluation Metrics.
 The description below describes an ideal project.  Projects will be evaluated subjectively by the instructor according to this rubric.
 

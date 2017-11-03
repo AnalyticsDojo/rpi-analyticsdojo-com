@@ -60,3 +60,8 @@ You will need to run c-d each time to launch Jupyter.
 ```
 conda install <packagename>
 ```
+
+For example, to install the R Kernal for Jupyter, install the r-essentials package:
+```
+conda install r-essentials
+```

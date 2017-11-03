@@ -195,8 +195,7 @@ Python: Conda
 Readings (To be done before class): (1) Cross Validation
 (2) The 10 Algorithms Machine Learning Engineers Need to Know.
 (3) A Tour of Machine Learning Algorithms
-(4) scikit-learn (Just review overview of packages)
-(5) Section 4, 5, 6 on Caret</description>
+(4) An Introduction to Machine Learning with Python - Chapter 2-3</description>
     </item>
     
     <item>
@@ -219,6 +218,16 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
       <guid>http://rpi.analyticsdojo.com/mgmt6560/assignments/</guid>
       <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
 https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
+    </item>
+    
+    <item>
+      <title>Class 10</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class10/</guid>
+      <description>Introduction to Modeling Class Objective: This will include more discussion of models, which more details.
+Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret</description>
     </item>
     
     <item>

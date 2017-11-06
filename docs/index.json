@@ -144,7 +144,7 @@
 	"title": "Class 9",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) A Tour of Machine Learning Algorithms\n(4) An Introduction to Machine Learning with Python - Chapter 2-3\n"
+	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (3) A Tour of Machine Learning Algorithms\n(4) An Introduction to Machine Learning with Python - Chapter 2-3\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
@@ -186,7 +186,7 @@
 	"title": "Books",
 	"tags": [],
 	"description": "",
-	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Big Data  Mining Massive Datasets  "
+	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Deep Learning  Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron  Big Data  Mining Massive Datasets  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/proposals/data8/",

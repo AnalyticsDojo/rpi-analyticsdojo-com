@@ -23,5 +23,8 @@ weight = 20
 
 - [Think Stats](http://www.greenteapress.com/thinkstats/) Probability and Statistics for Programmers in Python (free download)
 
+### Deep Learning
+- [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/9781491962282)
+
 ### Big Data
 - [Mining Massive Datasets](http://mmds.org/)

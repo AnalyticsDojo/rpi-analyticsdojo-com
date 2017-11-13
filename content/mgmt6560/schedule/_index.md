@@ -25,7 +25,8 @@ mgmt6560/schedule/class1/
 | 11 | 11-20   | **Text Mining and Unstructured Data **  <br> [more](#class-11)                                                                                                                                                                                                  |
 | 12 | 11-27   | **Introduction to Big Data**  <br> [more](#class-12)                                                                                                                                                                                                            |
 | 13 | 12-4    | **Introduction to Deep Learning**  <br> [more](#class-13)                                                                                                                                                                                                       |
-| 14 | 12-11   | **Presentations **                                                                                                                                                                                                                                              |
+| 14 | 12-11   | **Presentations **
+|    | 12-14   | **Project 2 Due**                                                                                                                                                                                                                                             |
 | 15 | 12-18   | Final Exam (6:30-9:30PM) <br> [more](#final)
 
 

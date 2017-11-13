@@ -30,9 +30,9 @@ The description below describes an ideal project.  Projects will be evaluated su
 
 - *Executive summary (20 points, 1 page).* The student was able to present the results of modeling in a way that is rich and interesting as well. There is clear representation of key predictors and key algorithms used.
 
-- *Data description and initial processing (25 points. 1.5-2 pages).* The student was able to clearly present justification of the value of different independent variables. Where possible, exploration of feature creation is provided. 
+- *Analysis of relevance of independent variables (25 points. 1.5-2 pages).* The student was able to clearly present justification of the value of different independent variables. Where possible, exploration of feature creation is provided.
 
-- *Models Types(25 points, 1.5-2 pages).* There are outside resources consulted in the description of specific algorithms if relevant.  Outside sources give clarity and there is evidence of some model tuning.
+- *Analysis of performance of different model types (25 points, 1.5-2 pages).* There are outside resources consulted in the description of specific algorithms if relevant.  Outside sources give clarity and there is evidence of some model tuning.
 
 - *Commented Code (20 points, as needed).* Clearly commented code has been provided in the assigned Jupyter notebook.
 

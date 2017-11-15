@@ -62,3 +62,6 @@ If you feel one of your solutions will work but was marked off, you can do the f
 5. Provide a Slack message to Jason Kuruzovich and Lianlian Jiang with a link to the repository.
 
 Your solution must work 100%. You cannot use this method to request additional partial credit.
+
+Data is here:
+[https://github.com/techfundamentals-fall2017/midterm-starter](https://github.com/techfundamentals-fall2017/midterm-starter)

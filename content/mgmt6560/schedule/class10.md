@@ -18,5 +18,5 @@ This will include more discussion of models, with more details and types. Specif
 [Presentation](https://www.dropbox.com/s/fezcz40i9nxeu1e/09_intro_modeling.pptx?dl=0)
 
 ### Assignment
-- Homework 7 (Available 11-15; Due 11-28).<br><br>
+- Homework 7 (Available 11-15; Due 11-30).<br><br>
 {{< button href="https://classroom.github.com/a/XqUVKinq" >}} Accept the Assignment {{< /button >}}

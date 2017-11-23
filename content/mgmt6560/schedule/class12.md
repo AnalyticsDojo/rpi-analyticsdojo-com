@@ -4,7 +4,7 @@ description = ""
 weight = 12
 +++
 
-## Introduction to Big Data
+## Introduction to Big Data and Deep Learning
 
 ### Class Objective:
 The goal of this class is to investigate basic concepts surrounding text mining.

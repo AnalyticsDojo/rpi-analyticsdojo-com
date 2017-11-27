@@ -186,7 +186,7 @@
 	"title": "Class 12",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\n"
+	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Activities Presentation\n01-intro-mapreduce.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/01-intro-mapreduce.ipynb\n02-intro-spark.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/02-intro-spark.ipynb\nPython Gentle Introduction. https://docs.databricks.com/_static/notebooks/gentle-introduction-to-apache-spark.html\nApache Spark on Databricks for Data Engineers https://docs.databricks.com/_static/notebooks/databricks-for-data-engineers.html\nWord Count This can help. Don\u0026rsquo;t need to install library through. Setup Instructions Spark https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/03-spark-questions.ipynb\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/project1/",

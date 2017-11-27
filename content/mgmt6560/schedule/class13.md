@@ -1,13 +1,13 @@
 +++
 title = "Class 13"
 description = ""
-weight = 13s
+weight = 13
 +++
 
 ## Introduction to Deep Learning
 
 ### Class Objective:
-The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop. 
+The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
 
 ### Readings (To be done before class):
 [Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/9781491962282) (Skim Chapters 9-11)

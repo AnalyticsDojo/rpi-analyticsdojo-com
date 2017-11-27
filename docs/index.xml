@@ -261,8 +261,8 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class12/</guid>
-      <description>Introduction to Big Data and Deep Learning Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
-Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)</description>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem</description>
     </item>
     
     <item>
@@ -273,6 +273,16 @@ Readings (To be done before class): Create a DataBricks Community Edition Accoun
       <guid>http://rpi.analyticsdojo.com/mgmt6560/project1/</guid>
       <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
+    </item>
+    
+    <item>
+      <title>Class 13</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
+Readings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)</description>
     </item>
     
     <item>

@@ -26,9 +26,9 @@ mgmt6560/schedule/class1/
 | 12 | 11-27   | **Introduction to Big Data**  <br>The goal here is to provide an overview of how data processes can be scaled with Spark. [more](/mgmt6560/schedule/class12/)                                                                                                                                                                                                            |
 | 13 | 12-4    | **Introduction to Deep Learning**  <br> The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
 [more](/mgmt6560/schedule/class13/)                                                                                                                                                                                                       |
-| 14 | 12-11   | **Presentations **
+| 14 | 12-11   | **Presentations ** [more](/mgmt6560/schedule/class13/)
 |    | 12-14   | **Project 2 Due**                                                                                                                                                                                                                                             |
-| 15 | 12-18   | Final Exam (6:30-9:30PM) <br> [more](#final)
+| 15 | 12-18   | Final Exam (6:30-9:30PM) Homework 8/Final Part 1 (Available 12-7; Due 12-18)<br> [more](/mgmt6560/schedule/final/) 
 
 
 **Note. In person attendance at the final is mandatory.  Do not make plane reservations until it is determined.

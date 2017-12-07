@@ -16,4 +16,4 @@ learned along the way.
 
 - 1 Slide: challenge overview (probably same, can skip)
 - 1 Slide: what you learned in modeling process ()
-- 1 Slide: Best performaning model results. 
+- 1 Slide: Best performaning model results.

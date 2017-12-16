@@ -179,7 +179,7 @@
 	"title": "Class 11",
 	"tags": [],
 	"description": "",
-	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  "
+	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/schedule/class12/",
@@ -200,7 +200,7 @@
 	"title": "Class 13",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\n"
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Activities Presentation\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560/project2/",
@@ -221,7 +221,7 @@
 	"title": "Final",
 	"tags": [],
 	"description": "",
-	"content": " The final final exam will consist of two parts.\nPart 1 The first part is a take-home assignment which is due the same night as the final. This is labeled homework 8.\nHomework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).\nAccept the Assignment  Part 2 The second part will be given in class 12-18 at 6:00 PM. Like the midterm, some will be multiple choice questions. There are likely also to be some sure answer and maybe even a short essay. You might want to also know the steps of the CRISP process for data analysis.\n"
+	"content": " The final final exam will consist of two parts.\nPart 1 The first part is a take-home assignment which is due the same night as the final. This is labeled homework 8.\nHomework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).\nAccept the Assignment  Part 2 The second part will be given in class 12-18 at 6:00 PM. This will be a multiple choice exam covering conceptual issues from the class \u0026amp;s homeworks.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",

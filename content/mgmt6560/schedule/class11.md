@@ -14,3 +14,6 @@ The goal of this class is to investigate basic concepts surrounding text mining.
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 - [Bag of Words Tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 - [Word Vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors)
+
+### Presentation
+- [Text Mining and Unstructured Data](https://www.dropbox.com/s/3cffzao17ckvlgi/11_text_mining.pptx?dl=0)

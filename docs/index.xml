@@ -252,7 +252,7 @@ Accept the Assignment    </description>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class11/</guid>
       <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
-Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  </description>
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  </description>
     </item>
     
     <item>
@@ -288,7 +288,8 @@ Project Selection There are a tremendous number of potential Kaggle projects ava
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</guid>
       <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
-Readings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)</description>
+Readings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
+In Class Activities Presentation</description>
     </item>
     
     <item>
@@ -320,7 +321,7 @@ Many of you will have similar presentations. Try to vary it up, explaining inter
       <description>The final final exam will consist of two parts.
 Part 1 The first part is a take-home assignment which is due the same night as the final. This is labeled homework 8.
 Homework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).
-Accept the Assignment  Part 2 The second part will be given in class 12-18 at 6:00 PM. Like the midterm, some will be multiple choice questions. There are likely also to be some sure answer and maybe even a short essay.</description>
+Accept the Assignment  Part 2 The second part will be given in class 12-18 at 6:00 PM. This will be a multiple choice exam covering conceptual issues from the class &amp;amp;s homeworks.</description>
     </item>
     
     <item>

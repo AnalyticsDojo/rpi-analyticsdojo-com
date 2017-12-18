@@ -15,4 +15,6 @@ Homework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).<br><br>
 
 
 #### Part 2
-The second part will be given in class 12-18 at 6:00 PM.  This will be a multiple choice exam covering conceptual issues from the class &s homeworks.
+The second part will be given DCC 337 12-18 6:30-9:30, as required in the [finals schedule](http://www.rpi.edu/dept/srfs/finals/Fall2017finalexamschedule.pdf).
+
+This will be a multiple choice exam covering conceptual issues from the class & homeworks. While it is technically cumulitive, the majority is from the 2nd half of semester. 

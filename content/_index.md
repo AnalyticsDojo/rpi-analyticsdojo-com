@@ -17,6 +17,6 @@ Currently the learning stack associated with these courses includes: (1) Jupyter
 
 Business Analytics Capstone (MGMT6790-Spring2017) Coming Soon.
 
-### Course Proposal:
+### Winter Break projects
 
-[Data 8 @ Rensselaer](/data8-rpi/)
+What stories will you generate for interviews over winter break? Work on [one of these research projects](/proposals/winterbreak).

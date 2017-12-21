@@ -29,4 +29,8 @@ Because of the licensing agreement, this repository is private and all people as
 (c.) *Kickstarter.*  While quiet a lot of work has been done one understanding Kickstarter, less work has examined how organizations utilize Kickstarter.  In particular, we suggest that Kickstarter can be an alternative to fund raising. We have started the process of collecting data and just need to link it to different datasets.
 [See github.](https://github.com/jkuruzovich/crowd-funding)
 
-Other datasets that could be relevant include patents, news, etc. 
+Other datasets that could be relevant include patents, news, etc.
+
+[Crunchbase 2013 Data](https://data.crunchbase.com/docs)
+
+[Kuberlytics Slack](https://join.slack.com/t/kuberlytics/shared_invite/enQtMjgyOTA5NTMyMDA0LTM5MjQ5MjMyNzVkODg3NmNhMWQxNTU5NWJiNzVhZTE3YmFkMzNhZjdkNzcwMTQ0OWJiNzQ3ZWMwZmJkYjFmNDY)

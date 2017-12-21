@@ -10,6 +10,13 @@ It's great to have stories as an outcome of the program.  Why not work on someth
 
 2. *Kuberlytics*. Currently there are a number of students from the RPI Center for Open Source (RCOS) working on a project called Kuberlytics. We have started looking at different ways Kubernetes could be used in data science. Lots of opportunity and a new [Google project called kubeflow](https://github.com/google/kubeflow) has me really excited that Kubernetes.  I'm looking for help in documenting ways of launching things on Kubernetes, as we started [here in the launch project](https://github.com/Kuberlytics/launch).
 
+Some specifics related to 2.
+
+(a.) Solidify deployments for Jupyterhub using new version of helm chart (enabling ssl.), load testing of Jupyterhub server, shared storage.
+(b.) Work on deployment of Airflow on Kubernetes. Airflow can be used to
+(c.) Simplified python package for committing code.
+(d.) Demonstration cases of installing and using pachyderm.
+
 3. *Entrepreneurship and Big Unstructured Data.* I'm currently working as part of Kuberlytics and [CISL](http://cisl.rpi.edu) to assemble data related to startups for additional analysis.  Current data collections involve, Crunchbase, Twitter, & Kickstarter. However, additional efforts are needed to pull things together and start some interesting visualizations and modeling.
 
 Some specific use cases from 3.
@@ -22,4 +29,4 @@ Because of the licensing agreement, this repository is private and all people as
 (c.) *Kickstarter.*  While quiet a lot of work has been done one understanding Kickstarter, less work has examined how organizations utilize Kickstarter.  In particular, we suggest that Kickstarter can be an alternative to fund raising. We have started the process of collecting data and just need to link it to different datasets.
 [See github.](https://github.com/jkuruzovich/crowd-funding)
 
-(d.)
+Other datasets that could be relevant include patents, news, etc. 

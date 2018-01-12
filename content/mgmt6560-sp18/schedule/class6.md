@@ -1,7 +1,8 @@
 +++
-title = "Class 6"
+title = "Week 6"
 description = ""
 weight = 6
+draft = true
 +++
 
 ## Project 1 Work Session

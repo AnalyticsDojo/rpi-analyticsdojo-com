@@ -1,7 +1,8 @@
 +++
-title = "Class 8 - Midterm"
+title = "Week 8 - Midterm"
 description = ""
 weight = 8
+draft = true
 +++
 
 ## Midterm

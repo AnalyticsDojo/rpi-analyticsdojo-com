@@ -1,7 +1,8 @@
 +++
-title = "Class 9"
+title = "Week 9"
 description = ""
 weight = 9
+draft = true
 +++
 
 ## Introduction to Modeling

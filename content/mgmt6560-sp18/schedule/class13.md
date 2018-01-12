@@ -1,7 +1,8 @@
 +++
-title = "Class 13"
+title = "Week 13"
 description = ""
 weight = 13
+draft = true
 +++
 
 ## Introduction to Deep Learning

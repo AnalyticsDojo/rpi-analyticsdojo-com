@@ -84,21 +84,7 @@
 	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment:  Homework 3 (Due 10-5). More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class3/",
-	"title": "Class 3",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment:  Homework 3 (Due 10-5). More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class4/",
-	"title": "Class 4",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment  Homework 4 (Available 10-4; Due 10-12).\nAccept the Assignment    "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class4/",
 	"title": "Class 4",
 	"tags": [],
 	"description": "",
@@ -120,13 +106,6 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class5/",
-	"title": "Class 5",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.\nAssignment  Homework 5 (Due 10-19).\nAccept the Assignment    "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class5/",
 	"title": "Class 5",
 	"tags": [],
 	"description": "",
@@ -161,13 +140,6 @@
 	"content": " Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.\nAssignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 minute powerpoint presentation that details a specific solution. It should be just 1 slide on the problem and one slide on the solution (should include a link). Solutions should be ones that generate solutions to the prediction challenge. They shouldn\u0026rsquo;t just be exploratory analysis.\nIn Class Activities We are going to fill this spreadsheet in. Use the filename for your presentation found here.\nThen we will here we will sort by project and go down the different project and solutions.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class6/",
-	"title": "Class 6",
-	"tags": [],
-	"description": "",
-	"content": " Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.\nAssignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 minute powerpoint presentation that details a specific solution. It should be just 1 slide on the problem and one slide on the solution (should include a link). Solutions should be ones that generate solutions to the prediction challenge. They shouldn\u0026rsquo;t just be exploratory analysis.\nIn Class Activities We are going to fill this spreadsheet in. Use the filename for your presentation found here.\nThen we will here we will sort by project and go down the different project and solutions.\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/git/",
 	"title": "Git",
 	"tags": [],
@@ -196,21 +168,7 @@
 	"content": " Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.\nAssignment (To be done before class):  Install Tableau I have posted the key to Slack. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale\u0026rsquo;s \u0026lsquo;Coxcombs\u0026rsquo; Napolean\u0026rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O\u0026rsquo;Gram  Uncovering Patterns  The Dude Map\n Peak Breakup Times Tags and the City  Interactive Examples  Snake Oil Supplements Media Campaign Staff Connections GapMinder Classic Toys in the World  Tool List Publication Optimized  MatPlotLib ggPLOT2  Web Optimimized  D3 Gallery Seaborn Kaggle  Business Applications/Dashboards  Microsoft PowerBI Tableau Plot.ly Google Data Studio Beta Sisense  Assignment Homework 6 (Due 11-9) This assignment should be turned into the LMS as a PDF.\nGetting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.\nThe first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.\n(1). IN YOUR OWN WORDS, describe what the data involves and key fields that are identified.\nImport the Data. You should be able to do this using the instructions from class and the video. We want to get started with identifying the data on a map. Drag the Longitude to the column and the Latitude to the rows.\nFilter the Data. We have 4 cities here but we only want one of them. We need to create a filter that selects based on the longitude/latitude to only show one city.\n(2). IN YOUR OWN WORDS, describe the filter you created to select only one city.\nChange the type to a Map. Select on the Show Me map to show your city on a map. (This actually happens automatically).\nTag Type. Drag the tags over to the colors and select filter and add. Select just a few tags.\nUnderstand Tags. Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags.\n(3). Provide an image showing the 5 most frequent tag types.\n(4). Create 4 visualizations that help you to understand more details about the data or make a specific point. At least one should use the Map. Provide 1-3 sentences to describe each visualization.\nHere are some examples.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class7/",
-	"title": "Class 7",
-	"tags": [],
-	"description": "",
-	"content": " Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.\nAssignment (To be done before class):  Install Tableau I have posted the key to Slack. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale\u0026rsquo;s \u0026lsquo;Coxcombs\u0026rsquo; Napolean\u0026rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O\u0026rsquo;Gram  Uncovering Patterns  The Dude Map\n Peak Breakup Times Tags and the City  Interactive Examples  Snake Oil Supplements Media Campaign Staff Connections GapMinder Classic Toys in the World  Tool List Publication Optimized  MatPlotLib ggPLOT2  Web Optimimized  D3 Gallery Seaborn Kaggle  Business Applications/Dashboards  Microsoft PowerBI Tableau Plot.ly Google Data Studio Beta Sisense  Assignment Homework 6 (Due 11-9) This assignment should be turned into the LMS as a PDF.\nGetting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.\nThe first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.\n(1). IN YOUR OWN WORDS, describe what the data involves and key fields that are identified.\nImport the Data. You should be able to do this using the instructions from class and the video. We want to get started with identifying the data on a map. Drag the Longitude to the column and the Latitude to the rows.\nFilter the Data. We have 4 cities here but we only want one of them. We need to create a filter that selects based on the longitude/latitude to only show one city.\n(2). IN YOUR OWN WORDS, describe the filter you created to select only one city.\nChange the type to a Map. Select on the Show Me map to show your city on a map. (This actually happens automatically).\nTag Type. Drag the tags over to the colors and select filter and add. Select just a few tags.\nUnderstand Tags. Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags.\n(3). Provide an image showing the 5 most frequent tag types.\n(4). Create 4 visualizations that help you to understand more details about the data or make a specific point. At least one should use the Map. Provide 1-3 sentences to describe each visualization.\nHere are some examples.\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class8/",
-	"title": "Class 8 - Midterm",
-	"tags": [],
-	"description": "",
-	"content": " Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.\nThe midterm will consist of 2 sections.\nPart 1: Multiple Choice/Short answer The first section will be closed book/closed notes. You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does. In this section, you won’t be asked to generate any code though.\nPart 2: Coding Like the homework, there will be sections where you need to write specific code responses to questions, similar to the homework. You are allowed to bring a 1 page (both sides) or 2 pages (1 side each) of a crib sheet with syntax for use only in part 2. Examples will largely come from the homeworks and classroom examples.\nPart 1 Sample Questions.\n _______ is the Python package that enables a data frame object? a) DF b) DATA-FRAME c) Pandas d) Beautiful Soup e) Numpy\n Below is an example of what type of encoding? { \u0026ldquo;year\u0026rdquo;: 1997, \u0026ldquo;make\u0026rdquo;: \u0026ldquo;Ford\u0026rdquo;, \u0026ldquo;model\u0026rdquo;: \u0026ldquo;E350\u0026rdquo;, }, a) Delimited file b) XML c) JSON d) ODBC e) SQL\n  Part 2 Sample Questions.\n(After given a sample dataframe.)\n Using python, recode the variable from a character type to numeric and the gender to 0/1 for male/female.\n Perform one hot encoding for the x field of the dataframe.\n Take the mean of the y variable of the dataframe.\n  Appeal process If you feel one of your solutions will work but was marked off, you can do the following:\n Take a picture of the question and solution.\n Accept the midterm-appeal assignment.\n Test if the solution works.\n If your solution does work but was marked off, add a markdown cell with the original picture and commit/push the example.\n Provide a Slack message to Jason Kuruzovich and Lianlian Jiang with a link to the repository.\n  Your solution must work 100%. You cannot use this method to request additional partial credit.\nData is here: https://github.com/techfundamentals-fall2017/midterm-starter\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class8/",
 	"title": "Class 8 - Midterm",
 	"tags": [],
 	"description": "",
@@ -225,13 +183,6 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class9/",
-	"title": "Class 9",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\nIn Class Activities Presentation\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class9/",
 	"title": "Class 9",
 	"tags": [],
 	"description": "",
@@ -266,13 +217,6 @@
 	"content": " Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret\nIn Class Activities Presentation\nAssignment  Homework 7 (Available 11-15; Due 11-30).\nAccept the Assignment    "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class10/",
-	"title": "Class 10",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret\nIn Class Activities Presentation\nAssignment  Homework 7 (Available 11-15; Due 11-30).\nAccept the Assignment    "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/r/",
 	"title": "R",
 	"tags": [],
@@ -287,21 +231,7 @@
 	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class11/",
-	"title": "Class 11",
-	"tags": [],
-	"description": "",
-	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class12/",
-	"title": "Class 12",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Activities Presentation\n01-intro-mapreduce.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/01-intro-mapreduce.ipynb\n02-intro-spark.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/02-intro-spark.ipynb\nPython Gentle Introduction. https://docs.databricks.com/_static/notebooks/gentle-introduction-to-apache-spark.html\nApache Spark on Databricks for Data Engineers https://docs.databricks.com/_static/notebooks/databricks-for-data-engineers.html\nWord Count This can help. Don\u0026rsquo;t need to install library through. Setup Instructions Spark https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/03-spark-questions.ipynb\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class12/",
 	"title": "Class 12",
 	"tags": [],
 	"description": "",
@@ -329,13 +259,6 @@
 	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Activities Presentation\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class13/",
-	"title": "Class 13",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Activities Presentation\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/project2/",
 	"title": "Project 2",
 	"tags": [],
@@ -351,13 +274,6 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class14/",
-	"title": "Class 14",
-	"tags": [],
-	"description": "",
-	"content": " Presentations Class Objective: The goal here is to showcase your work in the class project.\nMany of you will have similar presentations. Try to vary it up, explaining interesting things learned along the way.\n 1 Slide: challenge overview (probably same, can skip for some). 1 Slide: what you learned in modeling process. 1 Slide: Best performing model results.  Please submit your presentations to the LMS before 5:00 PM monday.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class14/",
 	"title": "Class 14",
 	"tags": [],
 	"description": "",

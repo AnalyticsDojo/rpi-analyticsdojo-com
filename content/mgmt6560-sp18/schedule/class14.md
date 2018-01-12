@@ -1,7 +1,8 @@
 +++
-title = "Class 14"
+title = "Week 14"
 description = ""
 weight = 14
+draft = true
 +++
 
 ## Presentations
@@ -16,4 +17,4 @@ learned along the way.
 - 1 Slide: what you learned in modeling process.
 - 1 Slide: Best performing model results.
 
-Please submit your presentations to the LMS before 5:00 PM monday. 
+Please submit your presentations to the LMS before 5:00 PM monday.

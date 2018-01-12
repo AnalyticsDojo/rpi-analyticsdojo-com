@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class1/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class1/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class2/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class2/</loc>
   </url>
   
   <url>
@@ -19,7 +27,11 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/contact/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/contact/</loc>
   </url>
   
   <url>
@@ -35,19 +47,35 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class3/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class3/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/office/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class4/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class4/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/office/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/office/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class5/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class5/</loc>
   </url>
   
   <url>
@@ -55,11 +83,19 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class6/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class6/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class6/</loc>
   </url>
   
   <url>
@@ -67,15 +103,27 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/grading/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/grading/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class7/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/grading/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class8/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class7/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class8/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class8/</loc>
   </url>
   
   <url>
@@ -83,7 +131,11 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class9/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class9/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class9/</loc>
   </url>
   
   <url>
@@ -91,11 +143,19 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/assignments/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/assignments/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class10/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class10/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class10/</loc>
   </url>
   
   <url>
@@ -103,31 +163,55 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class11/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class11/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class12/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class11/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/project1/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class12/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class12/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/project2/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/project1/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/class14/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</loc>
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560/schedule/final/</loc>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class13/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class13/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class14/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class14/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/final/</loc>
   </url>
   
   <url>

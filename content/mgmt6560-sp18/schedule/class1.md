@@ -1,5 +1,5 @@
 +++
-title = "Class 1"
+title = "Week 1"
 description = ""
 weight = 1
 +++
@@ -22,6 +22,6 @@ This class is to discuss the broader issues of data analytics, the approach of t
 
 
 #### Assignment:
-- Homework 1 (Due 9-20). More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
+- Homework 1 (Due 9-20). More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
 
 {{< button href="https://classroom.github.com/a/J4JB1fpn" >}} Accept the Assignment {{< /button >}}

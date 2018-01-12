@@ -1,7 +1,8 @@
 +++
-title = "Class 2"
+title = "Week 2"
 description = ""
 weight = 2
+draft = true
 +++
 
 ## Data Fundamentals and Introduction to Python
@@ -33,7 +34,7 @@ git pull
 ```
 
 #### Assignment (due the second Wednesday following class by 11:59 PM):
-- Homework 2 (Due 9-30). More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
+- Homework 2 (Due 9-30). More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
 
 {{< button href="https://classroom.github.com/a/9fXCTWwC" >}} Accept the Assignment {{< /button >}}
 

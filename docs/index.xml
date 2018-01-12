@@ -13,30 +13,52 @@
     
     <item>
       <title>Class 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class1/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class1/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class1/</guid>
+      <description>Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
+Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps).</description>
+    </item>
+    
+    <item>
+      <title>Week 1</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</guid>
       <description>Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
 Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps).</description>
     </item>
     
     <item>
       <title>Class 2</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class2/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class2/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class2/</guid>
       <description>Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.
 Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarly be focusing on techniques and practices related to data science.</description>
     </item>
     
     <item>
       <title>Contact Info</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/contact/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/contact/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/contact/</guid>
+      <description>Jason Kuruzovich (Instructor)
+ Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)
+ Slack (preferred) Email: Jiangl4 - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.
+I&amp;rsquo;d prefer that you address other messages to me also through Slack (rather than email).</description>
+    </item>
+    
+    <item>
+      <title>Contact Info</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/contact/</guid>
       <description>Jason Kuruzovich (Instructor)
  Slack (preferred) Email: kuruzj - at - rpi.edu Office Location: Pittsburgh 4108 (Located in the Severino Center) Phone: 518-698-9910  Lianlian (Dorothy) Jiang (Teaching Assistant)
  Slack (preferred) Email: Jiangl4 - at - rpi.edu Office Location: 2226 Pittsburgh  Ask technical questions related to to class to an appropriate slack channel (#homework/#lab). This will ensure that everyone can jump in and help.
@@ -66,40 +88,81 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
     
     <item>
       <title>Class 3</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class3/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class3/</guid>
+      <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
+Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment:  Homework 3 (Due 10-5).</description>
+    </item>
+    
+    <item>
+      <title>Class 3</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class3/</guid>
       <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
 Readings (To be done before class):  Skim chapters 1-11 of Think Python-2E Book. This will give you a broader appreciation of Python programming. Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  Presentation Introduction to Kaggle With Titanic  Assignment:  Homework 3 (Due 10-5).</description>
     </item>
     
     <item>
       <title>Class 4</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class4/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class4/</guid>
+      <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment  Homework 4 (Available 10-4; Due 10-12).</description>
+    </item>
+    
+    <item>
+      <title>Class 4</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class4/</guid>
       <description>Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
 Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class:  Presentation Project 1  Assignment  Homework 4 (Available 10-4; Due 10-12).</description>
     </item>
     
     <item>
       <title>Office/Lab Hours</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/office/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/office/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/office/</guid>
+      <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
+This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
+    </item>
+    
+    <item>
+      <title>Office/Lab Hours</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/office/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/office/</guid>
       <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
 This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
     </item>
     
     <item>
       <title>Class 5</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class5/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class5/</guid>
+      <description>Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.
+Assignment  Homework 5 (Due 10-19).</description>
+    </item>
+    
+    <item>
+      <title>Class 5</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class5/</guid>
       <description>Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
 Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.
 Assignment  Homework 5 (Due 10-19).</description>
@@ -116,10 +179,20 @@ Assignment  Homework 5 (Due 10-19).</description>
     
     <item>
       <title>Class 6</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class6/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class6/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class6/</guid>
+      <description>Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.
+Assignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 minute powerpoint presentation that details a specific solution. It should be just 1 slide on the problem and one slide on the solution (should include a link).</description>
+    </item>
+    
+    <item>
+      <title>Class 6</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class6/</guid>
       <description>Project 1 Work Session Class Objective: The goal of this class is to dive into a couple Kaggle projects in detail, discussing different approaches and understanding the problem, approach, and solution in detail.
 Assignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 minute powerpoint presentation that details a specific solution. It should be just 1 slide on the problem and one slide on the solution (should include a link).</description>
     </item>
@@ -140,29 +213,59 @@ Assignment (To be done before class): (1) (10 points, Due 10-16) Prepare a 3 min
     
     <item>
       <title>Grading</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/grading/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/grading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/grading/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/grading/</guid>
+      <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
+    </item>
+    
+    <item>
+      <title>Grading</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/grading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/grading/</guid>
       <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
     </item>
     
     <item>
       <title>Class 7</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class7/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class7/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class7/</guid>
+      <description>Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
+Assignment (To be done before class):  Install Tableau I have posted the key to Slack. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale&amp;rsquo;s &amp;lsquo;Coxcombs&amp;rsquo; Napolean&amp;rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O&amp;rsquo;Gram  Uncovering Patterns  The Dude Map</description>
+    </item>
+    
+    <item>
+      <title>Class 7</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class7/</guid>
       <description>Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 Assignment (To be done before class):  Install Tableau I have posted the key to Slack. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale&amp;rsquo;s &amp;lsquo;Coxcombs&amp;rsquo; Napolean&amp;rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O&amp;rsquo;Gram  Uncovering Patterns  The Dude Map</description>
     </item>
     
     <item>
       <title>Class 8 - Midterm</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class8/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class8/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class8/</guid>
+      <description>Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.
+The midterm will consist of 2 sections.
+Part 1: Multiple Choice/Short answer The first section will be closed book/closed notes. You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does.</description>
+    </item>
+    
+    <item>
+      <title>Class 8 - Midterm</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class8/</guid>
       <description>Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.
 The midterm will consist of 2 sections.
 Part 1: Multiple Choice/Short answer The first section will be closed book/closed notes. You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does.</description>
@@ -187,10 +290,23 @@ Python: Conda
     
     <item>
       <title>Class 9</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class9/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class9/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class9/</guid>
+      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
+Readings (To be done before class): (1) Cross Validation
+(2) The 10 Algorithms Machine Learning Engineers Need to Know.
+(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
+(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
+    </item>
+    
+    <item>
+      <title>Class 9</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class9/</guid>
       <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
 Readings (To be done before class): (1) Cross Validation
 (2) The 10 Algorithms Machine Learning Engineers Need to Know.
@@ -212,20 +328,43 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
     
     <item>
       <title>Assignments</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/assignments/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/assignments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/assignments/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/assignments/</guid>
+      <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
+https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/</guid>
       <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
 https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
     </item>
     
     <item>
       <title>Class 10</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class10/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class10/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class10/</guid>
+      <description> Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
+Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret
+In Class Activities Presentation
+Assignment  Homework 7 (Available 11-15; Due 11-30).
+Accept the Assignment    </description>
+    </item>
+    
+    <item>
+      <title>Class 10</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class10/</guid>
       <description> Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
 Readings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret
 In Class Activities Presentation
@@ -247,20 +386,46 @@ Accept the Assignment    </description>
     
     <item>
       <title>Class 11</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class11/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class11/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class11/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  </description>
+    </item>
+    
+    <item>
+      <title>Class 11</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class11/</guid>
       <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
 Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  Presentation  Text Mining and Unstructured Data  </description>
     </item>
     
     <item>
       <title>Class 12</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class12/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class12/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class12/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Activities Presentation
+01-intro-mapreduce.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/01-intro-mapreduce.ipynb
+02-intro-spark.ipynb https://raw.githubusercontent.com/jkuruzovich/techfundamentals-fall2017-materials/master/classes/12-big-data/02-intro-spark.ipynb
+Python Gentle Introduction. https://docs.databricks.com/_static/notebooks/gentle-introduction-to-apache-spark.html
+Apache Spark on Databricks for Data Engineers https://docs.databricks.com/_static/notebooks/databricks-for-data-engineers.html
+Word Count This can help.</description>
+    </item>
+    
+    <item>
+      <title>Class 12</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class12/</guid>
       <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
 Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
 In Class Activities Presentation
@@ -273,20 +438,41 @@ Word Count This can help.</description>
     
     <item>
       <title>Project 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/project1/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/project1/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/project1/</guid>
+      <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</guid>
       <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
     </item>
     
     <item>
       <title>Class 13</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class13/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class13/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
+Readings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
+In Class Activities Presentation</description>
+    </item>
+    
+    <item>
+      <title>Class 13</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class13/</guid>
       <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
 Readings (To be done before class): Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
 In Class Activities Presentation</description>
@@ -294,19 +480,39 @@ In Class Activities Presentation</description>
     
     <item>
       <title>Project 2</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/project2/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/project2/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/project2/</guid>
+      <description>Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/project2/</guid>
       <description>Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
     </item>
     
     <item>
       <title>Class 14</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/class14/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/class14/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/class14/</guid>
+      <description>Presentations Class Objective: The goal here is to showcase your work in the class project.
+Many of you will have similar presentations. Try to vary it up, explaining interesting things learned along the way.
+ 1 Slide: challenge overview (probably same, can skip for some). 1 Slide: what you learned in modeling process. 1 Slide: Best performing model results.  Please submit your presentations to the LMS before 5:00 PM monday.</description>
+    </item>
+    
+    <item>
+      <title>Class 14</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class14/</guid>
       <description>Presentations Class Objective: The goal here is to showcase your work in the class project.
 Many of you will have similar presentations. Try to vary it up, explaining interesting things learned along the way.
  1 Slide: challenge overview (probably same, can skip for some). 1 Slide: what you learned in modeling process. 1 Slide: Best performing model results.  Please submit your presentations to the LMS before 5:00 PM monday.</description>
@@ -314,10 +520,10 @@ Many of you will have similar presentations. Try to vary it up, explaining inter
     
     <item>
       <title>Final</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560/schedule/final/</link>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/final/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560/schedule/final/</guid>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa17/schedule/final/</guid>
       <description>The final final exam will consist of two parts.
 Part 1 The first part is a take-home assignment which is due the same night as the final. This is labeled homework 8.
 Homework 8/Final Part 1 (Available 12-8; Due 12-18 11:59 PM).

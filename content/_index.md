@@ -13,7 +13,7 @@ Currently the learning stack associated with these courses includes: (1) Jupyter
 
 ### Current Courses:
 
-[Technology Fundamentals for Business Analytics (MGMT6560-Fall2017)](/mgmt6560/)
+[Technology Fundamentals for Business Analytics (mgmt6560-fa17-Fall2017)](/mgmt6560-fa17/)
 
 Business Analytics Capstone (MGMT6790-Spring2017) Coming Soon.
 

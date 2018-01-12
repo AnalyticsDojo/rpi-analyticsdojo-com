@@ -1,10 +1,10 @@
 +++
-title = "MGMT6560-Tech Fundamentals"
+title = "mgmt6560-sp18-Tech Fundamentals"
 description = ""
 weight = 1
 alwaysopen = true
 +++
-## Technology Fundamentals for Business Analytics (MGMT6560-Fall2017)
+## Technology Fundamentals for Business Analytics (mgmt6560-sp18-Fall2017)
 
 
 ### IMPORTANT INFORMATION:

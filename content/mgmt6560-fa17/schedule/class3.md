@@ -20,6 +20,6 @@ The goal of this class is to continue to extend our knowledge of some basic pyth
 
 ### Assignment:
 
-- Homework 3 (Due 10-5). More details on the homework assignment process can be found [here](/mgmt6560/assignments/). The button to accept the assignment is below.
+- Homework 3 (Due 10-5). More details on the homework assignment process can be found [here](/mgmt6560-fa17/assignments/). The button to accept the assignment is below.
 
 {{< button href="https://classroom.github.com/a/Y1khoSx1" >}} Accept the Assignment {{< /button >}}

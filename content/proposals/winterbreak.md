@@ -33,4 +33,20 @@ Other datasets that could be relevant include patents, news, etc.
 
 [Crunchbase 2013 Data](https://data.crunchbase.com/docs)
 
+### Join the Kuberlytics slack (make sure you have a pic)
+
+If working on startup data make sure you turn on notifications for the #startupdata channel. 
 [Kuberlytics Slack](https://join.slack.com/t/kuberlytics/shared_invite/enQtMjgyOTA5NTMyMDA0LTM5MjQ5MjMyNzVkODg3NmNhMWQxNTU5NWJiNzVhZTE3YmFkMzNhZjdkNzcwMTQ0OWJiNzQ3ZWMwZmJkYjFmNDY)
+
+(b.) *Crunchbase API.*  Crunchbase has one of the premier sources of company data, providing an index of the startup community over time.  Currently, while much data is available through direct download, some additional data requires
+Because of the licensing agreement, this repository is private and all people associated with the project have to sign a terms of service agreement. The goal is to build on the [crunch-time](https://github.com/CalvinLeGassick/crunch-time). In addition to data manipulation and management, there is a need to use [Gensim](https://radimrehurek.com/gensim/) topic modeling and cosine similarity as in [this paper](https://misq.org/toward-a-better-measure-of-business-proximity-topic-modeling-for-industry-intelligence.html)
+
+Steps.
+1. Get familiar with what crunchbase is..view website.
+2. Download [Crunchbase 2013 Data](https://data.crunchbase.com/docs)
+
+Group A
+3. Modeling group..request access to repository..... Install Gensim.  Load Company CSV. Load to Pandas.   Read about topic modeling and review MISQ paper.  Try topic modeling.  Figure out cosine similarity.
+
+Group B
+4. API group. Request Access to repository.  Fill out form and say you are working with me. Try accessing API using [crunch-time](https://github.com/CalvinLeGassick/crunch-time) (need api access) and figure out how to pull Founder and School data.

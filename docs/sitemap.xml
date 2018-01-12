@@ -152,11 +152,20 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6790-sp18/overview/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/proposals/self-driving-rc/</loc>
   </url>
   
   <url>
     <loc>http://rpi.analyticsdojo.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6790-sp18/</loc>
     <priority>0</priority>
   </url>
   

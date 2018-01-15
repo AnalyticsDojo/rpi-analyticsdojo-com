@@ -5,7 +5,7 @@
 * **When:** Lectures Monday Evenings from 6:00 PM to 8:50 PM
 * **Where:** PITTS 4114  
 
-- [Course Materials](https://github.com/jkuruzovich/techfundamentals-fall2017-materials)
+- [Course Materials](https://github.com/jkuruzovich/techfundamentals-spring2018-materials)
 - [RPI LMS (Blackboard)](https://lms9.rpi.edu) will be used to keep track of grades.
 - [Computer Setup](computer-setup.md)
 - [Additional Learning Resources](resources.md)

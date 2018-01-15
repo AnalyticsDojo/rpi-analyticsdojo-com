@@ -22,8 +22,8 @@ The goal of this class is to introduce you to some of the foundational aspects o
 - Deleting and repulling your repository.
 ```
 %%bash
-rm -rf techfundamentals-fall2017-materials
-git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
+rm -rf techfundamentals-spring2018-materials
+git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials
 ```
 
 - Updating your repository. (Run from within repository).

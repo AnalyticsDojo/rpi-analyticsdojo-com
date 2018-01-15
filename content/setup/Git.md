@@ -16,14 +16,14 @@ Git is a version control system use to track changes to code, and when combined 
 (4) Once you are done installing Github desktop, open the program.  Sign in with your Github Credentials to link the desktop application with your Github account.
 
 
-(5) Clone the [class repository](https://github.com/jkuruzovich/techfundamentals-fall2017-materials) either from the desktop tool or from the command line.
+(5) Clone the [class repository](https://github.com/jkuruzovich/techfundamentals-spring2018-materials) either from the desktop tool or from the command line.
 
 From the Github tool:
 ![clone](clone.png)
 
 From the command line:
 ```
-git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
+git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials
 ```
 
 (6) In the future when you want to update the repository, you can do so either from the command line or the GitHub Desktop tool.

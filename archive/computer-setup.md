@@ -39,16 +39,16 @@ If you are a Linux user, please help in supporting the class. You likely won't n
 
 
 ### Advanced Configuration
-(a.) Clone the [class repository](https://github.com/jkuruzovich/techfundamentals-fall2017-materials) either from the desktop tool or from the command line.
+(a.) Clone the [class repository](https://github.com/jkuruzovich/techfundamentals-spring2018-materials) either from the desktop tool or from the command line.
 
 From the command line:
 ```
-$ git clone https://github.com/jkuruzovich/techfundamentals-fall2017-materials
+$ git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials
 ```
-(b.) From the command line change directories to the `techfundamentals-fall2017-materials` folder.
+(b.) From the command line change directories to the `techfundamentals-spring2018-materials` folder.
 
 ```
-$ cd techfundamentals-fall2017-materials
+$ cd techfundamentals-spring2018-materials
 ```
 
 Or from the Github Application right click on the repository name and click `Open in Terminal.`

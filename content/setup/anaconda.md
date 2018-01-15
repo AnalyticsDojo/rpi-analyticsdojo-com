@@ -34,19 +34,19 @@ If you are a Linux user, please help in supporting the class. You likely won't n
 
 (a.) Windows users, open an 'Anaconda Prompt'.  Mac/Linux users open a standard terminal.
 
-(b.) Change directories to the `techfundamentals-fall2017-materials` folder you cloned earlier.
+(b.) Change directories to the `techfundamentals-spring2018-materials` folder you cloned earlier.
 
 ```
-cd <insert full path >\techfundamentals-fall2017-materials
+cd <insert full path >\techfundamentals-spring2018-materials
 ```
 For the above, changing directories differs for Windows or Mac users. For example, on a Mac it might be:
 ```
-cd /Users/jasonkuruzovich/githubdesktop/techfundamentals-fall2017-materials
+cd /Users/jasonkuruzovich/githubdesktop/techfundamentals-spring2018-materials
 ```
 On Windows, if you have a space somewhere in your path make sure that you include quotes:
 
 ```
-cd "c:\Users\jasonkuruzovich\github\techfundamentals-fall2017-materials"
+cd "c:\Users\jasonkuruzovich\github\techfundamentals-spring2018-materials"
 ```
 
 

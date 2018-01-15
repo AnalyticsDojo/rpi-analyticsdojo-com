@@ -312,7 +312,7 @@
 	"title": "RPI Analytics Dojo",
 	"tags": [],
 	"description": "Technology and Infrastructure for Teaching Data &amp; Computation Courses",
-	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (mgmt6560-fa17-Fall2017)\nBusiness Analytics Capstone (MGMT6790-Spring2017) Coming Soon.\nWinter Break projects What stories will you generate for interviews over winter break? Work on one of these research projects.\n"
+	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (mgmt6560 Spring 2018)\nPrevious Courses: Technology Fundamentals for Business Analytics (mgmt6560 Fall 2017)\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/_header/",
@@ -320,6 +320,13 @@
 	"tags": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6790-sp18/class-tuesday/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": "All,\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6790-sp18/overview/",

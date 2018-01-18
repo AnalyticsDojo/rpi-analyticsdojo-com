@@ -1,29 +1,27 @@
 +++
-title = "mgmt6560-sp18-Tech Fundamentals"
+title = "MGMT4966/MGMT6560 Spring 2018"
 description = ""
 weight = 1
 alwaysopen = true
 +++
-## Technology Fundamentals for Business Analytics (mgmt6560-sp18-Fall2017)
+### Technology Fundamentals for Business Analytics
 
 
 ### IMPORTANT INFORMATION:
 
-* **When:** Lectures Monday Evenings from 6:00 PM to 8:50 PM
-* **Where:** PITTS 4114
+* **When:** Monday/Thursday  12:00 PM to 2:50 PM
+* **Where:** SAGE3704
 
-### COURSE DESCRIPTION:
+The [Schedule](schedule/) for the course.
 
-The widespread proliferation of IT-influenced economic activity leaves behind a rich trail of micro-level data, enabling organizations to use analytics and experimentation in both strategy and operations. This course provides a hands-on introduction to the concepts, methods and processes of business analytics. We will learn how to obtain data and draw business inferences from data by asking the right questions and using the appropriate tools.
+The [Course Materials](https://github.com/jkuruzovich/techfundamentals-spring2018-materials), including all data and jupyter notebooks.
 
+The [lab.jupyterhub.com](http://lab.analyticsdojo.com) will be available for your assignments.
 
-### COURSE GOALS/OBJECTIVES
+The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 
-The goal of this course will be to provide the technical foundation to enable students to become data scientists.
+[Github](https://github.com) will be used for programming assignment collection. See [assignments](assignments/) for more detailed procedures.
 
-### STUDENT LEARNING OUTCOMES
+[Slack](https://techfund-sp2018.slack.com) will be the primary method of communication. Please download the Slack App for your [mobile and desktop](https://slack.com/downloads/).
 
-Through this course you are expected to: <br>
-(1)	Demonstrate an understanding of analytics based problem solving and analytics thinking.<br>
-(2)	Be able to extract, match, transform, and clean data from a variety of sources. <br>
-(3)	Conduct structured statistical analyses to answer business related questions.<br>
+This [Dropbox Share](https://www.dropbox.com/sh/le0ejfxuqjd1ecv/AAD4nyGKgu2hrQ32fWLZvz4Da?dl=0) will include all presentations.

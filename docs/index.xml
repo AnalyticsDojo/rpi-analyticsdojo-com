@@ -12,13 +12,22 @@
     
     
     <item>
-      <title>Week 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</link>
+      <title>Assignment 1</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/schedule/class1/</guid>
-      <description>Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: This class is to discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized. We will also show you how to work in Jupyter Notebooks and with Git/Github.
-Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments (this is new so there may be bumps).</description>
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment1/</guid>
+      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
+      <title>Session 1</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session1/</guid>
+      <description> Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: In this classe we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.
+In Class Activities:  For presentation, see Dropbox.  </description>
     </item>
     
     <item>
@@ -55,13 +64,25 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
     </item>
     
     <item>
+      <title>Session 2</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session2/</guid>
+      <description>Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
+Readings (To be done before class):  Create a GitHub account. We will be using GitHub Classroom for collecting assignments. Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  Assignment:  Homework 1. More details on the homework assignment process can be found here.</description>
+    </item>
+    
+    <item>
       <title>Office/Lab Hours</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/office/</guid>
-      <description>Jason Kuruzovich * Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment * Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
-This class doesn&amp;rsquo;t have an official lab section because of graduate student scheduling. As a result, we will use office hours as a secondary &amp;ldquo;Lab&amp;rdquo; time for people who are just getting started with technology.</description>
+      <description>Jason Kuruzovich
+ Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
+  Lianlian (Dorothy) Jiang (grader)
+ Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment  Office/Lab Location: 2226 Pittsburgh.   Please see Dorothy primarily for issues related to grading.</description>
     </item>
     
     <item>
@@ -93,7 +114,7 @@ This class doesn&amp;rsquo;t have an official lab section because of graduate st
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/grading/</guid>
-      <description>   Component Weight     Homeworks and Labs and Quizzes 30%   Participation 5%   Projects (Multi-week Homeworks) 25%   Midterm (7th Class) 20%   Final Exam 25%    </description>
+      <description>   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    </description>
     </item>
     
     <item>
@@ -126,16 +147,6 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
     </item>
     
     <item>
-      <title>Assignments</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/</guid>
-      <description>READ THIS FIRST For each assignment you must first accept the assignment. The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment. Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
-https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&amp;gt;  Homework Assignments from one class will be due the following Wednesday by 11:59 PM.</description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>http://rpi.analyticsdojo.com/resources/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -148,13 +159,13 @@ https://github.com/techfundamentals-fall20XX/hm-xx-&amp;lt;your-github-username&
     </item>
     
     <item>
-      <title>Project 1</title>
+      <title>Project</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</guid>
-      <description>Project 1 is Due 10-27s at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
-Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
+      <description>This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections. The following are currently approved projects.</description>
     </item>
     
     <item>
@@ -163,7 +174,7 @@ Project Selection There are a tremendous number of potential Kaggle projects ava
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/project2/</guid>
-      <description>Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
+      <description>Project 2 is Due 5-4 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.</description>
     </item>
     
     <item>

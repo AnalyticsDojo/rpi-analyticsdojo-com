@@ -35,13 +35,13 @@ weight = 10
 [[menu.shortcuts]]
 name = "<i class='fa fa-slack'></i>Join Slack (rpi email)"
 identifier = "Slack"
-url = "https://join.slack.com/t/tf-f17/signup"
+url = "https://techfund-sp2018.slack.com"
 weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-dropbox'></i> Dropbox Share"
 identifier = "Dropbox"
-url = "https://www.dropbox.com/sh/5tpg39c7ynkbx11/AABgxq0CGM0gWbO3L0YMB8YKa?dl=0"
+url = "https://www.dropbox.com/sh/le0ejfxuqjd1ecv/AAD4nyGKgu2hrQ32fWLZvz4Da?dl=0"
 weight = 30
 
 [[menu.shortcuts]]

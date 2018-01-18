@@ -1,17 +1,17 @@
 +++
 title = "Assignments"
 description = ""
-weight = 10
+weight = 6
+alwaysopen = true
 +++
 
 ## READ THIS FIRST
 ### For each assignment you must first *accept the assignment*.  The link to accept an assignment is not on this page but on the class page under the assignment heading. Just click on the button to accept the assignment.
 
-
 Accepting the assignment will create a git repository that you will use to submit assignments. Most will be private, and they should be of the form:
 
 ```
-https://github.com/techfundamentals-fall20XX/hm-xx-<your-github-username>
+https://github.com/techfundamentals-spring20XX/hm-xx-<your-github-username>
 ```
 
 

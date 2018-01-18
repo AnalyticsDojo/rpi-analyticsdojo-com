@@ -4,7 +4,7 @@ description = ""
 weight = 13
 +++
 
-#### Project 2 is Due 12-14 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
+#### Project 2 is Due 5-4 at 11:59 PM. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 
 ###  Project Objective
 The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation. This will extend on the details learned in part 1 and focus on modeling.

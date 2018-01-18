@@ -7,8 +7,7 @@ weight = 6
 
 | Component                         | Weight |
 |-----------------------------------|--------|
-| Homeworks and Labs and Quizzes    | 30%    |
-| Participation                     | 5%     |
-| Projects (Multi-week Homeworks)   | 25%    |
+| Homeworks and Labs                | 30%    |
+| Projects (Multi-week Homeworks)   | 30%    |
 | Midterm (7th Class)               | 20%    |
-| Final Exam                        | 25%    |
+| Final Exam                        | 20%    |

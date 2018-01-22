@@ -8,7 +8,7 @@ weight = 3
 
 ### Class Objective:
 
-The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.
+The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. 
 
 ### Readings (To be done before class):
 - [Chapter 1 Introduction to Machine Learning with Python](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/machine-learning/9781449369880)

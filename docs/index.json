@@ -63,6 +63,13 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session3/",
+	"title": "Session 3",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python. We will cover some basic data structures as well as operations on those data structures.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See dropbox.  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],

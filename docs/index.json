@@ -53,7 +53,7 @@
 	"title": "Session 2",
 	"tags": [],
 	"description": "",
-	"content": " Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  "
+	"content": " Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  In Class Activities:  Running code, Data and Packages (see Dropbox) Command Line Cheat Sheet Assignment Process Running Jupyter locally Installing a package locally:  conda install -c conda-forge fastparquet  Cloning and using notebooks in the cloud at [lab.analyticsdojo.com]()  git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials  Assignment 1  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/",

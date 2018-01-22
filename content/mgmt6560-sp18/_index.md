@@ -12,7 +12,7 @@ alwaysopen = true
 * **When:** Monday/Thursday  12:00 PM to 2:50 PM
 * **Where:** SAGE3704
 
-The [Schedule](schedule/) for the course.
+The [Schedule](sessions/) for the course.
 
 The [Course Materials](https://github.com/jkuruzovich/techfundamentals-spring2018-materials), including all data and jupyter notebooks.
 

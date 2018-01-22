@@ -38,4 +38,4 @@ alwaysopen = true
 | 27 | Thu | 04/26 | **Final Presentations** <br> [more](/mgmt6560-sp18/sessions/session27/) |
 | 28 | Mon | 04/30 | **Final Presentations** <br> [more](/mgmt6560-sp18/sessions/session28/) |
 |  | Fri  | 05/04 | **Project Due** <br>  <br> *[Project  Due](/mgmt6560-sp18/assignments/assignment16/)* <br> |
-|  | TBD** | TBD** | **Final Exam** <br>  | 
+|  | TBD** | TBD** | **Final Exam** <br>  |  

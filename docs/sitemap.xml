@@ -7,10 +7,6 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/ai/</loc>
-  </url>
-  
-  <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/</loc>
   </url>
   
@@ -100,6 +96,10 @@
   
   <url>
     <loc>http://rpi.analyticsdojo.com/proposals/winterbreak/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/ai/</loc>
   </url>
   
   <url>

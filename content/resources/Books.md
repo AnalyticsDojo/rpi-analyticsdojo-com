@@ -14,6 +14,9 @@ weight = 20
 ### Git
 - [Pro Git](https://git-scm.com/book/en/v2)
 
+### PYTHON
+- [Introduction to Machine Learning with Python](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/machine-learning/9781449369880)
+- [Data Science Handbook](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/python/9781491912126)
 
 ### R
 - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Free online PDF)

@@ -80,7 +80,7 @@ Readings (To be done before class):  Additional Suggested Reading: Chapter 1 fro
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session3/</guid>
       <description>Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python.
-Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science.</description>
+Readings (To be done before class):  Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science.</description>
     </item>
     
     <item>
@@ -93,6 +93,16 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
  Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
   Lianlian (Dorothy) Jiang (grader)
  Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment  Office/Lab Location: 2226 Pittsburgh.   Please see Dorothy primarily for issues related to grading.</description>
+    </item>
+    
+    <item>
+      <title>Session 4</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session4/</guid>
+      <description>Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach.</description>
     </item>
     
     <item>
@@ -187,8 +197,7 @@ Project Selection There are a tremendous number of potential Kaggle projects ava
       <description>O&amp;rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn&amp;rsquo;t listed, the library can adjust the list.
 Data Science &amp;amp; Business Data Science for Business 
 Doing Data Science
-Git  Pro Git  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)
- Introduction to Machine Learning with Python by Andreas C.</description>
+Git  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science Handbook  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)</description>
     </item>
     
     <item>

@@ -21,6 +21,13 @@
 	"content": " Course Overview \u0026amp; Introduction to the Data Science Lifecycle Class Objective: In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.\nIn Class Activities:  For presentation, see Dropbox. Create a Github account. Enter your Github account here. Sign up for Slack here. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda.  "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment2/",
+	"title": "Assignment 2",
+	"tags": [],
+	"description": "",
+	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/setup/",
 	"title": "Compute Environment",
 	"tags": [],
@@ -81,7 +88,7 @@
 	"title": "Session 4",
 	"tags": [],
 	"description": "",
-	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See the Tech Fundamentals.  "
+	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See the Tech Fundamentals class materials repository. Be sure to download updates by using the sync or pull buttons on GitHub Desktop.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
@@ -151,7 +158,7 @@
 	"title": "Books",
 	"tags": [],
 	"description": "",
-	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science Handbook  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Deep Learning  Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron  Big Data  Mining Massive Datasets  "
+	"content": " O\u0026rsquo;Reilly Media titles can be accessed through the RPI library subscription. If there is a specific title you would like access to that isn\u0026rsquo;t listed, the library can adjust the list.\nData Science \u0026amp; Business Data Science for Business \nDoing Data Science\nGit  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science Handbook Data Science from Scratch  R  Introduction to Statistical Learning (Free online PDF) R for Data Science (available online)\n Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library)\n Think Stats Probability and Statistics for Programmers in Python (free download)\n  Deep Learning  Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron  Big Data  Mining Massive Datasets  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/proposals/data8/",

@@ -16,4 +16,4 @@ The goal of this class is to introduce you to some basic data structures using P
 
 
 #### In Class Activities:
-- See the Tech Fundamentals.
+- See the Tech Fundamentals class materials repository. Be sure to download updates by using the `sync` or `pull` buttons on GitHub Desktop.

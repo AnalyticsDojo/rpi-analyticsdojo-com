@@ -17,6 +17,7 @@ weight = 20
 ### PYTHON
 - [Introduction to Machine Learning with Python](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/machine-learning/9781449369880)
 - [Data Science Handbook](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/python/9781491912126)
+- [Data Science from Scratch](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/databases/9781491901410)
 
 ### R
 - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (Free online PDF)

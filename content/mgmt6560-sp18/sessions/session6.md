@@ -1,7 +1,7 @@
 +++
-title = "Week 3"
+title = "Session 6"
 description = ""
-weight = 3
+weight = 6
 draft = true
 +++
 

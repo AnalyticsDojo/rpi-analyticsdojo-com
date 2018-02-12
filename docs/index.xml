@@ -203,6 +203,16 @@ Python: Conda
     </item>
     
     <item>
+      <title>Session 8</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session8/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  </description>
+    </item>
+    
+    <item>
       <title>Anaconda</title>
       <link>http://rpi.analyticsdojo.com/setup/anaconda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -275,15 +285,6 @@ This proposal suggests creating an instance of the Data 8 class @ Rensselaer. Al
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/_header/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session8/</guid>
       <description></description>
     </item>
     

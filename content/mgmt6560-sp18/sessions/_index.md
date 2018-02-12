@@ -9,11 +9,11 @@ alwaysopen = true
 | 1 | Thu | 01/18 | **Overview Analytics** <br> [more](/mgmt6560-sp18/sessions/session1/) |
 | 2 | Mon | 01/22 | **Introduction to Technologies Used In Class** <br> [more](/mgmt6560-sp18/sessions/session2/) <br> *[ Assignment 1 Released (Due 1-29 11:59 PM)](/mgmt6560-sp18/assignments/assignment1/)* <br> |
 | 3 | Thu | 01/25 | **Data Fundamentals and Introduction to Python** <br> [more](/mgmt6560-sp18/sessions/session3/) |
-| 4 | Mon | 01/29 | **Data Fundamentals and Introduction to Python** <br> [more](/mgmt6560-sp18/sessions/session4/) <br> *[Assignment 2  Released (Due 2-5 11:59 PM)](/mgmt6560-sp18/assignments/assignment3/)* <br> |
+| 4 | Mon | 01/29 | **Data Fundamentals and Introduction to Python** <br> [more](/mgmt6560-sp18/sessions/session4/) <br> *[Assignment 2  Released (Due 2-5 11:59 PM)](/mgmt6560-sp18/assignments/assignment2/)* <br> |
 | 5 | Thu | 02/01 | **Data Fundamentals and Introduction to Python II** <br> [more](/mgmt6560-sp18/sessions/session5/) |
-| 6 | Mon | 02/05 | **Data Fundamentals and Introduction to Python II** <br> [more](/mgmt6560-sp18/sessions/session6/) <br> *[Assignment 3 Released (Due 2-12 11:59 PM)](/mgmt6560-sp18/assignments/assignment4/)* <br> |
+| 6 | Mon | 02/05 | **Data Fundamentals and Introduction to Python II** <br> [more](/mgmt6560-sp18/sessions/session6/) <br> *[Assignment 3 Released (Due 2-12 11:59 PM)](/mgmt6560-sp18/assignments/assignment3/)* <br> |
 | 7 | Thu | 02/08 | **Introduction to APIs, Unstructured data, and Visualizations** <br> [more](/mgmt6560-sp18/sessions/session7/) |
-| 8 | Mon | 02/12 | **Introduction to APIs, Unstructured data, and Visualizations** <br> [more](/mgmt6560-sp18/sessions/session8/) <br> *[Assignment 4 Released (Due 2-12 11:59 PM)](/mgmt6560-sp18/assignments/assignment5/)* <br> |
+| 8 | Mon | 02/12 | **Introduction to APIs, Unstructured data, and Visualizations** <br> [more](/mgmt6560-sp18/sessions/session8/) <br> *[Assignment 4 Released (Due 2-20 11:59 PM)](/mgmt6560-sp18/assignments/assignment4/)* <br> |
 | 9 | Thu | 02/15 | **Introduction to R** <br> [more](/mgmt6560-sp18/sessions/session9/) |
 |  | Mon | 02/19 | **President's Day (No Classes)** <br>  |
 | 10 | Tues | 02/20 | **Introduction to R (Monday Schedule)** <br> [more](/mgmt6560-sp18/sessions/session10/) <br> *[Assignment 5 Released (Due 3-1 11:59 PM)](/mgmt6560-sp18/assignments/assignment6/)* <br> |
@@ -38,4 +38,4 @@ alwaysopen = true
 | 27 | Thu | 04/26 | **Final Presentations** <br> [more](/mgmt6560-sp18/sessions/session27/) |
 | 28 | Mon | 04/30 | **Final Presentations** <br> [more](/mgmt6560-sp18/sessions/session28/) |
 |  | Fri  | 05/04 | **Project Due** <br>  <br> *[Project  Due](/mgmt6560-sp18/assignments/assignment16/)* <br> |
-|  | TBD** | TBD** | **Final Exam** <br>  |  
+|  | TBD** | TBD** | **Final Exam** <br>  |

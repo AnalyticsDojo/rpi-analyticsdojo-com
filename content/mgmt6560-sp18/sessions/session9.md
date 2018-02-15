@@ -1,17 +1,24 @@
 +++
-title = "Session 8"
+title = "Session 9"
 description = ""
-weight = 8
+weight = 9
 
 +++
 
 ## Data Fundamentals and Introduction to Python (continued)
 
+## Introduction to R
+
 ### Class Objective:
 
-The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.
+The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
 
 ### Readings (To be done before class):
-- [Feature engineering in Titanic](https://www.kaggle.com/eryamada/titanic-eda-and-feature-engineering)
-- [Chapter 2 Data Science for Business](http://proquestcombo.safaribooksonline.com/book/databases/business-intelligence/9781449374273)
-- Review the [Twitter Documentation](https://developer.twitter.com/en/docs)
+None! Work on homework.
+
+#### In Class Activities:
+- Install r-essentials from conda
+  `conda install -y r-essentials`
+  (If running from jupyter notebook.)
+- See Dropbox for Presentations.
+- See materials repository for notebooks.

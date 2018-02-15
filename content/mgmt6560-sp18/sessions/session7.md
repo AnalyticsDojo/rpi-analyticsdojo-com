@@ -18,4 +18,4 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 
 #### In Class Activities:
 - See Dropbox for Presentations.
-- See materials repository.
+- See materials repository for notebooks.

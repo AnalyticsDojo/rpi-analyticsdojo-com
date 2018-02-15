@@ -1,7 +1,7 @@
 +++
-title = "Session 7"
+title = "Session 8"
 description = ""
-weight = 7
+weight = 8
 
 +++
 
@@ -15,7 +15,3 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 - [Feature engineering in Titanic](https://www.kaggle.com/eryamada/titanic-eda-and-feature-engineering)
 - [Chapter 2 Data Science for Business](http://proquestcombo.safaribooksonline.com/book/databases/business-intelligence/9781449374273)
 - Review the [Twitter Documentation](https://developer.twitter.com/en/docs)
-
-#### In Class Activities:
-- See Dropbox for Presentations.
-- See materials repository.

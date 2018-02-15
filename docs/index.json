@@ -158,7 +158,7 @@
 	"title": "Session 7",
 	"tags": [],
 	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  "
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations. See materials repository.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/python/",
@@ -169,6 +169,13 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session8/",
+	"title": "Session 8",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session9/",
 	"title": "Session 8",
 	"tags": [],
 	"description": "",
@@ -187,6 +194,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session10/",
+	"title": "Session 10",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames. (4) Install R and RStudio.\nAssignment "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/",

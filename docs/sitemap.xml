@@ -63,6 +63,10 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment5/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/resources/podcasts/</loc>
   </url>
   
@@ -119,7 +123,15 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session11/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session12/</loc>
   </url>
   
   <url>
@@ -145,6 +157,10 @@
   
   <url>
     <loc>http://rpi.analyticsdojo.com/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment6/</loc>
   </url>
   
   <url>

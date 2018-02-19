@@ -7,7 +7,7 @@
     <meta name="description" content="">
 
 
-    <title>Compute Environment :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title> :: Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link href="/css/nucleus.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     
 
   </head>
-  <body class="" data-url="/setup/">
+  <body class="" data-url="/mgmt6560-sp18/assignments/assignment6/">
     <nav id="sidebar" class="">
 
 
@@ -82,7 +82,7 @@
   
     
     <li data-nav-id="/mgmt6560-sp18/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -441,7 +441,7 @@
   
     
     <li data-nav-id="/mgmt6560-sp18/assignments/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -575,7 +575,7 @@
   
     
       <li data-nav-id="/mgmt6560-sp18/assignments/assignment6/" class="dd-item
-     
+     active
       ">
         <a href="/mgmt6560-sp18/assignments/assignment6/">
         <span></span> 
@@ -651,8 +651,8 @@
   
     
     <li data-nav-id="/setup/" class="dd-item 
-        parent
-        active
+        
+        
         parent
         ">
       <a href="/setup/">
@@ -1090,7 +1090,17 @@
 
 
 
- <a href='/'>RPI Analytics Dojo</a> > Compute Environment
+
+
+
+
+
+
+ <a href='/'>RPI Analytics Dojo</a> > <a href='/mgmt6560-sp18/'>MGMT4966/MGMT6560 Spring 2018</a> > <a href='/mgmt6560-sp18/assignments/'>Assignments</a> > 
+
+ 
+
+ 
 
  
 
@@ -1103,9 +1113,12 @@
 <ul>
 <li>
 <ul>
-<li><a href="#cloud">Cloud</a>
+<li>
 <ul>
-<li><a href="#our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</a></li>
+<li><a href="#assignment">Assignment</a>
+<ul>
+<li><a href="#getting-started-with-tableau-desktop">Getting Started with Tableau Desktop.</a></li>
+</ul></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -1118,7 +1131,7 @@
         
         <div id="body-inner">
           
-            <h1>Compute Environment</h1>
+            <h1></h1>
           
 
 
@@ -1126,39 +1139,41 @@
 
 
 
-<p>Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.</p>
+<h3 id="assignment">Assignment</h3>
 
-<p>We will be testing this semester a online JupyterHub instance that should simplify a lot of the setup. However this is still in an alpha release and it would be good to get an alternate compute environment setup on your laptop.</p>
+<p>This assignment should be turned into the LMS as a PDF.</p>
 
-<p>In describing options, there are <em>cloud</em> and <em>laptop</em> based ways of doing the exercises.</p>
+<h4 id="getting-started-with-tableau-desktop">Getting Started with Tableau Desktop.</h4>
 
-<h2 id="cloud">Cloud</h2>
+<p>For this lab we will begin the process of learning visualization through the <a href="https://www.kaggle.com/c/see-click-predict-fix">See Click Fix Kaggle Project</a>.  Go ahead and download the train file from <a href="https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv">Github</a> or from the <a href="https://www.dropbox.com/sh/1jrwf7ojow5js9t/AABaFESbOX81yotc3AuBNa0Za?dl=0">Dropbox/Kaggle folder</a>.</p>
 
-<p>A cloud based way of doing data science doesn&rsquo;t require you to install anything and you can be up and running in working with concepts asap.</p>
+<p>The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</p>
 
-<h3 id="our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</h3>
+<p>(1). IN YOUR OWN WORDS, describe what the data involves and key fields that are identified.</p>
 
-<p>For the cloud instance at <a href="http://lab.analyticsdojo.com">lab.analyticsdojo.com</a>, there is some cool technology that is driving this. We are utilizing <a href="https://kubernetes.io">Kubernetes</a> on the Google Cloud Platform to run Jupyterhub.  This is based on some amazing work by a talented community of open source developers.</p>
+<p><em>Import the Data.</em>  You should be able to do this using the instructions from class and the video.
+We want to get started with identifying the data on a map.  Drag the Longitude to the column and the Latitude to the rows.</p>
 
-<p>When someone logs into the platform, the students obtain their own <em>container</em> to run on, giving them access to a compute environment that is much more flexible than a typical brower.</p>
+<p><em>Filter the Data.</em>  We have 4 cities here but we only want one of them.  We need to create a filter that selects based on the longitude/latitude to only show one city.</p>
 
-<p>##Laptop
-When running on your laptop, there are 2 different configuration options that that are possible.</p>
+<p>(2). IN YOUR OWN WORDS, describe the filter you created to select only one city.</p>
 
-<p>For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase</p>
+<p><em>Change the type to a Map.</em>  Select on the <em>Show Me</em> map to show your city on a map.  (This actually happens automatically).</p>
 
-<p>It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment. This has worked perfectly in the past for Mac users and not so well for Windows users, but I understand Docker for Windows has come a long way.</p>
+<p><em>Tag Type.</em> Drag the tags over to the colors and select filter and add.  Select just a few tags.</p>
 
-<p>Please feel free to post issues on the Slack channel.</p>
+<p><em>Understand Tags</em>.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags.</p>
 
-<p>Follow the instructions to install <a href="/setup/git/">git/GitHub Desktop</a> and <a href="/setup/anaconda">Anaconda</a>.</p>
+<p>(3). Provide an image showing the 5 most frequent tag types.</p>
+
+<p>(4).  Create 4 visualizations that help you to understand more details about the data or make a specific point.  At least one should use the Map.  Provide 1-3 sentences to describe each visualization.</p>
+
+<p>Here are some <a href="https://gist.github.com/jkuruzovich/a3b49f5004ad1e466ae5ddc97662d3e6">examples</a>.</p>
 
 
 <footer class=" footline" >
 	
 </footer>
-
-
 
 
 
@@ -1197,8 +1212,6 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -1214,6 +1227,9 @@ When running on your laptop, there are 2 different configuration options that th
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -1254,22 +1270,6 @@ When running on your laptop, there are 2 different configuration options that th
                     
                     
 
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
                     
                         
             
@@ -1447,6 +1447,225 @@ When running on your laptop, there are 2 different configuration options that th
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -1591,205 +1810,6 @@ When running on your laptop, there are 2 different configuration options that th
                     
 
                     
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                        
-                        
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
                         
             
             
@@ -1848,10 +1868,10 @@ When running on your laptop, there are 2 different configuration options that th
 
 
         
-            <a class="nav nav-prev" href="/mgmt6560-sp18/project1/" title="Project"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/mgmt6560-sp18/assignments/assignment5/" title="Assignment 5"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/setup/git/" title="Git/GitHub" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/mgmt6560-sp18/grading/" title="Grading" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -1877,3 +1897,4 @@ When running on your laptop, there are 2 different configuration options that th
 
   </body>
 </html>
+

@@ -207,7 +207,7 @@
 	"title": "Session 10",
 	"tags": [],
 	"description": "",
-	"content": " R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames. (4) Install R and RStudio.\nAssignment "
+	"content": " R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames. (4) Install R and RStudio.\nIn Class Activities  See R Notebooks in the Materials Introduction to R Studio  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session11/",

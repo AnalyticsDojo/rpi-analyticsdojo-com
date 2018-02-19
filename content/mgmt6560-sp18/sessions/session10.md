@@ -18,4 +18,6 @@ The goal of this class is to get you familiar to using R. While we will be Jupyt
 Matrices, arrays, and Data frames.
 (4) Install [R](http://cran.revolutionanalytics.com) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 
-### Assignment
+## In Class Activities
+- See R Notebooks in the Materials
+- Introduction to R Studio

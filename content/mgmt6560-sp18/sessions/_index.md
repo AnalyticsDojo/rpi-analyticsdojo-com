@@ -17,7 +17,7 @@ alwaysopen = true
 | 9 | Thu | 02/15 | **Introduction to R** <br> [more](/mgmt6560-sp18/sessions/session9/) |
 |  | Mon | 02/19 | **President's Day (No Classes)** <br>  |
 | 10 | Tues | 02/20 | **Introduction to R (Monday Schedule)** <br> [more](/mgmt6560-sp18/sessions/session10/) <br> *[Assignment 5 Released (Due 3-1 11:59 PM)](/mgmt6560-sp18/assignments/assignment6/)* <br> |
-| 11 | Thu | 02/22 | **Intro to Visualization** <br> [more](/mgmt6560-sp18/sessions/session11/) |
+| 11 | Thu | 02/22 | **Project Work Day/Guest Speakers** <br> [more](/mgmt6560-sp18/sessions/session11/) |
 | 12 | Mon | 02/26 | **Project Work Day** <br> [more](/mgmt6560-sp18/sessions/session12/) |
 | 13 | Thu | 03/01 | **Intro to Visualization** <br> [more](/mgmt6560-sp18/sessions/session13/) <br> *[Assignment 6 Released (Due 3-20 11:59 PM)](/mgmt6560-sp18/assignments/assignment7/)* <br> |
 | 14 | Mon | 03/05 | **Introduction to Modeling** <br> [more](/mgmt6560-sp18/sessions/session14/) |

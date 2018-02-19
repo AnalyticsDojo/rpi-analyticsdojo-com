@@ -5,7 +5,7 @@ weight = 10
 
 +++
 
-## Data Fundamentals and Introduction to Python (continued)
+## R
 
 ## Class Objective:
 
@@ -16,6 +16,6 @@ The goal of this class is to get you familiar to using R. While we will be Jupyt
 (2) [Workflow Basics](http://r4ds.had.co.nz/workflow-basics.html)
 (3) From [Data Structures](http://adv-r.had.co.nz/Data-structures.html) including Vectors, Attributes,
 Matrices, arrays, and Data frames.
-(4) Install [R](http://cran.revolutionanalytics.com) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download). 
+(4) Install [R](http://cran.revolutionanalytics.com) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 
 ### Assignment

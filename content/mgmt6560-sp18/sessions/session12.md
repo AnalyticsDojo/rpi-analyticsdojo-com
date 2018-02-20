@@ -11,7 +11,7 @@ weight = 12
 The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 
 ### Assignment (To be done before class):
-- [Install Tableau](https://www.tableau.com/tft/activation) I have posted the key to Slack.
+- [Install Tableau](https://www.tableau.com/academic/students) Free for university students. 
 - [Tableau - Data analytics for university students guide](https://www.tableau.com/university-students)
 - [Designing Great Visualizations](http://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
 - [Tableau getting Started](http://www.tableau.com/learn/tutorials/on-demand/getting-started)

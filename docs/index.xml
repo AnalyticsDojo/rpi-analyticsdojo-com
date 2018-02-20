@@ -272,7 +272,8 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session10/</guid>
       <description>R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
-Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames. (4) Install RStudio via Anaconda</description>
+Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.
+(4) Install RStudio via Anaconda Rstudio is then launched from the command prompt via the command rstudio.</description>
     </item>
     
     <item>

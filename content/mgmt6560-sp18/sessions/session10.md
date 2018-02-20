@@ -16,10 +16,11 @@ The goal of this class is to get you familiar to using R. While we will be Jupyt
 (2) [Workflow Basics](http://r4ds.had.co.nz/workflow-basics.html)
 (3) From [Data Structures](http://adv-r.had.co.nz/Data-structures.html) including Vectors, Attributes,
 Matrices, arrays, and Data frames.
-(4) [Install RStudio via Anaconda](https://anaconda.org/r/rstudio)
 
-While we can also directly install [R](http://cran.revolutionanalytics.com) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download), I believe standardizing on the Anaconda environment is the best way. 
+(4) [Install RStudio via Anaconda](https://anaconda.org/r/rstudio) Rstudio is then launched from the command prompt via the command `rstudio`.
+
+If installing RStudio from Anacona doesn't work you can also directly install [R](http://cran.revolutionanalytics.com) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 
 ## In Class Activities
-- See R Notebooks in the Materials
-- Introduction to R Studio
+- See R Notebooks in the Materials repository.
+- Introduction to R Studio.

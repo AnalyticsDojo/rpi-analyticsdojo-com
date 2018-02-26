@@ -273,7 +273,7 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session10/</guid>
       <description>R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
 Readings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.
-(4) Install RStudio via Anaconda Rstudio is then launched from the command prompt via the command rstudio.</description>
+(4) Install RStudio via the Anaconda Navigator.</description>
     </item>
     
     <item>
@@ -356,7 +356,7 @@ Git  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science 
       
       <guid>http://rpi.analyticsdojo.com/proposals/data8/</guid>
       <description>Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.
-For the Data 8 class, the University of California at Berkley has developed an open [curriculum]() and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.
+For the Data 8 class, the University of California at Berkley has developed an open curriculum and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.
 This proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.</description>
     </item>
     

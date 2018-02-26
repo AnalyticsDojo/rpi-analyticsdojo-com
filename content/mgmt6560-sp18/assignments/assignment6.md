@@ -25,7 +25,7 @@ We want to get started with identifying the data on a map.  Drag the Longitude t
 
 <Insert your graph here.>
 
-(4) *Understand Tags*.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags. Provide an image showing the 5 most frequent tag types.
+(4) *Understand Tags*.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags. Provide an image showing the 5 most frequent tag types (not including NAs).
 
 <Insert your graph here.>
 
@@ -38,4 +38,4 @@ We want to get started with identifying the data on a map.  Drag the Longitude t
 
 Here are some [examples](https://gist.github.com/jkuruzovich/a3b49f5004ad1e466ae5ddc97662d3e6).
 
-Your final submission should have 7 graphs. 
+Your final submission should have 7 graphs.

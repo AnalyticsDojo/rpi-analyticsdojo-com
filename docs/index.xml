@@ -161,6 +161,17 @@ In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With 
     </item>
     
     <item>
+      <title>Assignment 6</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment6/</guid>
+      <description>Assignment This assignment should be turned into the LMS as a PDF.
+Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
+The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>http://rpi.analyticsdojo.com/resources/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -377,17 +388,6 @@ This proposal suggests creating an instance of the Data 8 class @ Rensselaer. Al
       
       <guid>http://rpi.analyticsdojo.com/_header/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment6/</guid>
-      <description>Assignment This assignment should be turned into the LMS as a PDF.
-Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
-The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</description>
     </item>
     
     <item>

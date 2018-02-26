@@ -1,3 +1,10 @@
++++
+title = "Assignment 6"
+description = ""
+weight = 6
++++
+
+
 ### Assignment
 This assignment should be turned into the LMS as a PDF.
 

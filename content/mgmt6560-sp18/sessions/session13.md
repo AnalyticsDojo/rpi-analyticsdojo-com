@@ -52,9 +52,12 @@ The goal of this class is to introduce principles of visualization and to show e
 - [MatPlotLib](http://matplotlib.org)
 - [ggPLOT2](http://docs.ggplot2.org/current/)
 
-#### Web Optimimized
+#### Web Widgets
+- [Dash](https://plot.ly/products/dash/)
+- [Bokeh](https://bokeh.pydata.org/en/latest/)
+- [Bokeh vs Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f) Seems to come down on the side of Dash.
+- [Shiny for R](https://shiny.rstudio.com) 
 - [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
-- [Seaborn Kaggle](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
 
 #### Business Applications/Dashboards
 - [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/)

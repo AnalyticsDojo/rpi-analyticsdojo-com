@@ -4,7 +4,11 @@ description = ""
 weight = 12
 +++
 
+#### Link to project sign up sheet.
+[Project sign up sheet.](https://docs.google.com/spreadsheets/d/1xdgqaYf3HIN5tq8u9EjC9HfP7ifBBIDtz85fj7ZaYS0/edit#gid=0)
+
 #### This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
+
 
 ###  Project Objective
 The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and  evaluation.

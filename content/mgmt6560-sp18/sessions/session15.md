@@ -48,4 +48,22 @@ Part 2 Sample Questions.
 3. Take the mean of the y variable of the dataframe.
 
 
+
 ### Appeal process
+
+If you feel one of your solutions will work but was marked off, you can do the following:
+
+1. Take a picture of the question and solution.
+
+2. Accept the [midterm-appeal assignment](https://classroom.github.com/a/Slqqlqmk).
+
+3. Test if the solution works.
+
+4. If your solution does work but was marked off, add a markdown cell with the original picture and commit/push the example.
+
+5. Provide a Slack message to Jason Kuruzovich and Lianlian Jiang with a link to the repository.
+
+Your solution must work 100%. You cannot use this method to request additional partial credit.
+
+Data is here:
+[Repository](https://classroom.github.com/classrooms/13666020-technology-fundamentals/assignments/midterm)

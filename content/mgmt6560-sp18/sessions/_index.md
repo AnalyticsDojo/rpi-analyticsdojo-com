@@ -24,11 +24,11 @@ alwaysopen = true
 | 15 | Thu | 03/08 | **Midterm** <br> [more](/mgmt6560-sp18/sessions/session15/) |
 |  | Mon | 03/12 | **Spring Break** <br>  |
 |  | Thu | 03/15 | **Spring Break** <br>  |
-| 16 | Mon | 03/19 | **Introduction to Modeling** <br> [more](/mgmt6560-sp18/sessions/session16/) <br> *[Assignment 7 Released (Due 3-26 11:59 PM)](/mgmt6560-sp18/assignments/assignment9/)* <br> |
+| 16 | Mon | 03/19 | **Introduction to Modeling** <br> [more](/mgmt6560-sp18/sessions/session16/) <br> *[Assignment 7 Released (Due 3-28 11:59 PM)](/mgmt6560-sp18/assignments/assignment9/)* <br> |
 | 17 | Thu | 03/22 | **Introduction to Modeling** <br> [more](/mgmt6560-sp18/sessions/session17/) |
 | 18 | Mon | 03/26 | **Introduction to Modeling** <br> [more](/mgmt6560-sp18/sessions/session18/) |
-| 19 | Thu | 03/29 | **Guest Speaker - TBD** <br> [more](/mgmt6560-sp18/sessions/session19/) |
-| 20 | Mon | 04/02 | **Guest Speaker - TBD** <br> [more](/mgmt6560-sp18/sessions/session20/) <br> *[Project Draft (Sections 1-3) Due 4/2 11:59 PM](/mgmt6560-sp18/project/)* <br> |
+| 19 | Thu | 03/29 | **Introduction to Modeling/Project**  <br> [more](/mgmt6560-sp18/sessions/session19/) |
+| 20 | Mon | 04/02 | **Guest Speaker - TBD** <br> [more](/mgmt6560-sp18/sessions/session20/) <br> *[Project Draft (Sections 1-3) Due 4/6 11:59 PM](/mgmt6560-sp18/project/)* <br> |
 | 21 | Thu | 04/05 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-sp18/sessions/session21/) |
 | 22 | Mon | 04/09 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-sp18/sessions/session22/) |
 | 23 | Thu | 04/12 | **Introduction to Big Data** <br> [more](/mgmt6560-sp18/sessions/session23/) |

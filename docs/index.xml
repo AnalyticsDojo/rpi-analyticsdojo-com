@@ -229,7 +229,7 @@ Readings (To be done before class):  Feature engineering in Titanic Chapter 2 Da
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/assignments/assignment8/</guid>
-      <description>Assignment: Project Draft (Sections 1-3) Due 4&amp;frasl;6 11:59 PM
+      <description>Assignment: Project Draft (Sections 1-3) Due 4-6 11:59 PM
 See the project details for more information.</description>
     </item>
     
@@ -435,6 +435,16 @@ Git  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science 
       <description>Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.
 For the Data 8 class, the University of California at Berkley has developed an open curriculum and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.
 This proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.</description>
+    </item>
+    
+    <item>
+      <title>Session 20</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session20/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  </description>
     </item>
     
     <item>

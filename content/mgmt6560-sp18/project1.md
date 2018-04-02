@@ -62,3 +62,6 @@ The description below describes an ideal project.  Projects will be evaluated su
 - *The project is to be submitted to the [LMS](https://lms.rpi.edu).
 
 **NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean's office and receive a 0 on the project grade.**
+
+
+{{< button href="https://classroom.github.com/a/S0r9askj" >}} Accept the Project Assignment {{< /button >}}

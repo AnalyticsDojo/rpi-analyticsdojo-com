@@ -337,7 +337,7 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp18/sessions/session22/",
-	"title": "Session 21",
+	"title": "Session 22",
 	"tags": [],
 	"description": "",
 	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\n"

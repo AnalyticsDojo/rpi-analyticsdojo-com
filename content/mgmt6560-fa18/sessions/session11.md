@@ -2,7 +2,7 @@
 title = "Session 11"
 description = ""
 weight = 11
-
+draft= true
 +++
 
 ## Guest Speakers and Project Work Session
@@ -21,7 +21,7 @@ The goal of the project is to get to where you could approach a Kaggle project a
 
 Please check out the google sheet linked below.
 
-[Project Sign up and kernel list](https://docs.google.com/spreadsheets/d/1xdgqaYf3HIN5tq8u9EjC9HfP7ifBBIDtz85fj7ZaYS0/edit?usp=sharing) 
+[Project Sign up and kernel list](https://docs.google.com/spreadsheets/d/1xdgqaYf3HIN5tq8u9EjC9HfP7ifBBIDtz85fj7ZaYS0/edit?usp=sharing)
 
 1. Everyone take 20 minutes and add kernels from projects they might be interested in working it. Each kernel should be a submission. I've listed a few but you are welcome to select others.
 

@@ -2,6 +2,7 @@
 title = "Session 13"
 description = ""
 weight = 13
+draft= true
 +++
 
 ## Intro to Visualization
@@ -56,7 +57,7 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Dash](https://plot.ly/products/dash/)
 - [Bokeh](https://bokeh.pydata.org/en/latest/)
 - [Bokeh vs Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f) Seems to come down on the side of Dash.
-- [Shiny for R](https://shiny.rstudio.com) 
+- [Shiny for R](https://shiny.rstudio.com)
 - [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
 
 #### Business Applications/Dashboards

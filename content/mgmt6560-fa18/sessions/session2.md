@@ -2,6 +2,7 @@
 title = "Session 2"
 description = ""
 weight = 2
+draft = true
 +++
 
 ### Session 2

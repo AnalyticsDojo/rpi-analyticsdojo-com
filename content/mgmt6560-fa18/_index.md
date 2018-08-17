@@ -1,5 +1,5 @@
 +++
-title = "MGMT4966/MGMT6560 Spring 2018"
+title = "MGMT4966/MGMT6560 Fall 2018"
 description = ""
 weight = 1
 alwaysopen = true
@@ -9,8 +9,8 @@ alwaysopen = true
 
 ### IMPORTANT INFORMATION:
 
-* **When:** Monday/Thursday  12:00 PM to 2:50 PM
-* **Where:** SAGE3704
+* **When:** Tuesday/Friday  10:00 AM - 11:30AM
+* **Where:** PITTS 5216
 
 The [Schedule](sessions/) for the course.
 

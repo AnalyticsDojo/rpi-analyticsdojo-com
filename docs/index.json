@@ -8,10 +8,10 @@
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/",
-	"title": "MGMT4966/MGMT6560 Spring 2018",
+	"title": "MGMT4966/MGMT6560 Fall 2018",
 	"tags": [],
 	"description": "",
-	"content": " Technology Fundamentals for Business Analytics IMPORTANT INFORMATION:  When: Monday/Thursday 12:00 PM to 2:50 PM Where: SAGE3704  The Schedule for the course.\nThe Course Materials, including all data and jupyter notebooks.\nThe lab.jupyterhub.com will be available for your assignments.\nThe LMS will be used for submissions of projects.\nGithub will be used for programming assignment collection. See assignments for more detailed procedures.\nSlack will be the primary method of communication. Please download the Slack App for your mobile and desktop.\nThis Dropbox Share will include all presentations.\n"
+	"content": " Technology Fundamentals for Business Analytics IMPORTANT INFORMATION:  When: Tuesday/Friday 10:00 AM - 11:30AM Where: PITTS 5216  The Schedule for the course.\nThe Course Materials, including all data and jupyter notebooks.\nThe lab.jupyterhub.com will be available for your assignments.\nThe LMS will be used for submissions of projects.\nGithub will be used for programming assignment collection. See assignments for more detailed procedures.\nSlack will be the primary method of communication. Please download the Slack App for your mobile and desktop.\nThis Dropbox Share will include all presentations.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session1/",
@@ -49,13 +49,6 @@
 	"content": " Data Camp As part of this class you get a free subscription to Data Camp. I can\u0026rsquo;t post it here but will provide via email. Fast-AI Deep learning class. Siraj Rival Extremely entertaining YouTube star covers a wide variety of things in machine learning.  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session2/",
-	"title": "Session 2",
-	"tags": [],
-	"description": "",
-	"content": " Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library).  In Class Activities:  Running code, Data and Packages (see Dropbox) Command Line Cheat Sheet Assignment Process Running Jupyter locally Installing a package locally:  conda install -c conda-forge fastparquet  Cloning and using notebooks in the cloud at [lab.analyticsdojo.com]()  git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials  Assignment 1  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/",
 	"title": "Additional Resources",
 	"tags": [],
@@ -63,25 +56,11 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session3/",
-	"title": "Session 3",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python.\nReadings (To be done before class):  Chapters 1-3 from Principles of Data Wrangling Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See Dropbox for presentation.  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],
 	"description": "",
 	"content": "Jason Kuruzovich\n Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\n  Lianlian (Dorothy) Jiang (grader)\n Office/Lab Hours: Monday 3:00 PM - 5:00 PM and by appointment  Office/Lab Location: 2226 Pittsburgh.   Please see Dorothy primarily for issues related to grading.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session4/",
-	"title": "Session 4",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See the Tech Fundamentals class materials repository. Be sure to download updates by using the sync or pull buttons on GitHub Desktop.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
@@ -96,13 +75,6 @@
 	"tags": [],
 	"description": "",
 	"content": "   Session Day Date Topic     1 Thu 01/18 Overview Analytics more   2 Mon 01/22 Introduction to Technologies Used In Class more Assignment 1 Released (Due 1-29 11:59 PM)    3 Thu 01/25 Data Fundamentals and Introduction to Python more   4 Mon 01/29 Data Fundamentals and Introduction to Python more Assignment 2 Released (Due 2-5 11:59 PM)    5 Thu 02/01 Data Fundamentals and Introduction to Python II more   6 Mon 02/05 Data Fundamentals and Introduction to Python II more Assignment 3 Released (Due 2-12 11:59 PM)    7 Thu 02/08 Introduction to APIs, Unstructured data, and Visualizations more   8 Mon 02/12 Introduction to APIs, Unstructured data, and Visualizations more Assignment 4 Released (Due 2-20 11:59 PM)    9 Thu 02/15 Introduction to R more    Mon 02/19 President\u0026rsquo;s Day (No Classes)    10 Tues 02/20 Introduction to R (Monday Schedule) more Assignment 5 Released (Due 3-1 11:59 PM)    11 Thu 02/22 Project Work Day/Guest Speakers more   12 Mon 02/26 Intro to Visualization more Assignment 6 Released (Due 3-5 11:59 PM)    13 Thu 03/01 Intro to Visualization more   14 Mon 03/05 Project Work Day more   15 Thu 03/08 Midterm more    Mon 03/12 Spring Break     Thu 03/15 Spring Break    16 Mon 03/19 Introduction to Modeling more Assignment 7 Released (Due 3-28 11:59 PM)    17 Thu 03/22 Introduction to Modeling more   18 Mon 03/26 Introduction to Modeling more   19 Thu 03/29 Introduction to Modeling/Project more   20 Mon 04/02 Text Mining and Unstructured Data more   21 Thu 04/05 Text Mining and Unstructured Data more Project Draft (Sections 1-3) Due 4-6 11:59 PM    22 Mon 04/09 Text Mining and Unstructured Data more   23 Thu 04/12 Introduction to Big Data more   24 Mon 04/16 Introduction to Big Data more   25 Thu 04/19 Intro to Deep Learning more   26 Mon 04/23 Intro to Deep Learning more Project Work    27 Thu 04/26 Final Presentations more   28 Mon 04/30 Final Presentations more    Fri 05/04 Project Due Project Due     Wed 5\u0026frasl;09 Final Exam 11:30-2:30    "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session5/",
-	"title": "Session 5",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nIn Class Activities:  See Dropbox for Presentations Introduction to Kaggle With Titanic  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/",
@@ -126,39 +98,11 @@
 	"content": "   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session6/",
-	"title": "Session 6",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With Titanic  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session7/",
-	"title": "Session 7",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations. See materials repository for notebooks.  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/python/",
 	"title": "Python",
 	"tags": [],
 	"description": "",
 	"content": "  Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library) Think Stats Probability and Statistics for Programmers in Python (free download)\n Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\nPython: Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\n Plotting:\n matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using.\n seaborn: The Seaborn library has some nice additional visualization functions that we may use occasionally.\n Pandas:\n Learn Pandas A set of lessons providing an overview of the Pandas library.\n Python for Data Science Another set of notebook demonstrating Pandas functionality.\n  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session8/",
-	"title": "Session 8",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations. See materials repository for notebooks.  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session9/",
-	"title": "Session 9",
-	"tags": [],
-	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): None! Work on homework.\nIn Class Activities:  Install r-essentials from conda conda install -y r-essentials (If running from jupyter notebook.) See Dropbox for Presentations. See materials repository for notebooks.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
@@ -175,74 +119,11 @@
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session10/",
-	"title": "Session 10",
-	"tags": [],
-	"description": "",
-	"content": " R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.\n(4) Install RStudio via the Anaconda Navigator. This is a tool that can control the launch of various programs including Jupyter.\nIf installing RStudio from Anacona doesn\u0026rsquo;t work you can also directly install R and RStudio.\nIn Class Activities  See R Notebooks in the Materials repository. Introduction to R Studio.  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session11/",
-	"title": "Session 11",
-	"tags": [],
-	"description": "",
-	"content": " Guest Speakers and Project Work Session Class Objective: Here we will have a guest speaker from the Capstone class.\nCraig Debono is a 2017 Graduate of the MS Business Analytics program. He worked on a Capstone project with Defacto Global, and he is now working on the other side client for this year\u0026rsquo;s capstone class on behalf of Defacto.\nThere may be a few other speakers from the class. 1:15 Emily Pirie\nActivities The goal of the project is to get to where you could approach a Kaggle project and complete it on your own. To start through, it is helpful to understand how others have approached it.\nPlease check out the google sheet linked below.\nProject Sign up and kernel list\n Everyone take 20 minutes and add kernels from projects they might be interested in working it. Each kernel should be a submission. I\u0026rsquo;ve listed a few but you are welcome to select others.\n Take 20 minutes and validate kernels by just looking through and ensuring they result in a submission. Also review the options and assess how difficult they might be.\n Submit your planned project next to your name. You can have until 2\u0026frasl;26 to do that.\n  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/project1/",
 	"title": "Project",
 	"tags": [],
 	"description": "",
 	"content": " Link to project sign up sheet. Project sign up sheet.\nThis is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.\nProject Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections. The following are currently approved projects. Easier 1. House Prices: Advanced Regression Techniques (This is an beginner dataset, but could work for us.) 2. Porto Seguro’s Safe Driver Prediction\n*Advanced 3. Web Traffic Time Series Forecasting (This is an advanced project.)\nA list of solutions can be foundhere. If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.\nDeliverables  Executive Summary This should be 1 page summary in your own words of the problem, data, and findings. Data description and initial processing. This section should include basic characterization of data. You should run and report basic statistics on the data and generate 3 visualizations. You can review other kernels to understand some different approaches to the data, but this section you are required to generate all analyses (3 pages). Modeling and evaluation of 3 other solutions. Identify 3 other Kaggle solutions completed by others. You can do this by selecting on the project and then clicking on the link to Kernels. Summarize the features, modeling approach, and performance in a table. Then do some further research to comment on (2 pages) Modeling. Modeling should examine relevance of different independent variables (features) and different algorithms. Summary. A summary of overall findings. Appendix. A github repository of all modeling, well commented code.  NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean\u0026rsquo;s office and receive a 0 on the project grade.\nProject Evaluation Metrics. The description below describes an ideal project. Projects will be evaluated subjectively by the instructor according to this rubric.\n Formatting (10 points). The student presented the report in a format that indicated professionalism and care in the organization, writing, and presentation of the overall report.\n Executive summary (20 points, 1 page). The student was able to present the results of modeling in a way that is rich and interesting as well. There is clear representation of key predictors and key algorithms used.\n Data description and initial processing (40 points. 3 pages). The student was able to clearly present an overall picture of the data using techniques presented in the class. This includes basic structure field by field descriptions as well as visualization and basic statistics. Where necessary they have adequately used techniques for cleaning the data or generating new features.\n Modeling and Evaluation(30 points, 2 pages). There is a clear insightful comparison of approaches, and he predictive characteristics of the different models are clearly compared in a table with appropriate conclusions. There are outside resources consulted in the description of specific algorithms if relevant.\n Analysis of relevance of independent variables (25 points. 1.5-2 pages). The student was able to clearly present justification of the value of different independent variables. Where possible, exploration of feature creation is provided.\n Analysis of performance of different model types (25 points, 1.5-2 pages). There are outside resources consulted in the description of specific algorithms if relevant. Outside sources give clarity and there is evidence of some model tuning.\n Commented Code (20 points, as needed). Clearly commented code has been provided in the assigned Jupyter notebook.\n  Project Submission  *The project is to be submitted to the LMS.  NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean\u0026rsquo;s office and receive a 0 on the project grade.\nAccept the Project Assignment  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session12/",
-	"title": "Session 12",
-	"tags": [],
-	"description": "",
-	"content": " Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.\nAssignment (To be done before class):  Install Tableau Free for university students. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale\u0026rsquo;s \u0026lsquo;Coxcombs\u0026rsquo; Napolean\u0026rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O\u0026rsquo;Gram  Uncovering Patterns  The Dude Map\n Peak Breakup Times Tags and the City  Interactive Examples  Snake Oil Supplements Media Campaign Staff Connections GapMinder Classic Toys in the World  Tool List Publication Optimized  MatPlotLib ggPLOT2  Web Optimimized  D3 Gallery Seaborn Kaggle  Business Applications/Dashboards  Microsoft PowerBI Tableau Plot.ly Google Data Studio Beta Sisense  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session13/",
-	"title": "Session 13",
-	"tags": [],
-	"description": "",
-	"content": " Intro to Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.\nAssignment (To be done before class):  Install Tableau Free for university students. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale\u0026rsquo;s \u0026lsquo;Coxcombs\u0026rsquo; Napolean\u0026rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O\u0026rsquo;Gram  Uncovering Patterns  The Dude Map\n Peak Breakup Times Tags and the City  Interactive Examples  Snake Oil Supplements Media Campaign Staff Connections GapMinder Classic Toys in the World  Tool List Publication Optimized  MatPlotLib ggPLOT2  Web Widgets  Dash Bokeh Bokeh vs Dash Seems to come down on the side of Dash. Shiny for R D3 Gallery  Business Applications/Dashboards  Microsoft PowerBI Tableau Plot.ly Google Data Studio Beta Sisense  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session14/",
-	"title": "Session 14",
-	"tags": [],
-	"description": "",
-	"content": " Project Work Day/Review/Demo Class Objective: The goal of this is to do some active work on the project.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session15/",
-	"title": "Session 15 (midterm)",
-	"tags": [],
-	"description": "",
-	"content": " Midterm The goal for the midterm is to spend some time reviewing some of the basic processes that we have utilized thus far. Basic concepts, syntax, and processes which will be useful in data science projects.\nThe midterm will consist of 2 sections.\nPart 1: Multiple Choice/Short answer The first section will be closed book/closed notes. You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does. In this section, you won’t be asked to generate any code though.\nPart 2: Coding Like the homework, there will be sections where you need to write specific code responses to questions, similar to the homework. You are allowed to bring a 1 page (both sides) or 2 pages (1 side each) of a crib sheet with syntax for use only in part 2. Examples will largely come from the homeworks and classroom examples.\nPart 1 Sample Questions.\n _______ is the Python package that enables a data frame object? a) DF b) DATA-FRAME c) Pandas d) Beautiful Soup e) Numpy\n Below is an example of what type of encoding? { \u0026ldquo;year\u0026rdquo;: 1997, \u0026ldquo;make\u0026rdquo;: \u0026ldquo;Ford\u0026rdquo;, \u0026ldquo;model\u0026rdquo;: \u0026ldquo;E350\u0026rdquo;, }, a) Delimited file b) XML c) JSON d) ODBC e) SQL\n  Part 2 Sample Questions.\n(After given a sample dataframe.)\n Using python, recode the variable from a character type to numeric and the gender to 0/1 for male/female.\n Perform one hot encoding for the x field of the dataframe.\n Take the mean of the y variable of the dataframe.\n  Appeal process If you feel one of your solutions will work but was marked off, you can do the following:\n Take a picture of the question and solution.\n Accept the midterm-appeal assignment.\n Test if the solution works.\n If your solution does work but was marked off, add a markdown cell with the original picture and commit/push the example.\n Provide a Slack message to Jason Kuruzovich and Lianlian Jiang with a link to the repository.\n  Your solution must work 100%. You cannot use this method to request additional partial credit.\nData is here: Repository\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session16/",
-	"title": "Session 16",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session17/",
-	"title": "Session 17",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session18/",
-	"title": "Session 18",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling II Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) R for Data Science Chapters 22-25 (2) Section 4, 5, 6 on Caret\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",
@@ -277,7 +158,7 @@
 	"title": "RPI Analytics Dojo",
 	"tags": [],
 	"description": "Technology and Infrastructure for Teaching Data &amp; Computation Courses",
-	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (mgmt6560 Spring 2018)\nPrevious Courses: Technology Fundamentals for Business Analytics (mgmt6560 Fall 2017)\n"
+	"content": " Welcome to the alpha version of the RPI AnalyticsDojo, an infrastructure for teaching and learning analytics.\nCurrently the learning stack associated with these courses includes: (1) Jupyterhub (2) GitHub Classroom (3) Travis-CI Based Autograding and (4) Slack. The idea is by adopting a common tecnology stack across different classes, we will be better able to coordinate learning.\nCurrent Courses: Technology Fundamentals for Business Analytics (mgmt6560 Fall 2018)\nPrevious Courses: Technology Fundamentals for Business Analytics (mgmt6560 Fall 2017) Technology Fundamentals for Business Analytics (mgmt6560 Spring 2018)\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/_header/",

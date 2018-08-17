@@ -2,6 +2,7 @@
 title = "Session 18"
 description = ""
 weight = 18
+draft= true
 +++
 
 ## Introduction to Modeling II

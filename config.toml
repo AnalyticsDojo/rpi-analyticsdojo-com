@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
 pre = "<h3>Important Links</h3>"
 name = "<i class='fa fa-github'></i> Course Materials"
-url = "https://github.com/jkuruzovich/techfundamentals-spring2018-materials"
+url = "https://github.com/jkuruzovich/techfundamentals-fall2018-materials"
 weight = 1
 
 [[menu.shortcuts]]
@@ -41,7 +41,7 @@ weight = 20
 [[menu.shortcuts]]
 name = "<i class='fa fa-dropbox'></i> Dropbox Share"
 identifier = "Dropbox"
-url = "https://www.dropbox.com/sh/le0ejfxuqjd1ecv/AAD4nyGKgu2hrQ32fWLZvz4Da?dl=0"
+url = "https://www.dropbox.com/sh/tn7xmg9qo2u8ydz/AAD2SMEPa28NpIGuea25TJUIa?dl=0"
 weight = 30
 
 [[menu.shortcuts]]

@@ -1,5 +1,5 @@
 +++
-title = "MGMT4966/MGMT6560 Fall 2018"
+title = "MGMT6560 Fall 2018"
 description = ""
 weight = 1
 alwaysopen = true
@@ -14,9 +14,7 @@ alwaysopen = true
 
 The [Schedule](sessions/) for the course.
 
-The [Course Materials](https://github.com/jkuruzovich/techfundamentals-spring2018-materials), including all data and jupyter notebooks.
-
-The [lab.jupyterhub.com](http://lab.analyticsdojo.com) will be available for your assignments.
+The [Course Materials](https://github.com/jkuruzovich/techfundamentals-fall2018-materials), including all data and jupyter notebooks.
 
 The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 
@@ -24,4 +22,4 @@ The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 
 [Slack](https://techfund-sp2018.slack.com) will be the primary method of communication. Please download the Slack App for your [mobile and desktop](https://slack.com/downloads/).
 
-This [Dropbox Share](https://www.dropbox.com/sh/le0ejfxuqjd1ecv/AAD4nyGKgu2hrQ32fWLZvz4Da?dl=0) will include all presentations.
+This [Dropbox Share](https://www.dropbox.com/sh/tn7xmg9qo2u8ydz/AAD2SMEPa28NpIGuea25TJUIa?dl=0) will include all presentations.

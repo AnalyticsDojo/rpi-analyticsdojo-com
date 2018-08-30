@@ -1,6 +1,6 @@
 baseURL = "http://rpi.analyticsdojo.com/"
 languageCode = "en-us"
-title = "Fall 2017 Course Website for Technology Fundamentals for Business Analytics."
+title = "Fall 2018 Course Website for Technology Fundamentals for Business Analytics."
 theme = "docdock"
 publishDir = "docs"
 [params]
@@ -22,8 +22,8 @@ url = "https://github.com/rpi-techfundamentals/techfundamentals-fall2018-materia
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud'></i> Google Colab"
-url = "http://colab.research.google.com"
+name = "<i class='fa fa-cloud'></i> Jupyterhub"
+url = "http://lab.analyticsdojo.com"
 weight = 5
 
 [[menu.shortcuts]]

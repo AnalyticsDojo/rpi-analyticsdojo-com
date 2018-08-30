@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RPI Analytics Dojo on Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title>RPI Analytics Dojo on Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link>http://rpi.analyticsdojo.com/</link>
-    <description>Recent content in RPI Analytics Dojo on Fall 2017 Course Website for Technology Fundamentals for Business Analytics.</description>
+    <description>Recent content in RPI Analytics Dojo on Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
     
 	<atom:link href="http://rpi.analyticsdojo.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Assignment 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment1/</guid>
-      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
-    </item>
     
     <item>
       <title>Session 1</title>

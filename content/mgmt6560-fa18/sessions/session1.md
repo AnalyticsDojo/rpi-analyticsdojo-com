@@ -4,16 +4,25 @@ description = ""
 weight = 1
 +++
 
-### Course Overview & Introduction to the Data Science Lifecycle
+### Course Overview & Introduction to the Data Science
+Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used.  There is lots to cover so it would be good to do the following prior to the first class
+
+
+#### Before Class
+- Sign up for [Slack here](https://join.slack.com/t/rpi-bsan-2019/shared_invite/enQtNDIwMDE1ODExMTEwLWRlMzExMDlkYmMxN2VhNzk0MDVlMjFlMjMxNjA0NmIxMDI0ZThkNzY1NThjNDVkNzBlNjU2ZmFjMDNhZGI5NmM).
+- Create a [Github](http://www.github.com) account.
+- Enter your Github account [here](https://docs.google.com/spreadsheets/d/1moPVPruoigL3iymdjYYRFHjjJ-5K9hMUlzO84AlaU6E/edit?usp=sharing).
+- [Download](https://slack.com/downloads/) the Slack app for your desktop and phone.
+- [Download](https://desktop.github.com) the Github Desktop app.
+- [Download](https://www.anaconda.com/download/) Anaconda 3.6.
+
+I prefer to use Slack for class. It allows me to be more responsive and track communications.  Students have found it useful and continue to use it even after the class.
+
+Version control and reproducibility are important.  We will use GitHub classroom to collect all assignments.
+
 
 #### Class Objective:
 In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.
 
 #### In Class Activities:
-- For presentation, see [Dropbox](https://www.dropbox.com/sh/le0ejfxuqjd1ecv/AAD4nyGKgu2hrQ32fWLZvz4Da?dl=0).
-- Create a [Github](http://www.github.com) account.
-- Enter your Github account [here](https://docs.google.com/spreadsheets/d/1cAqUXt-9TVex4icwEEY1wO2s390klkfCXk0OA9gE6ug/edit?usp=sharing ).
-- Sign up for [Slack here](https://join.slack.com/t/techfund-sp2018/shared_invite/enQtMzAxMTk2ODUwNzU4LWFhZDdlOGY0MTFhNWFkYTFjYWIwOWFjYTljMTFhNDQwNDM3MGFjMmU2N2Y1MGJjYjdlMDkyNjliMGU3YjczNzE).
-- [Download](https://slack.com/downloads/) the Slack app for your desktop and phone.
-- [Download](https://desktop.github.com) the Github Desktop app.
-- [Download](https://www.anaconda.com/download/) Anaconda.
+- The presentation will always be in Dropbox, which is always linked on on the main rpi.analyticsdojo.com website on the left side.

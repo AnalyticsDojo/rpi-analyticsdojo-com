@@ -18,14 +18,13 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
 pre = "<h3>Important Links</h3>"
 name = "<i class='fa fa-github'></i> Course Materials"
-url = "https://github.com/jkuruzovich/techfundamentals-fall2018-materials"
+url = "https://github.com/rpi-techfundamentals/techfundamentals-fall2018-materials"
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud'></i> Jupyterhub"
-url = "http://lab.analyticsdojo.com"
+name = "<i class='fa fa-cloud'></i> Google Colab"
+url = "http://colab.research.google.com"
 weight = 5
-
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-sign-in'></i> LMS"
@@ -33,9 +32,9 @@ url = "https://lms.rpi.edu"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-slack'></i>Join Slack (rpi email)"
+name = "<i class='fa fa-slack'></i>Slack"
 identifier = "Slack"
-url = "https://techfund-sp2018.slack.com"
+url = "https://rpi-bsan-2019.slack.com"
 weight = 20
 
 [[menu.shortcuts]]

@@ -14,7 +14,7 @@ alwaysopen = true
 
 The [Schedule](sessions/) for the course.
 
-The [Course Materials](https://github.com/jkuruzovich/techfundamentals-fall2018-materials), including all data and jupyter notebooks.
+The [Course Materials](https://github.com/rpi-techfundamentals/techfundamentals-fall2018-materials), including all data and jupyter notebooks.
 
 The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 

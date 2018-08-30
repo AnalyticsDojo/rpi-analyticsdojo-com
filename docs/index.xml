@@ -26,8 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session1/</guid>
-      <description>Course Overview &amp;amp; Introduction to the Data Science Lifecycle Class Objective: In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.
-In Class Activities:  For presentation, see Dropbox. Create a Github account. Enter your Github account here. Sign up for Slack here. Download the Slack app for your desktop and phone. Download the Github Desktop app.</description>
+      <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class
+Before Class  Sign up for Slack here. Create a Github account. Enter your Github account here.</description>
     </item>
     
     <item>
@@ -61,6 +61,17 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
       
       <guid>http://rpi.analyticsdojo.com/resources/classes/</guid>
       <description> Data Camp As part of this class you get a free subscription to Data Camp. I can&amp;rsquo;t post it here but will provide via email. Fast-AI Deep learning class. Siraj Rival Extremely entertaining YouTube star covers a wide variety of things in machine learning.  </description>
+    </item>
+    
+    <item>
+      <title>Session 2</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session2/</guid>
+      <description>Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
+Readings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages (see Dropbox)
+ Installing a package locally:</description>
     </item>
     
     <item>

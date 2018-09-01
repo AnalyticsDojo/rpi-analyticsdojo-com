@@ -12,13 +12,7 @@ Jason Kuruzovich
 
 Lianlian (Dorothy) Jiang  (grader)
 
-TA Office Location: 2128
-
-
-TA Office Hours: Monday 12:30pm-1:30 pm by appointment
-
-
-* **Office/Lab Hours:**  Monday 11:00 AM-1:00 PM and by appointment <br>
+* **Office/Lab Hours:**  Monday 11:00 AM-1:00 PM by appointment <br>
 * **Office/Lab Location:** 2128 Pittsburgh. <br>
 
-*Please see Dorothy primarily for issues related to grading.*
+*Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building.  *

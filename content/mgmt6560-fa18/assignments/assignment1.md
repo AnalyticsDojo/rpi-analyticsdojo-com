@@ -7,6 +7,16 @@ draft = true
 
 
 #### Assignment:
-- More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
+- More details on the homework assignment process can be found [here](/mgmt6560-fa18/assignments/). The button to accept the assignment is below.
+- You must include the initial lab as a pdf in the directory we did in class (lab01.ipynb). You can view the original [here](https://github.com/rpi-techfundamentals/fall2018-materials/blob/master/01-overview/03-exercise1/lab01.ipynb).
 
-{{< button href="https://classroom.github.com/a/IxzBflY7" >}} Accept the Assignment {{< /button >}}
+{{< button href="https://classroom.github.com/a/xYfj191e" >}} Accept the Assignment {{< /button >}}
+
+Grading:
+Grading will be done via the github repository.  Always ensure your changes have been pushed to the GitHub repository.
+
+5  Points Complete Output Files
+5  Points Answers to Questions in File
+10 Points lab01 PDF in repository.
+_______________
+20 Points Total

@@ -13,7 +13,8 @@ weight = 1
 Grading:
 Grading will be done via the github repository.  Always ensure your changes have been pushed to the GitHub repository.
 
-10 Points Complete HM01
-10 Points lab01 PDF in repository.
+- 10 Points Complete HM01
+
+- 10 Points lab01 PDF in repository.
 _______________
 20 Points Total

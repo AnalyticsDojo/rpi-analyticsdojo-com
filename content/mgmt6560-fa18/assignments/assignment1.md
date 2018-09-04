@@ -2,9 +2,7 @@
 title = "Assignment 1"
 description = ""
 weight = 1
-draft = true
 +++
-
 
 #### Assignment:
 - More details on the homework assignment process can be found [here](/mgmt6560-fa18/assignments/). The button to accept the assignment is below.
@@ -15,8 +13,7 @@ draft = true
 Grading:
 Grading will be done via the github repository.  Always ensure your changes have been pushed to the GitHub repository.
 
-5  Points Complete Output Files
-5  Points Answers to Questions in File
+10 Points Complete HM01
 10 Points lab01 PDF in repository.
 _______________
 20 Points Total

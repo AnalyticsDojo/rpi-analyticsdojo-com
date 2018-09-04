@@ -887,16 +887,32 @@
 <pre><code>cd &quot;c:\Users\jasonkuruzovich\github\techfundamentals-spring2018-materials&quot;
 </code></pre>
 
-<p>(b.) Launch a Jupyter notebook with the command:</p>
+<p>(c.) Install required packages.
+First install pip, which is a package manager similar to conda.</p>
+
+<pre><code>conda install -c anaconda pip
+</code></pre>
+
+<p>Then, from the repository install all the packages in requirements.txt.</p>
+
+<pre><code>pip install -r requirements.txt
+</code></pre>
+
+<p>(d.) Launch a Jupyter notebook with the command:</p>
 
 <pre><code>jupyter notebook
 </code></pre>
 
 <p>You will need to run c-d each time to launch Jupyter.</p>
 
-<p>*There may be some packages you still have to install.  You will know this is an issue if an <code>import</code> command fails.  You can install packages with:</p>
+<p>*There may be some other packages you still have to install.  You will know this is an issue if an <code>import</code> command fails.  You can install packages with:</p>
 
 <pre><code>conda install &lt;packagename&gt;
+</code></pre>
+
+<p>or</p>
+
+<pre><code>pip install &lt;packagename&gt;
 </code></pre>
 
 <p>For example, to install the R Kernal for Jupyter, install the r-essentials package:</p>

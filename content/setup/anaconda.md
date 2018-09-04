@@ -48,17 +48,34 @@ On Windows, if you have a space somewhere in your path make sure that you includ
 ```
 cd "c:\Users\jasonkuruzovich\github\techfundamentals-spring2018-materials"
 ```
+(c.) Install required packages.
+First install pip, which is a package manager similar to conda.
+```
+conda install -c anaconda pip
+```
+
+Then, from the repository install all the packages in requirements.txt.
+```
+pip install -r requirements.txt
+```
 
 
-(b.) Launch a Jupyter notebook with the command:
+
+(d.) Launch a Jupyter notebook with the command:
 ```
 jupyter notebook
 ```
 You will need to run c-d each time to launch Jupyter.
 
-*There may be some packages you still have to install.  You will know this is an issue if an `import` command fails.  You can install packages with:
+*There may be some other packages you still have to install.  You will know this is an issue if an `import` command fails.  You can install packages with:
 ```
 conda install <packagename>
+```
+
+or
+
+```
+pip install <packagename>
 ```
 
 For example, to install the R Kernal for Jupyter, install the r-essentials package:

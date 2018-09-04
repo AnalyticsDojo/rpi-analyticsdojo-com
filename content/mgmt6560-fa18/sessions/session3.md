@@ -2,7 +2,6 @@
 title = "Session 3"
 description = ""
 weight = 3
-draft = true
 +++
 
 ## Data Fundamentals and Introduction to Python
@@ -13,8 +12,9 @@ The goal of this class is to introduce you to some of the foundational aspects o
 
 ### Readings (To be done before class):
 - [Chapters 1-3 from Principles of Data Wrangling] (http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/databases/business-intelligence/9781491938911)
-- Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I'll be emailing out.  [Intro to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science).
-
+- Read through documentation on [Conda environment](http://rpi.analyticsdojo.com/setup/anaconda/), [Github](http://rpi.analyticsdojo.com/setup/git/),and [assignments](http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/).
+- Work through Notebooks on lab.analyticsdojo.com under 02-python.
+- Get started with HM1. Make sure you can at least download and start to work with the notebook.
 
 #### In Class Activities:
 - See Dropbox for presentation.

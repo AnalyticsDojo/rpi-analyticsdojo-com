@@ -63,6 +63,13 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session3/",
+	"title": "Session 3",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some of the foundational aspects of data generation as well as provide an introduction to programming with Python.\nReadings (To be done before class):  Chapters 1-3 from Principles of Data Wrangling Read through documentation on Conda environment, Github,and assignments. Work through Notebooks on lab.analyticsdojo.com under 02-python. Get started with HM1. Make sure you can at least download and start to work with the notebook.  In Class Activities:  See Dropbox for presentation.  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],

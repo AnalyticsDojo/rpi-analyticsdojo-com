@@ -886,6 +886,23 @@ Grading will be done via the github repository.  Always ensure your changes have
 <p>20 Points Total</p></li>
 </ul>
 
+<p>NOTE:  I&rsquo;ve updated the original starter code to include a bit more of a walk through and fixed an error:
+<a href="https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb">https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb</a></p>
+
+<p>You are fine to do the original version. There is one small errror:</p>
+
+<p>The code:</p>
+
+<pre><code>dfcsv = dfcsv.to_csv('out/nameiloc.csv')
+</code></pre>
+
+<p>Should be:</p>
+
+<pre><code>dfcsv.to_csv('out/nameiloc.csv')
+</code></pre>
+
+<p>(We aren&rsquo;t assigning or updating the value. We are just running a method.)</p>
+
 
 <footer class=" footline" >
 	

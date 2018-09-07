@@ -4,7 +4,7 @@
 	"title": "Assignment 1",
 	"tags": [],
 	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below. You must include the initial lab as a pdf in the directory we did in class (lab01.ipynb). You can view the original here.  Accept the Assignment  Grading: Grading will be done via the github repository. Always ensure your changes have been pushed to the GitHub repository.\n 10 Points Complete HM01\n 10 Points lab01 PDF in repository.\n20 Points Total\n  "
+	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below. You must include the initial lab as a pdf in the directory we did in class (lab01.ipynb). You can view the original here.  Accept the Assignment  Grading: Grading will be done via the github repository. Always ensure your changes have been pushed to the GitHub repository.\n 10 Points Complete HM01\n 10 Points lab01 PDF in repository.\n20 Points Total\n  NOTE: I\u0026rsquo;ve updated the original starter code to include a bit more of a walk through and fixed an error: https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb\nYou are fine to do the original version. There is one small errror:\nThe code:\ndfcsv = dfcsv.to_csv('out/nameiloc.csv')  Should be:\ndfcsv.to_csv('out/nameiloc.csv')  (We aren\u0026rsquo;t assigning or updating the value. We are just running a method.)\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/",

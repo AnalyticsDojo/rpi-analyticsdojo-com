@@ -18,3 +18,18 @@ Grading will be done via the github repository.  Always ensure your changes have
 - 10 Points lab01 PDF in repository.
 _______________
 20 Points Total
+
+NOTE:  I've updated the original starter code to include a bit more of a walk through and fixed an error:
+[https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb](https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb)
+
+You are fine to do the original version. There is one small errror:
+
+The code:
+```
+dfcsv = dfcsv.to_csv('out/nameiloc.csv')
+```
+Should be:
+```
+dfcsv.to_csv('out/nameiloc.csv')
+```
+(We aren't assigning or updating the value. We are just running a method.)

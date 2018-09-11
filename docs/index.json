@@ -21,6 +21,13 @@
 	"content": " Course Overview \u0026amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class\nBefore Class  Sign up for Slack here. Create a Github account. Enter your Github account here. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda 3.6.  I prefer to use Slack for class. It allows me to be more responsive and track communications. Students have found it useful and continue to use it even after the class.\nVersion control and reproducibility are important. We will use GitHub classroom to collect all assignments.\nClass Objective: In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.\nIn Class Activities:  The presentation will always be in Dropbox, which is always linked on on the main rpi.analyticsdojo.com website on the left side.  As discussed, please work through all of the notebooks in the course materials for session 1. When you log into lab.analyticsdojo.com they are in materials-fa/01-overview. You should specifically try to complete the 03-exercise1. This will be submitted as part of HM01 which will be released Tuesday. I’m still missing a number of github IDs in this spreadsheet. - Enter your Github account here. In addition, please always look through the readings for the next session.\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment2/",
+	"title": "Assignment 2",
+	"tags": [],
+	"description": "",
+	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/setup/",
 	"title": "Compute Environment",
 	"tags": [],
@@ -77,6 +84,13 @@
 	"content": "Jason Kuruzovich\n Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\n  Lianlian (Dorothy) Jiang (grader)\n Office/Lab Hours: Monday 11:00 AM-1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building. *\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session4/",
+	"title": "Session 4",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach. DataCamp offers a nice step-by-step introduction and as part of this class you have a Premium Membership, which I\u0026rsquo;ll be emailing out. Intro to Python.  In Class Activities:  See the Tech Fundamentals class materials repository. Be sure to download updates by using the sync or pull buttons on GitHub Desktop.  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
 	"title": "Podcasts",
 	"tags": [],
@@ -89,6 +103,13 @@
 	"tags": [],
 	"description": "",
 	"content": "   Session Day Date Topic     1 F 08/31 Course Overview \u0026amp; Introduction to the Data Science Lifecycle more   2 T 09/04 Introduction to Technologies Used In Class more Assignment 1 Released (Due 9-11 11:59 PM)    3 F 09/07 Data Fundamentals and Introduction To Python more   4 T 09/11 Data Fundamentals and Introduction To Python more Assignment 2 Released (Due 9-18 11:59 PM)    5 F 09/14 Data Fundamentals and Introduction To Python II more   6 T 09/18 Data Fundamentals and Introduction To Python II more Assignment 3 Released (Due 9-25 11:59 PM)    7 F 09/21 Data Fundamentals and Introduction To Python III more   8 T 09/25 Data Fundamentals and Introduction To Python III more Assignment 4 Released (Due 10-2 11:59 PM)    9 F 09/28 Introduction to R more   10 T 10\u0026frasl;02 Introduction to R more Assignment 5 Released (Due 10-12 11:59 PM)    11 F 10\u0026frasl;05 Intro to Visualization more    T 10\u0026frasl;09 Classes Follow Monday Schedule (no class)    12 F 10\u0026frasl;12 Intro to Visualization more Assignment 6 Released (Due 10-23 11:59 PM)    13 T 10\u0026frasl;16 Introduction to Modeling more   14 F 10\u0026frasl;19 Midterm more   15 T 10\u0026frasl;23 Introduction to Modeling (Last day to drop) more Assignment 7 Released (Due 11-30 11:59 PM)    16 F 10\u0026frasl;26 Introduction to Modeling II more   17 T 10\u0026frasl;30 Introduction to Modeling II more   18 F 11\u0026frasl;02 Text Mining and Unstructured Data more   19 T 11\u0026frasl;06 Text Mining and Unstructured Data more Assignment 8 Project Draft (Sections 1-3) Due 11-9 11:59    20 F 11\u0026frasl;09 Introduction to Big Data more   21 T 11\u0026frasl;13 Introduction to Big Data more   22 F 11\u0026frasl;16 Deep Learning more   23 T 11\u0026frasl;20 Deep Learning more    F 11\u0026frasl;23 Thanksgiving, No Classes.    24 T 11\u0026frasl;27 Deep Learning II more   25 F 11\u0026frasl;30 Deep Learning II more   26 T 12\u0026frasl;04 Project Work day more   27 F 12\u0026frasl;07 Final Presentations more Project Work    28 T 12\u0026frasl;11 Final Presentations more   29  TBD Final Exam more    "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session5/",
+	"title": "Session 5",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With Titanic  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/",

@@ -2,11 +2,11 @@
 title = "Assignment 2"
 description = ""
 weight = 2
-draft= true
+
 +++
 
 
 #### Assignment:
 - More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
 
-{{< button href="https://classroom.github.com/a/gGx-vMzp" >}} Accept the Assignment {{< /button >}}
+{{< button href="https://classroom.github.com/a/nX3XBEEQ" >}} Accept the Assignment {{< /button >}}

@@ -31,6 +31,15 @@ Before Class  Sign up for Slack here. Create a Github account. Enter your Github
     </item>
     
     <item>
+      <title>Assignment 2</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment2/</guid>
+      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+    </item>
+    
+    <item>
       <title>Contact Info</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,12 +106,32 @@ Readings (To be done before class):  Chapters 1-3 from Principles of Data Wrangl
     </item>
     
     <item>
+      <title>Session 4</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session4/</guid>
+      <description>Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python Optional Activities: We will be focusing on some foundational Python concepts, but we will primarily be focusing on techniques and practices related to data science. Some students without a Python or more general programming foundation may prefer a step by step approach.</description>
+    </item>
+    
+    <item>
       <title>Podcasts</title>
       <link>http://rpi.analyticsdojo.com/resources/podcasts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/resources/podcasts/</guid>
       <description> Linear Digressions  </description>
+    </item>
+    
+    <item>
+      <title>Session 5</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session5/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With Titanic  </description>
     </item>
     
     <item>

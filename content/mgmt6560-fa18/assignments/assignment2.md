@@ -26,12 +26,11 @@ For lab.analyticsdojo.com you can temporarily uninstall matplotlib with:
 !conda uninstall -y matplotlib
 ```
 
-
 **You may get an error on HM02 q24.**
 The test is looking for 4.6 but you may get 4.5999999999999996. Reasons are here:
 https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers
 https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 https://docs.python.org/3/tutorial/floatingpoint.html
 
-I've updated the test for q24 to address this issue.
-https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q24.py
+I've updated the test for q24 to address this issue. You can replace the content of tests/q24.py with the value in this file:
+[https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q24.py](https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q24.py)

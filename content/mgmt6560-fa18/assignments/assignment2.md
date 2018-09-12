@@ -18,16 +18,24 @@ Please turn in Lab02 as a pdf in the base directory of the repository.
 
 I mentioned this was my first time changing over to OKpy for these types of homework.
 
-Two issues where identified thus far:
+Three issues where identified thus far:
 
-### You may get a conflict with matplotlib and gradememaybe
+### (1) You may get an error with the installation of dependencies if just working locally.
+Instead open up an Anaconda prompt/terminal and issue the following commands:
+```
+conda install -y pip
+pip install git+https://github.com/grading/gradememaybe.git
+```
+*The solution I demonstrated in class of copying the requirements.txt will also work.*
+
+### (2) You may get a conflict with matplotlib and gradememaybe
 
 For lab.analyticsdojo.com you can temporarily uninstall matplotlib with:
 ```
 !conda uninstall -y matplotlib
 ```
 
-### You may get an error on HM02 q24.
+### (3) You may get an error on HM02 q24.
 
 The test is looking for 4.6 but you may get 4.5999999999999996. Reasons are here:
 https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers

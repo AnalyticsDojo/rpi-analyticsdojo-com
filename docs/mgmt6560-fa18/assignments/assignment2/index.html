@@ -902,8 +902,9 @@
 </ul></li>
 <li><a href="#issues">ISSUES</a>
 <ul>
-<li><a href="#you-may-get-a-conflict-with-matplotlib-and-gradememaybe">You may get a conflict with matplotlib and gradememaybe</a></li>
-<li><a href="#you-may-get-an-error-on-hm02-q24">You may get an error on HM02 q24.</a></li>
+<li><a href="#1-you-may-get-an-error-with-the-installation-of-dependencies-if-just-working-locally">(1) You may get an error with the installation of dependencies if just working locally.</a></li>
+<li><a href="#2-you-may-get-a-conflict-with-matplotlib-and-gradememaybe">(2) You may get a conflict with matplotlib and gradememaybe</a></li>
+<li><a href="#3-you-may-get-an-error-on-hm02-q24">(3) You may get an error on HM02 q24.</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -943,16 +944,26 @@
 
 <p>I mentioned this was my first time changing over to OKpy for these types of homework.</p>
 
-<p>Two issues where identified thus far:</p>
+<p>Three issues where identified thus far:</p>
 
-<h3 id="you-may-get-a-conflict-with-matplotlib-and-gradememaybe">You may get a conflict with matplotlib and gradememaybe</h3>
+<h3 id="1-you-may-get-an-error-with-the-installation-of-dependencies-if-just-working-locally">(1) You may get an error with the installation of dependencies if just working locally.</h3>
+
+<p>Instead open up an Anaconda prompt/terminal and issue the following commands:</p>
+
+<pre><code>conda install -y pip
+pip install git+https://github.com/grading/gradememaybe.git
+</code></pre>
+
+<p><em>The solution I demonstrated in class of copying the requirements.txt will also work.</em></p>
+
+<h3 id="2-you-may-get-a-conflict-with-matplotlib-and-gradememaybe">(2) You may get a conflict with matplotlib and gradememaybe</h3>
 
 <p>For lab.analyticsdojo.com you can temporarily uninstall matplotlib with:</p>
 
 <pre><code>!conda uninstall -y matplotlib
 </code></pre>
 
-<h3 id="you-may-get-an-error-on-hm02-q24">You may get an error on HM02 q24.</h3>
+<h3 id="3-you-may-get-an-error-on-hm02-q24">(3) You may get an error on HM02 q24.</h3>
 
 <p>The test is looking for 4.6 but you may get 4.5999999999999996. Reasons are here:
 <a href="https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers">https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers</a>

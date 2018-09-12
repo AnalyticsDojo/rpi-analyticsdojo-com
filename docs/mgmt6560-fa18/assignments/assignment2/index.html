@@ -932,6 +932,29 @@
 
 
 
+<p>Please turn in Lab02 as a pdf in the base directory of the repository.</p>
+
+<p>ISSUES.</p>
+
+<p>I mentioned this was my first time changing over to OKpy for these types of homework.</p>
+
+<p>Two issues where identified thus far:</p>
+
+<p><strong>You may get a conflict with matplotlib and gradememaybe</strong>
+For lab.analyticsdojo.com you can temporarily uninstall matplotlib with:</p>
+
+<pre><code>!conda uninstall -y matplotlib
+</code></pre>
+
+<p><strong>You may get an error on HM02 q24.</strong>
+The test is looking for 4.6 but you may get 4.5999999999999996. Reasons are here:
+<a href="https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers">https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers</a>
+<a href="https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html">https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html</a>
+<a href="https://docs.python.org/3/tutorial/floatingpoint.html">https://docs.python.org/3/tutorial/floatingpoint.html</a></p>
+
+<p>I&rsquo;ve updated the test for q24 to address this issue.
+<a href="https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q24.py">https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q24.py</a></p>
+
 
 <footer class=" footline" >
 	

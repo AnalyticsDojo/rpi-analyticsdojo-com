@@ -38,8 +38,7 @@ Before Class  Sign up for Slack here. Create a Github account. Enter your Github
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment2/</guid>
       <description>Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  Please turn in Lab02 as a pdf in the base directory of the repository.
 ISSUES I mentioned this was my first time changing over to OKpy for these types of homework.
-Three issues where identified thus far:
-(1) You may get an error with the installation of dependencies if just working locally.</description>
+Don’t worry about the autograding tests. As a result, you won’t have to install any packages.</description>
     </item>
     
     <item>

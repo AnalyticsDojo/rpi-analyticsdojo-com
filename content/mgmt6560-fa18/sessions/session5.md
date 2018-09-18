@@ -12,8 +12,3 @@ The goal of this class is to continue to extend our knowledge of some basic pyth
 
 ### Readings (To be done before class):
 - [Chapter 1 Introduction to Machine Learning with Python](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/machine-learning/9781449369880)
-
-
-#### In Class Activities:
-- See Dropbox for Presentations
-- Introduction to [Kaggle With Titanic](https://www.kaggle.com/c/titanic)

@@ -2,7 +2,6 @@
 title = "Session 6"
 description = ""
 weight = 6
-draft = true
 +++
 
 ## Data Fundamentals and Introduction to Python (continued)
@@ -16,4 +15,3 @@ The goal of this class is to continue to extend our knowledge of some basic pyth
 
 #### In Class Activities:
 - See Dropbox for Presentations
-- Introduction to [Kaggle With Titanic](https://www.kaggle.com/c/titanic)

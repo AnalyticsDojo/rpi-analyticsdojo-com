@@ -142,7 +142,7 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session5/</guid>
       <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
-Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  In Class Activities:  See Dropbox for Presentations Introduction to Kaggle With Titanic  </description>
+Readings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  </description>
     </item>
     
     <item>
@@ -166,6 +166,16 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/grading/</guid>
       <description>   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    </description>
+    </item>
+    
+    <item>
+      <title>Session 6</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session6/</guid>
+      <description> Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.
+Readings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations  </description>
     </item>
     
     <item>

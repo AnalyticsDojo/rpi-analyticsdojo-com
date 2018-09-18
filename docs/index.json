@@ -140,6 +140,13 @@
 	"content": "   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session7/",
+	"title": "Session 7",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations.  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/resources/python/",
 	"title": "Python",
 	"tags": [],

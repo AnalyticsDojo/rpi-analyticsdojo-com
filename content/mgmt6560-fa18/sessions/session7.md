@@ -2,7 +2,6 @@
 title = "Session 7"
 description = ""
 weight = 7
-draft= true
 +++
 
 ## Data Fundamentals and Introduction to Python (continued)
@@ -18,4 +17,3 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 
 #### In Class Activities:
 - See Dropbox for Presentations.
-- See materials repository for notebooks.

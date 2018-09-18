@@ -16,4 +16,4 @@ The goal of this class is to continue to extend our knowledge of accessing data 
 - Review the [Twitter Documentation](https://developer.twitter.com/en/docs)
 
 #### In Class Activities:
-- See Dropbox for Presentations.
+- See Dropbox.

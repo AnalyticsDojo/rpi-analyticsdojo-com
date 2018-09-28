@@ -168,6 +168,20 @@
 	"content": "  Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library) Think Stats Probability and Statistics for Programmers in Python (free download)\n Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\nPython: Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\n Plotting:\n matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using.\n seaborn: The Seaborn library has some nice additional visualization functions that we may use occasionally.\n Pandas:\n Learn Pandas A set of lessons providing an overview of the Pandas library.\n Python for Data Science Another set of notebook demonstrating Pandas functionality.\n  "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session8/",
+	"title": "Session 8",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of accessing data via APIs and begin to understand feature creation.\nReadings (To be done before class):  Feature engineering in Titanic Chapter 2 Data Science for Business Review the Twitter Documentation  In Class Activities:  See Dropbox for Presentations. See materials repository for notebooks.  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session9/",
+	"title": "Session 9",
+	"tags": [],
+	"description": "",
+	"content": " Data Fundamentals and Introduction to Python (continued) Introduction to R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): None! Work on homework.\nIn Class Activities:  Install r-essentials from conda conda install -y r-essentials (If running from jupyter notebook.) See Dropbox for Presentations. See materials repository for notebooks.  "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
 	"title": "Anaconda",
 	"tags": [],
@@ -180,6 +194,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session10/",
+	"title": "Session 10",
+	"tags": [],
+	"description": "",
+	"content": " R Class Objective: The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.\nReadings (To be done before class): (1) Introduction (2) Workflow Basics (3) From Data Structures including Vectors, Attributes, Matrices, arrays, and Data frames.\n(4) Install RStudio via the Anaconda Navigator. This is a tool that can control the launch of various programs including Jupyter.\nIf installing RStudio from Anacona doesn\u0026rsquo;t work you can also directly install R and RStudio.\nIn Class Activities  See R Notebooks in the Materials repository. Introduction to R Studio.  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/project1/",

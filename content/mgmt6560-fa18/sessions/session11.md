@@ -2,29 +2,64 @@
 title = "Session 11"
 description = ""
 weight = 11
-draft= true
+draft= false
 +++
 
-## Guest Speakers and Project Work Session
+## Visualization
 
-## Class Objective:
+### Class Objective:
 
-Here we will have a guest speaker from the Capstone class.
+The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 
-[Craig Debono](https://www.linkedin.com/in/craig-debono-894a52b3) is a 2017 Graduate of the MS Business Analytics program. He worked on a Capstone project with Defacto Global, and he is now working on the other side client for this year's capstone class on behalf of Defacto.
+### Assignment (To be done before class):
+- [Install Tableau](https://www.tableau.com/academic/students) Free for university students.
+- [Tableau - Data analytics for university students guide](https://www.tableau.com/university-students)
+- [Designing Great Visualizations](http://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
+- [Tableau getting Started](http://www.tableau.com/learn/tutorials/on-demand/getting-started)
+- [Ted Talk](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization#t-304102)
 
-There may be a few other speakers from the class.
-1:15 [Emily Pirie](https://www.linkedin.com/in/emilypirie)
+### In Class Activities:
 
-## Activities
-The goal of the project is to get to where you could approach a Kaggle project and complete it on your own. To start through, it is helpful to understand how others have approached it.
+#### Classic Examples
+- [Nightingale's 'Coxcombs'](http://understandinguncertainty.org/coxcombs)
+- [Napolean's March](https://commons.wikimedia.org/wiki/File%3AMinard.png)
 
-Please check out the google sheet linked below.
+#### Explaining Complex Data
+- [Social Media in one](http://mashable.com/2017/07/11/conversation-prism-brian-solis-update-2017/#FMeXfLhzlqOI)
+- [Live Wind Map](http://hint.fm/wind/)
+- [538](http://projects.fivethirtyeight.com/2016-election-forecast/?ex_cid=rrpromo)
+- [Trump vs Clinton 1](http://www.realclearpolitics.com/epolls/2016/president/us/general_election_trump_vs_clinton-5491.html)
+- [Sentiment](https://www.kaggle.com/donyoe/d/mrisdal/2016-us-presidential-debates/vp-debate-sentiments-and-difference-btwn-debates)
 
-[Project Sign up and kernel list](https://docs.google.com/spreadsheets/d/1xdgqaYf3HIN5tq8u9EjC9HfP7ifBBIDtz85fj7ZaYS0/edit?usp=sharing)
+#### Making a Point/Points
+- [Military Spending](http://www.theguardian.com/news/datablog/2010/apr/01/information-is-beautiful-military-spending)
+- [Mountains Out of Molehills](http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/)
+- [Billion Dollar O'Gram](http://www.informationisbeautiful.net/visualizations/billion-dollar-o-gram-2013/)
 
-1. Everyone take 20 minutes and add kernels from projects they might be interested in working it. Each kernel should be a submission. I've listed a few but you are welcome to select others.
+#### Uncovering Patterns
+- [The Dude Map](http://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/)<br>
+- [Peak Breakup Times](http://www.informationisbeautiful.net/2010/peak-break-up-times-on-facebook/)
+- [Tags and the City](https://www.tagsandthecity.net/san-francisco-bay-area/)
 
-2. Take 20 minutes and validate kernels by just looking through and ensuring they result in a submission. Also review the options and assess how difficult they might be.
+#### Interactive Examples
+- [Snake Oil Supplements](http://www.informationisbeautiful.net/visualizations/snake-oil-supplements/)
+- [Media](http://www.informationisbeautiful.net/visualizations/mountains-out-of-molehills/)
+- [Campaign Staff Connections](http://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html)
+- [GapMinder Classic](http://www.gapminder.org/tools/#_chart-type=bubbles)
+- [Toys in the World](http://www.gapminder.org/dollar-street/matrix?thing=Toys&countries=World&regions=World&zoom=4&row=1&lowIncome=26&highIncome=15000&lang=en)
 
-3. Submit your planned project next to your name. You can have until 2/26 to do that.
+#### Tool List
+#### Publication Optimized
+- [MatPlotLib](http://matplotlib.org)
+- [ggPLOT2](http://docs.ggplot2.org/current/)
+
+#### Web Optimimized
+- [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
+- [Seaborn Kaggle](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic)
+
+#### Business Applications/Dashboards
+- [Microsoft PowerBI](https://powerbi.microsoft.com/en-us/)
+- [Tableau](http://www.tableau.com/stories/workbook/understand-your-business-glance)
+- [Plot.ly](https://plot.ly)
+- [Google Data Studio Beta](https://datastudio.google.com/u/0/navigation/reporting)
+- [Sisense](https://www.sisense.com)

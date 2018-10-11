@@ -18,8 +18,8 @@ alwaysopen = true
 | 10 | T | 10/02 | **Introduction to R** <br> [more](/mgmt6560-fa18/sessions/session10/) <br> *[Assignment 5 Released (Due 10-12 11:59 PM)](/mgmt6560-fa18/assignments/assignment6/)* <br> |
 | 11 | F | 10/05 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session11/) |
 |  | T | 10/09 | **Classes Follow Monday Schedule (no class)** <br>  |
-| 12 | F | 10/12 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session12/) <br> *[Assignment 6 Released (Due 10-23 11:59 PM)](/mgmt6560-fa18/assignments/assignment7/)* <br> |
-| 13 | T | 10/16 | **Introduction to Modeling** <br> [more](/mgmt6560-fa18/sessions/session13/) |
+| 12 | F | 10/12 | **Introduction to Modeling** <br> [more](/mgmt6560-fa18/sessions/session12/) <br> *[Assignment 6 Released (Due 10-23 11:59 PM)](/mgmt6560-fa18/assignments/assignment7/)* <br> |
+| 13 | T | 10/16 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session13/) |
 | 14 | F | 10/19 | **Midterm** <br> [more](/mgmt6560-fa18/sessions/session14/) |
 | 15 | T | 10/23 | **Introduction to Modeling (Last day to drop)** <br> [more](/mgmt6560-fa18/sessions/session15/) <br> *[Assignment 7 Released (Due 11-30 11:59 PM)](/mgmt6560-fa18/assignments/assignment8/)* <br> |
 | 16 | F | 10/26 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session16/) |
@@ -36,4 +36,4 @@ alwaysopen = true
 | 26 | T | 12/04 | **Project Work day** <br> [more](/mgmt6560-fa18/sessions/session26/) |
 | 27 | F | 12/07 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session27/) <br> *[Project Work](/mgmt6560-fa18/assignments/assignment14/)* <br> |
 | 28 | T | 12/11 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session28/) |
-| 29 |  | TBD  | **Final Exam** <br> [more](/mgmt6560-fa18/sessions/session29/) | 
+| 29 |  | TBD  | **Final Exam** <br> [more](/mgmt6560-fa18/sessions/session29/) |

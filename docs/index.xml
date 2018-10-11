@@ -164,6 +164,17 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
     </item>
     
     <item>
+      <title>Assignment 6</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/assignment6/</guid>
+      <description>Assignment This assignment should be turned into the LMS as a PDF.
+Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
+The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>http://rpi.analyticsdojo.com/resources/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -298,6 +309,19 @@ Assignment (To be done before class):  Install Tableau Free for university stude
       <description>Link to project sign up sheet. Project sign up sheet.
 This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection There are a tremendous number of potential Kaggle projects available that would make excellent selections.</description>
+    </item>
+    
+    <item>
+      <title>Session 12</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session12/</guid>
+      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
+Readings (To be done before class): (1) Cross Validation
+(2) The 10 Algorithms Machine Learning Engineers Need to Know.
+(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
+(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
     </item>
     
     <item>

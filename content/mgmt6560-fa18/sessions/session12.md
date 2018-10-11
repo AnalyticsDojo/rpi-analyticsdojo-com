@@ -1,8 +1,8 @@
 +++
-title = "Session 16"
+title = "Session 12"
 description = ""
-weight = 16
-draft= true
+weight = 12
+draft= false
 
 +++
 

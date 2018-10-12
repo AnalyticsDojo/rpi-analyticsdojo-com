@@ -5,7 +5,7 @@ weight = 12
 +++
 
 #### Link to project sign up sheet.
-[Project sign up sheet.](https://docs.google.com/spreadsheets/d/1xdgqaYf3HIN5tq8u9EjC9HfP7ifBBIDtz85fj7ZaYS0/edit#gid=0)
+[Project sign up sheet.](https://docs.google.com/spreadsheets/d/1moPVPruoigL3iymdjYYRFHjjJ-5K9hMUlzO84AlaU6E/edit?usp=sharing)
 
 #### This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 
@@ -14,15 +14,7 @@ weight = 12
 The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and  evaluation.
 
 ### Project Selection
-There are a tremendous number of potential [Kaggle](https://www.kaggle.com) projects available that would make excellent selections. The following are currently approved projects.
-*Easier*
-1. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) (This is an beginner dataset, but could work for us.)
-2. [Porto Seguro’s Safe Driver Prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
-
-*Advanced
-3. [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/) (This is an advanced project.)
-
-#### A list of solutions can be found[here](https://docs.google.com/spreadsheets/d/1DQddDfxnpAsbr_EU5GE4iLAoNQzC2BkzH4eiAtVNZg4/edit?usp=sharing).
+Ongoing.
 
 
 If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.
@@ -59,8 +51,8 @@ The description below describes an ideal project.  Projects will be evaluated su
 
 ### Project Submission
 
-- *The project is to be submitted to the [LMS](https://lms.rpi.edu).
+- *The project report is to be submitted to the [LMS](https://lms.rpi.edu). The code is to be supported via Github classroom.
 
 **NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean's office and receive a 0 on the project grade.**
 
-{{< button href="https://classroom.github.com/a/S0r9askj" >}} Accept the Project Assignment {{< /button >}}
+{{< button href="https://classroom.github.com/a/1qsqwght" >}} Accept the Project Assignment {{< /button >}}

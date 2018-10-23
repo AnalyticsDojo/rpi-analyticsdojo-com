@@ -6,7 +6,7 @@ draft= false
 +++
 
 ### Appeal Process
-Accept the assigment to begin the appeal process.
+Accept the assignment to begin the appeal process.
 
 If you feel one of your solutions will work but was marked off, you can do the following:
 
@@ -22,3 +22,5 @@ If you feel one of your solutions will work but was marked off, you can do the f
 5. Provide a Slack message to Jason Kuruzovich and Lianlian Jiang with a link to the repository.
 
 Your solution must work 100%. You cannot use this method to request additional partial credit.
+
+No appeals will be accepted after 11:59 PM on 11/1/2018. 

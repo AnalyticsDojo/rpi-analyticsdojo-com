@@ -1,8 +1,8 @@
 +++
-title = "Session 18"
+title = "Session 17"
 description = ""
-weight = 18
-draft= true
+weight = 17
+draft= false
 +++
 
 ## Introduction to Modeling II

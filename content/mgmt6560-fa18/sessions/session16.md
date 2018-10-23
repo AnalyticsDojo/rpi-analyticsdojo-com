@@ -1,11 +1,11 @@
 +++
-title = "Session 14"
+title = "Session 16"
 description = ""
-weight = 14
-draft= true
+weight = 16
+draft= false
 +++
 
-## Project Work Day/Review/Demo
+## Project Work Day
 
 ### Class Objective:
 

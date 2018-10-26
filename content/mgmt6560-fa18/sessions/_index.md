@@ -21,7 +21,7 @@ alwaysopen = true
 | 12 | F | 10/12 | **Introduction to Modeling** <br> [more](/mgmt6560-fa18/sessions/session12/) <br> *[Assignment 6 Released (Due 10-25 11:59 PM)](/mgmt6560-fa18/assignments/assignment7/)* <br> |
 | 13 | T | 10/16 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session13/) |
 | 14 | F | 10/19 | **Midterm** <br> [more](/mgmt6560-fa18/sessions/session14/) |
-| 15 | T | 10/23 | **Introduction to Modeling (Last day to drop)** <br> [more](/mgmt6560-fa18/sessions/session15/) <br> *[Assignment 7 Released (Due 10-30 11:59 PM)](/mgmt6560-fa18/assignments/assignment8/)* <br> |
+| 15 | T | 10/23 | **Introduction to Modeling (Last day to drop)** <br> [more](/mgmt6560-fa18/sessions/session15/) <br> *[Assignment 7 Released (Due 11-1 11:59 PM)](/mgmt6560-fa18/assignments/assignment8/)* <br> |
 | 16 | F | 10/26 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session16/) |
 | 17 | T | 10/30 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session17/) |
 | 18 | F | 11/02 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session18/) |

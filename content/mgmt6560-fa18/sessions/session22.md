@@ -15,6 +15,5 @@ The goal here is to provide an overview of how data processes can be scaled with
 [Review the Hadoop Ecosystem](http://hadoop.apache.org)
 
 ### In Class Exercises
-On the DataBricks Platform you should execute both the Introduction to **Apache Spark on Databricks** and the **Databricks for Data Scientists**.
-
+[https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data](https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data)
 Concepts from these will be included in the final.

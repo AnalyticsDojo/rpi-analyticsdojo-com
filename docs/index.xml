@@ -471,7 +471,7 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session22/</guid>
       <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
 Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
-In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
+In Class Exercises https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data Concepts from these will be included in the final.</description>
     </item>
     
     <item>

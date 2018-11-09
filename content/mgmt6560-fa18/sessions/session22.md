@@ -2,7 +2,7 @@
 title = "Session 22"
 description = ""
 weight = 22
-draft= true
+draft= false
 +++
 
 ## Introduction to Big Data

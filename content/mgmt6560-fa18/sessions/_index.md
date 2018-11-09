@@ -25,7 +25,7 @@ alwaysopen = true
 | 16 | F | 10/26 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session16/) |
 | 17 | T | 10/30 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session17/) |
 | 18 | F | 11/02 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session18/) |
-| 19 | T | 11/06 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session19/) <br> *[Assignment 8 Project Draft (Sections 1-3) Due 11-9 11:59](/mgmt6560-fa18/assignments/assignment10/)* <br> |
+| 19 | T | 11/06 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session19/) <br> *[Assignment 8 Project Draft (Sections 1-3) Due 11-9 11:59 PM](/mgmt6560-fa18/assignments/assignment10/)* <br> |
 | 20 | F | 11/09 | **Introduction to Big Data** <br> [more](/mgmt6560-fa18/sessions/session20/) |
 | 21 | T | 11/13 | **Introduction to Big Data** <br> [more](/mgmt6560-fa18/sessions/session21/) |
 | 22 | F | 11/16 | **Deep Learning** <br> [more](/mgmt6560-fa18/sessions/session22/) |

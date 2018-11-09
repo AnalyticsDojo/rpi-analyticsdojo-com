@@ -7,7 +7,7 @@
     <meta name="description" content="">
 
 
-    <title>Git/GitHub :: Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title>Session 23 :: Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link href="/css/nucleus.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     
 
   </head>
-  <body class="" data-url="/setup/git/">
+  <body class="" data-url="/mgmt6560-fa18/sessions/session23/">
     <nav id="sidebar" class="">
 
 
@@ -82,7 +82,7 @@
   
     
     <li data-nav-id="/mgmt6560-fa18/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -158,7 +158,7 @@
   
     
     <li data-nav-id="/mgmt6560-fa18/sessions/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -612,7 +612,7 @@
   
     
       <li data-nav-id="/mgmt6560-fa18/sessions/session23/" class="dd-item
-     
+     active
       ">
         <a href="/mgmt6560-fa18/sessions/session23/">
         <span>Session 23</span> 
@@ -911,7 +911,7 @@
   
     
     <li data-nav-id="/setup/" class="dd-item 
-        parent
+        
         
         parent
         ">
@@ -945,7 +945,7 @@
   
     
       <li data-nav-id="/setup/git/" class="dd-item
-     active
+     
       ">
         <a href="/setup/git/">
         <span>Git/GitHub</span> 
@@ -1353,7 +1353,12 @@
 
 
 
- <a href='/'>RPI Analytics Dojo</a> > <a href='/setup/'>Compute Environment</a> > Git/GitHub
+
+
+
+ <a href='/'>RPI Analytics Dojo</a> > <a href='/mgmt6560-fa18/'>MGMT6560 Fall 2018</a> > <a href='/mgmt6560-fa18/sessions/'>Schedule</a> > Session 23
+
+ 
 
  
 
@@ -1368,9 +1373,11 @@
 <ul>
 <li>
 <ul>
-<li>
+<li><a href="#introduction-to-big-data">Introduction to Big Data</a>
 <ul>
-<li><a href="#git-and-github">Git and Github</a></li>
+<li><a href="#class-objective">Class Objective:</a></li>
+<li><a href="#readings-to-be-done-before-class">Readings (To be done before class):</a></li>
+<li><a href="#in-class-exercises">In Class Exercises</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -1383,7 +1390,7 @@
         
         <div id="body-inner">
           
-            <h1>Git/GitHub</h1>
+            <h1>Session 23</h1>
           
 
 
@@ -1391,37 +1398,23 @@
 
 
 
-<h3 id="git-and-github">Git and Github</h3>
+<h2 id="introduction-to-big-data">Introduction to Big Data</h2>
 
-<p>Git is a version control system use to track changes to code, and when combined with Github it is an extremely powerful way to collaborate.</p>
+<h3 id="class-objective">Class Objective:</h3>
 
-<p>(1) Install the <a href="https://git-scm.com/downloads">git command line tool</a>. There are a lot of options but you should be able to just utilize the defaults.</p>
+<p>The goal here is to provide an overview of how data processes can be scaled with Spark.</p>
 
-<p>(2) Create an account on <a href="https://github.com">github.com</a>.</p>
+<h3 id="readings-to-be-done-before-class">Readings (To be done before class):</h3>
 
-<p>(3) Install Github desktop if using OSX or Windows. <a href="https://desktop.github.com/">Click here for download instructions for Github Desktop</a>.</p>
+<p><a href="https://accounts.cloud.databricks.com/registration.html#signup/community">Create a DataBricks Community Edition Account</a> <br>
+<a href="http://go.databricks.com/gentle-intro-spark">Gentle Introduction To Spark - Download ebook</a>
+<a href="http://hadoop.apache.org">Review the Hadoop Ecosystem</a></p>
 
-<p>(4) Once you are done installing Github desktop, open the program.  Sign in with your Github Credentials to link the desktop application with your Github account.</p>
+<h3 id="in-class-exercises">In Class Exercises</h3>
 
-<p>(5) Clone the <a href="https://github.com/jkuruzovich/techfundamentals-spring2018-materials">class repository</a> either from the desktop tool or from the command line.</p>
+<p>On the DataBricks Platform you should execute both the Introduction to <strong>Apache Spark on Databricks</strong> and the <strong>Databricks for Data Scientists</strong>.</p>
 
-<p>From the Github tool:
-<img src="clone.png" alt="clone" /></p>
-
-<p>From the command line:</p>
-
-<pre><code>git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials
-</code></pre>
-
-<p>(6) In the future when you want to update the repository, you can do so either from the command line or the GitHub Desktop tool.</p>
-
-<p>From the GitHub Desktop, press the sync button after selecting the repository:
-<img src="sync.png" alt="" /></p>
-
-<p>From the command line:</p>
-
-<pre><code>git pull
-</code></pre>
+<p>Concepts from these will be included in the final.</p>
 
 
 <footer class=" footline" >
@@ -1465,8 +1458,6 @@
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -1482,6 +1473,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -1515,6 +1509,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -1528,21 +1523,8 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
-            
-            
-                
+                        
                     
                 
                 
@@ -1880,218 +1862,6 @@
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
                     
                 
                 
@@ -2235,6 +2005,233 @@
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -2325,10 +2322,10 @@
 
 
         
-            <a class="nav nav-prev" href="/setup/" title="Compute Environment"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/mgmt6560-fa18/sessions/session22/" title="Session 22"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/setup/anaconda/" title="Anaconda" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/mgmt6560-fa18/sessions/session24/" title="Session 24" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 

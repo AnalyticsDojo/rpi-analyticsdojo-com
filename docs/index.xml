@@ -454,6 +454,48 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
     </item>
     
     <item>
+      <title>Session 21</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session21/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  </description>
+    </item>
+    
+    <item>
+      <title>Session 22</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session22/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
+    </item>
+    
+    <item>
+      <title>Session 23</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session23/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
+    </item>
+    
+    <item>
+      <title>Session 24</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session24/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
+Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>http://rpi.analyticsdojo.com/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

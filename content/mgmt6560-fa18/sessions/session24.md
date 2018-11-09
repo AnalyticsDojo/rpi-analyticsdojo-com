@@ -1,8 +1,7 @@
 +++
-title = "Session 23"
+title = "Session 24"
 description = ""
-weight = 23
-draft= true
+weight = 24
 +++
 
 ## Introduction to Deep Learning

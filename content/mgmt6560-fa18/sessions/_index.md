@@ -35,5 +35,6 @@ alwaysopen = true
 | 25 | F | 11/30 | **Deep Learning II** <br> [more](/mgmt6560-fa18/sessions/session25/) |
 | 26 | T | 12/04 | **Project Work day** <br> [more](/mgmt6560-fa18/sessions/session26/) |
 | 27 | F | 12/07 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session27/) <br> *[Project Work](/mgmt6560-fa18/assignments/assignment14/)* <br> |
-| 28 | T | 12/11 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session28/) |
-| 29 |  | TBD  | **Final Exam** <br> [more](/mgmt6560-fa18/sessions/session29/) |
+| 28 | T | 12/11 | **Class Final Part 1** <br> [more](/mgmt6560-fa18/sessions/session28/) |
+| 29 | W | 12/12  | **Final Part 2 Released** <br> [more](/mgmt6560-fa18/sessions/session29/) |
+| 30 | M | 12/17  | **Final Exam Part 2 and Project Due** <br> [more](/mgmt6560-fa18/sessions/session30/) |

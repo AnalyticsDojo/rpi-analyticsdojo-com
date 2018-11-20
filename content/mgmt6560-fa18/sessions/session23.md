@@ -4,18 +4,19 @@ description = ""
 weight = 23
 +++
 
-## Introduction to Big Data
+## Introduction to Deep Learning
 
 ### Class Objective:
-The goal here is to provide an overview of how data processes can be scaled with Spark.
-
-### Readings (To be done before class):
-[Create a DataBricks Community Edition Account](https://accounts.cloud.databricks.com/registration.html#signup/community) <br>
-[Gentle Introduction To Spark - Download ebook](http://go.databricks.com/gentle-intro-spark)
-[Review the Hadoop Ecosystem](http://hadoop.apache.org)
+The goal here is to provide an overview of deep learning.
 
 ### In Class Exercises
-On the DataBricks Platform you should execute both the Introduction to **Apache Spark on Databricks** and the **Databricks for Data Scientists**.
 
-Concepts from these will be included in the final.
-[https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data](https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data)
+MNIST Pytorch on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/04-pytorch-mnist.ipynb)
+
+MNIST Tensorflow on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/06-tensorflow-minst.ipynb)
+
+FAST-AI Movielens
+Unfortunately this can't be run in colab yet.  This is a similar example to what we saw in the excel spreadsheet.
+https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb

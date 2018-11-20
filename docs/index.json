@@ -333,14 +333,14 @@
 	"title": "Session 22",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data Concepts from these will be included in the final.\n"
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Exercises Deep learning exercises on Dropbox.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session23/",
 	"title": "Session 23",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final. https://github.com/rpi-techfundamentals/fall2018-materials/tree/master/09-big-data\n"
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.\nIn Class Exercises MNIST Pytorch on Colab \nMNIST Tensorflow on Colab \nFAST-AI Movielens Unfortunately this can\u0026rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet. https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session24/",

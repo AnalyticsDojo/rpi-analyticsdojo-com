@@ -481,9 +481,13 @@ In Class Exercises Deep learning exercises on Dropbox.</description>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session23/</guid>
       <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.
-In Class Exercises MNIST Pytorch on Colab 
+In Class Exercises Neural Networks Quick Overview 
+Tensor Tutorial 
+Convolutional Neural Network Tutorial 
+MNIST Pytorch on Colab 
 MNIST Tensorflow on Colab 
-FAST-AI Movielens Unfortunately this can&amp;rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet. https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb</description>
+MNIST Tensorflow on Colab 
+FAST-AI Movielens Unfortunately this can&amp;rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet.</description>
     </item>
     
     <item>

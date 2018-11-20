@@ -340,7 +340,7 @@
 	"title": "Session 23",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.\nIn Class Exercises MNIST Pytorch on Colab \nMNIST Tensorflow on Colab \nFAST-AI Movielens Unfortunately this can\u0026rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet. https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb\n"
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.\nIn Class Exercises Neural Networks Quick Overview \nTensor Tutorial \nConvolutional Neural Network Tutorial \nMNIST Pytorch on Colab \nMNIST Tensorflow on Colab \nMNIST Tensorflow on Colab \nFAST-AI Movielens Unfortunately this can\u0026rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet. https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session24/",

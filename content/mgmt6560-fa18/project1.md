@@ -5,7 +5,6 @@ weight = 12
 +++
 
 #### Link to project sign up sheet.
-[Project sign up sheet.](https://docs.google.com/spreadsheets/d/1moPVPruoigL3iymdjYYRFHjjJ-5K9hMUlzO84AlaU6E/edit?usp=sharing)
 
 #### This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 

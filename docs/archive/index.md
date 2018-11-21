@@ -3,7 +3,7 @@
 ### Important Information:
 
 * **When:** Lectures Monday Evenings from 6:00 PM to 8:50 PM
-* **Where:** PITTS 4114  
+* **Where:** PITTS 4114
 
 - [Course Materials](https://github.com/jkuruzovich/techfundamentals-spring2018-materials)
 - [RPI LMS (Blackboard)](https://lms9.rpi.edu) will be used to keep track of grades.
@@ -12,13 +12,13 @@
 - [Slack](https://join.slack.com/t/tf-f17/shared_invite/MjMwNzcwMTg1MzE5LTE1MDMzNTE2NzMtZWVhOGYxNWFmYQ) should be used for problems with course assignment and communications with instructor and TA.
 
 ## Office Hours and Contact Information
-Jason Kuruzovich (Instructor)    
+Jason Kuruzovich (Instructor)
 - Email: kuruzj - at - rpi.edu [Prefer contact via Slack](http://piazza.com/rpi/fall2016/mgmt6560-fa17)
 - Office Hours:  Thursday 9:30 - 12:00 and by appointment *If office hours get crowded I'll be in SA lounge.*  This may be adjusted if results of class survey suggest it.
 - Office Location: Pittsburgh 4108 (Located in the Severino Center)
 
 
-Assignments from one class will be due the following Wednesday by 11:59 PM.  This allows for an time to ask about an assignment.  
+Assignments from one class will be due the following Wednesday by 11:59 PM.  This allows for an time to ask about an assignment.
 
 *Note: As a student you are welcome to a really cool student developer pack that even faculty don't qualify for. You can download it at [https://education.github.com/pack](https://education.github.com/pack).*
 
@@ -39,8 +39,8 @@ Assignments from one class will be due the following Wednesday by 11:59 PM.  Thi
 | 11 | 11/20 | Text Mining and Unstructured Data           | [Click Here](#class-11) |
 | 12 | 11/27 | Introduction to Big Data        | [Click Here](#class-12) |
 | 13 | 12/4 | Introduction to Deep Learning       | [Click Here](#class-13)|
-| 14 | 12/11  | Presentations                            |                 |                                                                         
-| 15 | 19-Dec  | Final Exam (Comprehensive 6:00 - 9:00 PM)  |  [Click Here](#final)|                                                                                  
+| 14 | 12/11  | Presentations                            |                 |
+| 15 | 19-Dec  | Final Exam (Comprehensive 6:00 - 9:00 PM)  |  [Click Here](#final)|
 
 ## Lab-Homework Submission Instructions
 These are instructions for completing the first lab. We will be using [Github Classroom](https://classroom.github.com) to distribute and collect all assignments.  This is new for this semester so expect some bumps.
@@ -111,7 +111,7 @@ Introduction to Python
 
 ### Assignment (due Wednesday following next class by 11:59 PM):
 - Assignment 2 Links: [local](http://localhost:8888/notebooks/classes/02-intro-python/intro-python-exercises.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/02-intro-python/intro-python-exercises.ipynb)
-- Total points: 30.  Please run the automated tests at the bottom of this assignment and turn in a PDF by selecting *File->Print Preview* and then *print->save as .pdf*. Turn in via the [RPI LMS](https://lms9.rpi.edu:8443/).  
+- Total points: 30.  Please run the automated tests at the bottom of this assignment and turn in a PDF by selecting *File->Print Preview* and then *print->save as .pdf*. Turn in via the [RPI LMS](https://lms9.rpi.edu:8443/).
 
 
 
@@ -126,7 +126,7 @@ The goal of this class is to introduce you to the flow and logic of Python while
 
 ### Readings (To be done before class):
 - [Pandas Intro to Data Structures (series and dataframe only)](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
-- [Think Python-2E](http://greenteapress.com/wp/think-python-2e) Read through Chapters 11, 12, 14.  
+- [Think Python-2E](http://greenteapress.com/wp/think-python-2e) Read through Chapters 11, 12, 14.
 
 ### In Class Activities:
 
@@ -137,7 +137,7 @@ The goal of this class is to introduce you to the flow and logic of Python while
 - Pandas2 Links:[local](http://localhost:8888/notebooks/classes/03-intro-python2/intro-python-pandas2.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-pandas2.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-pandas2.ipynb#/)
 - Conditional Statements and Loops Links: [local](http://localhost:8888/notebooks/classes/03-intro-python2/intro-python-conditionals-loops.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-conditionals-loops.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-conditionals-loops.ipynb#/)
 - Functions Links: [local](http://localhost:8888/notebooks/classes/03-intro-python2/intro-python-functions.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-functions.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/03-intro-python2/intro-python-functions.ipynb#/)
-- Kaggle Assignment Exercises.  
+- Kaggle Assignment Exercises.
 - [Kaggle Intro - Titanic](https://www.kaggle.com/c/titanic)
 - [Kaggle Titanic Baseline](https://www.kaggle.com/analyticsdojo/titanic/titanic-baseline-models-analyticsdojo/)
 
@@ -194,26 +194,25 @@ The goal of this class is to expose you more to the introduction of the analysis
 (2) [Exploratory Data Analysis](http://r4ds.had.co.nz/exploratory-data-analysis.html).
 
 ### In Class Activities:
-- Fill out survey on project [here](https://docs.google.com/forms/d/e/1FAIpQLScunpzqBRyDprQOL3EW4GeEFXWAQ_QrZpHBJhkyeGR8BeTjVA/viewform) and get the results [here](https://docs.google.com/spreadsheets/d/15iRSzMDqNvOupnhEhjizbHO_9konlH1KzimSQeDgs5Y/edit?usp=sharing).
 - Conditionals and Loops Links: [local](http://localhost:8888/notebooks/classes/05-intro-r2/intro-r-conditionals-loops.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-conditionals-loops.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-conditionals-loops.ipynb#/).
 - Merging and Aggregating Data Links: [local](http://localhost:8888/notebooks/classes/05-intro-r2/intro-r-merge-agg-fun.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-merge-agg-fun.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-merge-agg-fun.ipynb#/).
 - Intro to the Tidyverse Links: [local](http://localhost:8888/notebooks/classes/05-intro-r2/intro-r-tidyverse.ipynb) [github](https://github.com/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-tidyverse.ipynb) [slides](http://nbviewer.jupyter.org/format/slides/github/AnalyticsDojo/materials/blob/master/analyticsdojo/classes/05-intro-r2/intro-r-tidyverse.ipynb#/).
 - [Kaggle R](https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic).
 
 ### Assignment (due the second Wednesday following class by 11:59 PM):
-- For this assingment, I'd like you to select an R based solution to your Kaggle Project.  
+- For this assingment, I'd like you to select an R based solution to your Kaggle Project.
 
-- You should fork the origional on Kaggle and add comments to the code, looking up functions where you are unsure of what they do.  
+- You should fork the origional on Kaggle and add comments to the code, looking up functions where you are unsure of what they do.
 - You should submit a pdf of your commented code.
 
 # Class 6
 
 ### Class Objective:
 
-The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.  
+The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 
 ### Readings (To be done before class):
-These readings are designed to give you an overview.   
+These readings are designed to give you an overview.
 - [Designing Great Visualizations](http://www.tableau.com/sites/default/files/media/designing-great-visualizations.pdf)
 - [Intro to MatPlotLib for Python](http://matplotlib.org/users/pyplot_tutorial.html)
 - [Intro to ggplot2 for R](http://tutorials.iq.harvard.edu/R/Rgraphics/Rgraphics.html)
@@ -274,26 +273,26 @@ These readings are designed to give you an overview.
 #### Getting Started with Tableau Desktop.
 For this lab we will begin the process of learning visualization through the [See Click Fix Kaggle Project](https://www.kaggle.com/c/see-click-predict-fix).  Go ahead and download the train file from [Github](https://raw.githubusercontent.com/theusual/kaggle-seeclickfix-ensemble/master/Bryan/Data/train.csv).
 
-The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.  
+The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.
 
 (1). IN YOUR OWN WORDS, describe what the data involves and key fields that are identified.
 
 *Import the Data.*  You should be able to do this using the instructions from class and the video.
 We want to get started with identifying the data on a map.  Drag the Longitude to the column and the Latitude to the rows.
 
-*Filter the Data.*  We have 4 cities here but we only want one of them.  We need to create a filter that selects based on the longitude/latitude to only show one city.   
+*Filter the Data.*  We have 4 cities here but we only want one of them.  We need to create a filter that selects based on the longitude/latitude to only show one city.
 
 (2). IN YOUR OWN WORDS, describe the filter you created to select only one city.
 
 *Change the type to a Map.*  Select on the *Show Me* map to show your city on a map.  (This actually happens automatically).
 
-*Tag Type.* Drag the tags over to the colors and select filter and add.  Select just a few tags.  
+*Tag Type.* Drag the tags over to the colors and select filter and add.  Select just a few tags.
 
-*Understand Tags*.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags.  
+*Understand Tags*.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags.
 
 (3). Provide an image showing the 5 most frequent tag types.
 
-(4).  Create 3 visualizations that help you to understand more details about the data or make a specific point.  At least one should use the Map.  Provide 1-3 sentences to describe each visualization.  
+(4).  Create 3 visualizations that help you to understand more details about the data or make a specific point.  At least one should use the Map.  Provide 1-3 sentences to describe each visualization.
 
 Here are some [examples](https://gist.github.com/jkuruzovich/a3b49f5004ad1e466ae5ddc97662d3e6).
 
@@ -305,7 +304,7 @@ For this part of the assignment, use the embeded mpg dataset.  For this, your ca
 
 (6) Create a scatter plot mapping `disp` vs `hwy` and `cyl` vs `hwy`.  Based on the graph, which seems to be the stronger relationship to `hwy`, `disp` (displacement) or `cyl` (# cylinders).
 
-#### The following should be conducted with Python using your project dataset (if possible, otherwise choose something interesting).  
+#### The following should be conducted with Python using your project dataset (if possible, otherwise choose something interesting).
 
 (7) Create (a) histograms of two different variables. Describe what type of distribution(s) the data appears to follow.
 
@@ -315,10 +314,10 @@ For this part of the assignment, use the embeded mpg dataset.  For this, your ca
 
 ### Class Objective:
 
-The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.  
+The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.
 
 ### Readings (To be done before class):
-These readings are designed to give you an overview.   
+These readings are designed to give you an overview.
 
 - [Character Encodings](http://www.joelonsoftware.com/articles/Unicode.html)
 - [What is an API (in English)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.1ail6h2fy)
@@ -349,7 +348,7 @@ The goal of this is to have you summarize work to date.
 No readings today. Review and prepare for midterm.
 
 ### In Class Activities:
-We will start with the midterm. We will think have a check-in regarding the project. I'd like to make sure that each of you understand what your *baseline* model is for comparison.  This should be a simple model in which the modeling process is quite simplified.  For example, in the Twitter assignment we used the *everyone dies* senario to provide a baseline for comparison.  
+We will start with the midterm. We will think have a check-in regarding the project. I'd like to make sure that each of you understand what your *baseline* model is for comparison.  This should be a simple model in which the modeling process is quite simplified.  For example, in the Twitter assignment we used the *everyone dies* senario to provide a baseline for comparison.
 26-Oct (or before). Manditory 1st check-in with instructor/TA.
 
 #### Midterm
@@ -359,7 +358,7 @@ Part 1: Multiple Choice/Short answer
 The first section will be closed book/closed notes.  You should understand conceptual issues with the class, technologies, packages, CRISP model, etc. If given a piece of code, you should be able to interpret what it does.  In this section, you won’t be asked to generate any code though.
 
 Part 2: Coding
-Like the homework, there will be sections where you need to write specific code responses to questions, similar to the homework.  
+Like the homework, there will be sections where you need to write specific code responses to questions, similar to the homework.
 
 You are allowed to bring a 1 page (both sides) or 2 pages (1 side each) of a crib sheet with syntax.
 
@@ -394,7 +393,7 @@ Python Questions. (Hint: There is a detailed how-to model for the Boston Housing
 (1) Do a Random forest for the IRIS dataset using Python.
 
 
-(2) Calculate the Accuracy of the prediction using Python.  
+(2) Calculate the Accuracy of the prediction using Python.
 
 (3) Is there any difference between the Random Forrest R result and the Python result?
 

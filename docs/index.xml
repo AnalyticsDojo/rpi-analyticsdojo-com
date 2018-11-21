@@ -27,7 +27,7 @@
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session1/</guid>
       <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class
-Before Class  Sign up for Slack here. Create a Github account. Enter your Github account here.</description>
+Before Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone.</description>
     </item>
     
     <item>
@@ -328,8 +328,7 @@ Assignment (To be done before class):  Install Tableau Free for university stude
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/project1/</guid>
-      <description>Link to project sign up sheet. Project sign up sheet.
-This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+      <description>Link to project sign up sheet. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
 Project Selection Ongoing.
 If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel.</description>
     </item>

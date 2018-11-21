@@ -11,7 +11,6 @@ Welcome to Technology Fundamentals for Business Analytics. We are going to famil
 #### Before Class
 - Sign up for [Slack here](https://join.slack.com/t/rpi-bsan-2019/shared_invite/enQtNDIwMDE1ODExMTEwLWRlMzExMDlkYmMxN2VhNzk0MDVlMjFlMjMxNjA0NmIxMDI0ZThkNzY1NThjNDVkNzBlNjU2ZmFjMDNhZGI5NmM).
 - Create a [Github](http://www.github.com) account.
-- Enter your Github account [here](https://docs.google.com/spreadsheets/d/1moPVPruoigL3iymdjYYRFHjjJ-5K9hMUlzO84AlaU6E/edit?usp=sharing).
 - [Download](https://slack.com/downloads/) the Slack app for your desktop and phone.
 - [Download](https://desktop.github.com) the Github Desktop app.
 - [Download](https://www.anaconda.com/download/) Anaconda 3.6.
@@ -30,5 +29,4 @@ In this class we will review the syllabus and discuss the broader issues of data
 As discussed, please work through all of the notebooks in the course materials for session 1.
 When you log into lab.analyticsdojo.com they are in materials-fa/01-overview.  You should specifically try to complete the 03-exercise1. This will be submitted as part of HM01 which will be released Tuesday.
 I’m still missing a number of github IDs in this spreadsheet.
-- Enter your Github account [here](https://docs.google.com/spreadsheets/d/1moPVPruoigL3iymdjYYRFHjjJ-5K9hMUlzO84AlaU6E/edit?usp=sharing).
 In addition, please always look through the readings for the next session.

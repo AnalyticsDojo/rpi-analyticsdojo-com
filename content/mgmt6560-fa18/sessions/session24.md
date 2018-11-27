@@ -26,5 +26,5 @@ Revisiting Titanic with Pytorch
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/11-deep-learning2/03-titanic-pytorch.ipynb)
 
 ### In Class/Homework:
-To be Turned in by next Tuesday Dec 4 at 11:59 PM.
+To be Turned in by next Tuesday Dec 4 at 11:59 PM via LMS (Titled: Deep Learning HM/Classroom Assignment 2).
 [Download](https://www.dropbox.com/s/tjtkj35ihaby2s9/Deep%20Learning%20%20Homework.docx?dl=0)

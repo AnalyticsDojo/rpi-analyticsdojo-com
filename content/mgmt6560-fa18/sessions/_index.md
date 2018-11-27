@@ -32,8 +32,8 @@ alwaysopen = true
 | 23 | T | 11/20 | **Deep Learning** <br> [more](/mgmt6560-fa18/sessions/session23/) |
 |  | F | 11/23 | **Thanksgiving, No Classes.** <br>  |
 | 24 | T | 11/27 | **Deep Learning II** <br> [more](/mgmt6560-fa18/sessions/session24/) |
-| 25 | F | 11/30 | **Deep Learning II** <br> [more](/mgmt6560-fa18/sessions/session25/) |
-| 26 | T | 12/04 | **Project Work day** <br> [more](/mgmt6560-fa18/sessions/session26/) |
+| 25 | F | 11/30 | **Project Work day (Field Trip)** <br> [more](/mgmt6560-fa18/sessions/session25/) |
+| 26 | T | 12/04 | **Time Series and Principal Component Analysis** <br> [more](/mgmt6560-fa18/sessions/session26/) |
 | 27 | F | 12/07 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session27/) <br> *[Project Work](/mgmt6560-fa18/assignments/assignment14/)* <br> |
 | 28 | T | 12/11 | **Class Final Part 1** <br> [more](/mgmt6560-fa18/sessions/session28/) |
 | 29 | W | 12/12  | **Final Part 2 Released** <br> [more](/mgmt6560-fa18/sessions/session29/) |

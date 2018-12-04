@@ -1,7 +1,7 @@
 +++
-title = "Session 24"
+title = "Session 26"
 description = ""
-weight = 24
+weight = 26
 +++
 
 ## Introduction to Deep Learning

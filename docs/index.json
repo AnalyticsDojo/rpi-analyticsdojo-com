@@ -350,18 +350,18 @@
 	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes\nIn Class: Revisiting IRIS with PyTorch \nRevisiting Boston Housing with Pytorch \nRevisiting Titanic with Pytorch \nIn Class/Homework: To be Turned in by next Tuesday Dec 4 at 11:59 PM via LMS (Titled: Deep Learning HM/Classroom Assignment 2). Download\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session26/",
-	"title": "Session 24",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes\nIn Class: Time Series \nRevisiting Titanic with FastAI \n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session25/",
 	"title": "Session 25",
 	"tags": [],
 	"description": "",
 	"content": " Project Work Day I\u0026rsquo;ll be in class if anyone is not going on the field trip and needs help on project.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session26/",
+	"title": "Session 26",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes\nIn Class: Time Series \nRevisiting Titanic with FastAI \n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/ai/",

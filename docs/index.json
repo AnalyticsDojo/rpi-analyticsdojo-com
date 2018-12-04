@@ -361,7 +361,7 @@
 	"title": "Session 26",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes\nIn Class: Time Series \nRevisiting Titanic with FastAI \n"
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): Time Series with Siraj\nIn Class: Time Series \nTime Series 2 \nRevisiting Titanic with FastAI \n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/ai/",

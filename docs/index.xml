@@ -517,8 +517,9 @@ Revisiting Boston Housing with Pytorch</description>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/sessions/session26/</guid>
       <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
-Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Backpropagation in 5 Minutes
+Readings (To be done before class): Time Series with Siraj
 In Class: Time Series 
+Time Series 2 
 Revisiting Titanic with FastAI</description>
     </item>
     

@@ -7,7 +7,7 @@
     <meta name="description" content="">
 
 
-    <title>Compute Environment :: Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</title>
+    <title>Session 24 :: Fall 2018 Course Website for Technology Fundamentals for Business Analytics.</title>
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
     <link href="/css/nucleus.css" rel="stylesheet">
     <link href="/css/font-awesome.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@
     
 
   </head>
-  <body class="" data-url="/setup/">
+  <body class="" data-url="/mgmt6560-fa18/sessions/session26/">
     <nav id="sidebar" class="">
 
 
@@ -82,7 +82,7 @@
   
     
     <li data-nav-id="/mgmt6560-fa18/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -158,7 +158,7 @@
   
     
     <li data-nav-id="/mgmt6560-fa18/sessions/" class="dd-item 
-        
+        parent
         
         parent
         ">
@@ -652,7 +652,7 @@
   
     
       <li data-nav-id="/mgmt6560-fa18/sessions/session26/" class="dd-item
-     
+     active
       ">
         <a href="/mgmt6560-fa18/sessions/session26/">
         <span>Session 24</span> 
@@ -951,8 +951,8 @@
   
     
     <li data-nav-id="/setup/" class="dd-item 
-        parent
-        active
+        
+        
         parent
         ">
       <a href="/setup/">
@@ -1390,7 +1390,17 @@
 
 
 
- <a href='/'>RPI Analytics Dojo</a> > Compute Environment
+
+
+
+
+
+
+ <a href='/'>RPI Analytics Dojo</a> > <a href='/mgmt6560-fa18/'>MGMT6560 Fall 2018</a> > <a href='/mgmt6560-fa18/sessions/'>Schedule</a> > Session 24
+
+ 
+
+ 
 
  
 
@@ -1403,9 +1413,11 @@
 <ul>
 <li>
 <ul>
-<li><a href="#cloud">Cloud</a>
+<li><a href="#introduction-to-deep-learning">Introduction to Deep Learning</a>
 <ul>
-<li><a href="#our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</a></li>
+<li><a href="#class-objective">Class Objective:</a></li>
+<li><a href="#readings-to-be-done-before-class">Readings (To be done before class):</a></li>
+<li><a href="#in-class">In Class:</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -1418,7 +1430,7 @@
         
         <div id="body-inner">
           
-            <h1>Compute Environment</h1>
+            <h1>Session 24</h1>
           
 
 
@@ -1426,39 +1438,31 @@
 
 
 
-<p>Often technical issues around computer configuration can be frustrating, but they are an important component of doing data science. You will need a number of different systems setup on your computer for this class.</p>
+<h2 id="introduction-to-deep-learning">Introduction to Deep Learning</h2>
 
-<p>We will be testing this semester a online JupyterHub instance that should simplify a lot of the setup. However this is still in an alpha release and it would be good to get an alternate compute environment setup on your laptop.</p>
+<h3 id="class-objective">Class Objective:</h3>
 
-<p>In describing options, there are <em>cloud</em> and <em>laptop</em> based ways of doing the exercises.</p>
+<p>The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.</p>
 
-<h2 id="cloud">Cloud</h2>
+<h3 id="readings-to-be-done-before-class">Readings (To be done before class):</h3>
 
-<p>A cloud based way of doing data science doesn&rsquo;t require you to install anything and you can be up and running in working with concepts asap.</p>
+<p><a href="http://www.fast.ai/2018/04/10/stanford-salon/">You can do Deep Learning</a>
+<a href="https://www.youtube.com/watch?v=ov_RkIJptwE">Neural Networks - The Math of Intelligence #4</a>
+<a href="https://playground.tensorflow.org/#activation=tanh&amp;batchSize=10&amp;dataset=circle&amp;regDataset=reg-plane&amp;learningRate=0.03&amp;regularizationRate=0&amp;noise=0&amp;networkShape=4,2&amp;seed=0.44854&amp;showTestData=false&amp;discretize=false&amp;percTrainData=50&amp;x=true&amp;y=true&amp;xTimesY=false&amp;xSquared=false&amp;ySquared=false&amp;cosX=false&amp;sinX=false&amp;cosY=false&amp;sinY=false&amp;collectStats=false&amp;problem=classification&amp;initZero=false&amp;hideText=false">Play Around with this Hands-On Machine Learning</a>
+<a href="https://www.youtube.com/watch?v=q555kfIFUCM">Backpropagation in 5 Minutes</a></p>
 
-<h3 id="our-cloud-lab-analyticsdojo-com">Our Cloud: lab.analyticsdojo.com</h3>
+<h3 id="in-class">In Class:</h3>
 
-<p>For the cloud instance at <a href="http://lab.analyticsdojo.com">lab.analyticsdojo.com</a>, there is some cool technology that is driving this. We are utilizing <a href="https://kubernetes.io">Kubernetes</a> on the Google Cloud Platform to run Jupyterhub.  This is based on some amazing work by a talented community of open source developers.</p>
+<p>Time Series
+<a href="https://colab.research.google.com/drive/1MrHgj7K4taggcKiBbaD63qvzN7NwGU-o"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></p>
 
-<p>When someone logs into the platform, the students obtain their own <em>container</em> to run on, giving them access to a compute environment that is much more flexible than a typical brower.</p>
-
-<p>##Laptop
-When running on your laptop, there are 2 different configuration options that that are possible.</p>
-
-<p>For most users, managing the analytics environment with Anaconda seems to work quite well. Anaconda is a package manager with detailed instructions for Mac/Windows/Linux users.  In this clase</p>
-
-<p>It is also possible to run Docker on your laptop, mirroring the same compute environment that you enjoyed on JupyterHub cloud environment. This has worked perfectly in the past for Mac users and not so well for Windows users, but I understand Docker for Windows has come a long way.</p>
-
-<p>Please feel free to post issues on the Slack channel.</p>
-
-<p>Follow the instructions to install <a href="/setup/git/">git/GitHub Desktop</a> and <a href="/setup/anaconda">Anaconda</a>.</p>
+<p>Revisiting Titanic with FastAI
+<a href="https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/12-deep-learning3/03-titanic-pytorch.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" /></a></p>
 
 
 <footer class=" footline" >
 	
 </footer>
-
-
 
 
 
@@ -1497,8 +1501,6 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                        
-                        
                     
                 
                 
@@ -1514,6 +1516,9 @@ When running on your laptop, there are 2 different configuration options that th
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -1547,194 +1552,6 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
-                        
-            
-            
-                
                     
                 
                 
@@ -1749,21 +1566,8 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
                         
-            
-            
-                
+                        
                     
                 
                 
@@ -1772,9 +1576,6 @@ When running on your laptop, there are 2 different configuration options that th
                     
                     
 
-                    
-            
-        
                     
             
         
@@ -1987,6 +1788,186 @@ When running on your laptop, there are 2 different configuration options that th
             
         
                     
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
             
         
                     
@@ -2174,7 +2155,6 @@ When running on your laptop, there are 2 different configuration options that th
             
                 
                     
-                    
                 
                 
 
@@ -2187,9 +2167,6 @@ When running on your laptop, there are 2 different configuration options that th
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -2420,10 +2397,10 @@ When running on your laptop, there are 2 different configuration options that th
 
 
         
-            <a class="nav nav-prev" href="/mgmt6560-fa18/project1/" title="Project"> <i class="fa fa-chevron-left"></i></a>
+            <a class="nav nav-prev" href="/mgmt6560-fa18/sessions/session24/" title="Session 24"> <i class="fa fa-chevron-left"></i></a>
         
         
-            <a class="nav nav-next" href="/setup/git/" title="Git/GitHub" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+            <a class="nav nav-next" href="/mgmt6560-fa18/sessions/session25/" title="Session 25" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
         
     </div>
 
@@ -2449,3 +2426,4 @@ When running on your laptop, there are 2 different configuration options that th
 
   </body>
 </html>
+

@@ -20,4 +20,4 @@ Time Series 2
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hUvfBFW_le2NWXoB3NQsq6DpGerx2W_1)
 
 Revisiting Titanic with FastAI
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/12-deep-learning3/03-titanic-pytorch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/12-deep-learning3/01_titanic_fastai.ipynb)

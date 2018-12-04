@@ -10,7 +10,7 @@ weight = 26
 The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
 
 ### Readings (To be done before class):
-[Time Series with Siraj](https://www.youtube.com/watch?v=d4Sn6ny_5LI)
+[Time Series with Siraj ](https://www.youtube.com/watch?v=d4Sn6ny_5LI)
 
 ### In Class:
 Time Series

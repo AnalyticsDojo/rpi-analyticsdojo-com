@@ -18,14 +18,14 @@ The Final Exam will use synthetic heath data.
 ### When you are ready to begin.
 You have 3 hours to work on the final once you accept the assignment and clone it. You can take up to an hour of breaks along the way but you should have committed everything by 4 hours and submitted to LMS shortly after.  Make sure you have a quiet place to work alone. You can use any resources but you must do this alone. You can do it!
 
-*There are 55 possible points. The majority of the points are from answering questions and there will be partial credit given for the code . While I'll make adjustments if any major issues come up please don't stop working on the exam to message me.    Send me a slack message during or afterwards but I might not be available.
+There are 55 possible points. The majority of the points are from answering questions and there will be partial credit given for the code. While I'll make adjustments if any major issues come up please don't stop working on the exam if you can.
 
-I've included rough time budgets in the questions. Don't get stuck on a question and fail to finish the exam.*
+I've included rough time budgets in the questions. Don't get stuck on a question and fail to finish the exam.
 
-1. Press the button to start the exam. When you clone the re
+1. Press the button to start the exam. When you clone the repository I get an email and the "timer" begins.
 {{< button href="https://classroom.github.com/a/EwwAkgVa" >}} Start the Exam {{< /button >}}
 
-2. Answer the questions in the Jupyter Notebook. You can use whatever computational environment you want.  You could also use R, but please use the R notebook kernel.
+2. Answer the questions in the Jupyter Notebook (questions.ipynb). You can use whatever computational environment you want.  You could also use R, but you must be able to generate a pdf at the end. 
 
 3. Commit your final changes to the Github repository and submit a PDF to the LMS. The pdf will be used for plagiarism detection and grading.  Github will be a backup.
 

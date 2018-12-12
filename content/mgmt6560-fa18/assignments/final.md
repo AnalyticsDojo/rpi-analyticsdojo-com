@@ -23,9 +23,10 @@ There are 55 possible points. The majority of the points are from answering ques
 I've included rough time budgets in the questions. Don't get stuck on a question and fail to finish the exam.
 
 1. Press the button to start the exam. When you clone the repository I get an email and the "timer" begins.
+
 {{< button href="https://classroom.github.com/a/EwwAkgVa" >}} Start the Exam {{< /button >}}
 
-2. Answer the questions in the Jupyter Notebook (questions.ipynb). You can use whatever computational environment you want.  You could also use R, but you must be able to generate a pdf at the end. 
+2. Answer the questions in the Jupyter Notebook (questions.ipynb). You can use whatever computational environment you want.  You could also use R, but you must be able to generate a pdf at the end.
 
 3. Commit your final changes to the Github repository and submit a PDF to the LMS. The pdf will be used for plagiarism detection and grading.  Github will be a backup.
 

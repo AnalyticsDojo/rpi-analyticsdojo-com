@@ -11,7 +11,8 @@ The Final Exam will use synthetic heath data.
 
 **You should spend a bit of time reading through the data dictionary prior to starting the final.  This time reviewing the links below and the instructions here does not count as part of the 3 hour limit.**
 
-[Synthea](https://synthetichealth.github.io/synthea/)
+[Synthea Project Description](https://synthetichealth.github.io/synthea/)
+
 [Data Dictionary](https://github.com/synthetichealth/synthea/wiki/CSV-File-Data-Dictionary)
 
 ### When you are ready to begin.

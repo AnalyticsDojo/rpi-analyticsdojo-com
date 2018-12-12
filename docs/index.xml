@@ -290,6 +290,18 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
     </item>
     
     <item>
+      <title>Final Exam</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-fa18/assignments/final/</guid>
+      <description>Stop and Read this at Least 2 Times Before You Begin the Exam. The Final Exam will use synthetic heath data.
+You should spend a bit of time reading through the data dictionary prior to starting the final. This time reviewing the links below and the instructions here does not count as part of the 3 hour limit.
+Synthea Data Dictionary
+When you are ready to begin. You have 3 hours to work on the final once you accept the assignment and clone it.</description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>http://rpi.analyticsdojo.com/resources/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

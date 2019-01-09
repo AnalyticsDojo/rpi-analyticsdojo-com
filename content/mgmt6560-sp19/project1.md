@@ -2,6 +2,7 @@
 title = "Project"
 description = ""
 weight = 12
+draft = true
 +++
 
 #### Link to project sign up sheet.

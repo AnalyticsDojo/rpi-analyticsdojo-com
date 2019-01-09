@@ -2,6 +2,7 @@
 title = "Session 1"
 description = ""
 weight = 1
+draft = false
 +++
 
 ### Course Overview & Introduction to the Data Science

@@ -2,7 +2,7 @@
 title = "Assignment 8"
 description = ""
 weight = 8
-draft= true
+draft = true
 +++
 
 #### Assignment:

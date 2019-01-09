@@ -2,7 +2,7 @@
 title = "Final Exam"
 description = ""
 weight = 10
-draft= false
+draft = true
 +++
 
 # Stop and Read this at Least 2 Times Before You Begin the Exam.
@@ -22,7 +22,7 @@ There are 55 possible points. The majority of the points are from answering ques
 
 I've included rough time budgets in the questions. Don't get stuck on a question and fail to finish the exam.
 
-You don't have to deal with missing values. Please print intermediate values and break code blocks up into multiple steps. 
+You don't have to deal with missing values. Please print intermediate values and break code blocks up into multiple steps.
 
 1. Press the button to start the exam. When you clone the repository I get an email and the "timer" begins.
 

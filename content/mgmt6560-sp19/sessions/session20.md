@@ -2,7 +2,7 @@
 title = "Session 20"
 description = ""
 weight = 20
-draft= true
+draft = true
 +++
 
 ## Text Mining and Unstructured Data

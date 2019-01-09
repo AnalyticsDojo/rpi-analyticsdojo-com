@@ -2,7 +2,7 @@
 title = "Assignment 6"
 description = ""
 weight = 6
-draft= false
+draft = true
 +++
 
 ### Assignment
@@ -39,4 +39,4 @@ We want to get started with identifying the data on a map.  Drag the Longitude t
 
 Here are some [examples](https://gist.github.com/jkuruzovich/a3b49f5004ad1e466ae5ddc97662d3e6).
 
-Your final submission should have 7 graphs.  
+Your final submission should have 7 graphs.

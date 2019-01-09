@@ -1,12 +1,5 @@
 [
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/",
-	"title": "Assignment 1",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below. You must include the initial lab as a pdf in the directory we did in class (lab01.ipynb). You can view the original here.  Accept the Assignment  Grading: Grading will be done via the github repository. Always ensure your changes have been pushed to the GitHub repository.\n 10 Points Complete HM01\n 10 Points lab01 PDF in repository.\n20 Points Total\n  NOTE: I\u0026rsquo;ve updated the original starter code to include a bit more of a walk through and fixed an error: https://github.com/rpi-techfundamentals/hm-01-starter/blob/master/hm01.ipynb\nYou are fine to do the original version. There is one small errror:\nThe code:\ndfcsv = dfcsv.to_csv('out/nameiloc.csv')  Should be:\ndfcsv.to_csv('out/nameiloc.csv')  (We aren\u0026rsquo;t assigning or updating the value. We are just running a method.)\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/",
 	"title": "MGMT6560 Fall 2018",
 	"tags": [],
@@ -19,13 +12,6 @@
 	"tags": [],
 	"description": "",
 	"content": " Course Overview \u0026amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class\nBefore Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda 3.6.  I prefer to use Slack for class. It allows me to be more responsive and track communications. Students have found it useful and continue to use it even after the class.\nVersion control and reproducibility are important. We will use GitHub classroom to collect all assignments.\nClass Objective: In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.\nIn Class Activities:  The presentation will always be in Dropbox, which is always linked on on the main rpi.analyticsdojo.com website on the left side.  As discussed, please work through all of the notebooks in the course materials for session 1. When you log into lab.analyticsdojo.com they are in materials-fa/01-overview. You should specifically try to complete the 03-exercise1. This will be submitted as part of HM01 which will be released Tuesday. I’m still missing a number of github IDs in this spreadsheet. In addition, please always look through the readings for the next session.\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/",
-	"title": "Assignment 2",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  Please turn in Lab02 as a pdf in the base directory of the repository.\nISSUES I mentioned this was my first time changing over to OKpy for these types of homework.\nDon’t worry about the autograding tests. As a result, you won’t have to install any packages. Just complete the questions. Sorry about this. Also, you are welcome to submit a jupyter notebook for lab02 if you are having trouble with the pdf (this can be fixed by deleting the cartoon though). [Please note though….working through problems of a technical nature is the type of technical fluency we are looking to build in this class. We want you to develop an appreciation of the connections between things like packages, data type, computing environment as part of this class.]\nThree issues where identified thus far:\n(1) You may get an error with the installation of dependencies if just working locally. Instead open up an Anaconda prompt/terminal and issue the following commands:\nconda install -y pip pip install git+https://github.com/grading/gradememaybe.git  The solution I demonstrated in class of copying the requirements.txt will also work.\n(2) You may get a conflict with matplotlib and gradememaybe For lab.analyticsdojo.com you can temporarily uninstall matplotlib with:\n!conda uninstall -y matplotlib  (3) You may get an error on HM02 q26. The test is looking for 4.6 but you may get 4.5999999999999996. Reasons are here: https://stackoverflow.com/questions/5997027/python-rounding-error-with-float-numbers https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html https://docs.python.org/3/tutorial/floatingpoint.html\nI\u0026rsquo;ve updated the test for q26 to address this issue. You can replace the content of tests/q24.py with the value in this file: https://raw.githubusercontent.com/rpi-techfundamentals/hm-02-starter/master/tests/q26.py\n(4) Change your collaborators from a list to a string. collaborators = \u0026quot;Alyssa Hacker\u0026quot;  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/",
@@ -70,32 +56,11 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/",
-	"title": "Assignment 3",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/",
-	"title": "Assignment 4",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/office/",
 	"title": "Office/Lab Hours",
 	"tags": [],
 	"description": "",
-	"content": "Jason Kuruzovich\n Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I\u0026rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).\n  Lianlian (Dorothy) Jiang (grader)\n Office/Lab Hours: Monday 11:00 AM-1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building. *\n"
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/",
-	"title": "Assignment 5",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
+	"content": "Jason Kuruzovich\n Office/Lab Hours: Monday 3:00 - 5:00 and by appointment  Office/Lab Location: I\u0026rsquo;ll hold office hours in the SA lounge or Severino Center, both in Pittsburgh for the majority of the time.   Lianlian (Dorothy) Jiang (grader)\n Office/Lab Hours: Monday 11:00 AM - 1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building. *\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
@@ -110,13 +75,6 @@
 	"tags": [],
 	"description": "",
 	"content": "   Session Day Date Topic     1 Th 01/10 Course Overview \u0026amp; Introduction to the Data Science Lifecycle more   2 M 01/14 Introduction to Technologies Used In Class more Assignment 1 Released (Due 1-24 11:59 PM)    3 Th 01/17 Data Fundamentals and Introduction To Python more    M 01/21 Martin Luther King Jr. Day. No Classes **    4 Th 01/24 Data Fundamentals and Introduction To Python more Assignment 2 Released (Due 1-31 11:59 PM)    5 M 01/28 Data Fundamentals and Introduction To Python II more **    6 Th 01/31 Data Fundamentals and Introduction To Python II more Assignment 3 Released (Due 2-7 11:59 PM)    7 M 02/04 Data Fundamentals and Introduction To Python III more **    8 Th 02/07 Data Fundamentals and Introduction To Python III more Assignment 4 Released (Due 2-14 11:59 PM)    9 M 02/11 Introduction to R more **    10 Th 02/14 Introduction to R more Assignment 5 Released (Due 2-19 11:59 PM)     M 02/18 President\u0026rsquo;s Day. No Classes.    11 Tu 02/19 Introduction to Modeling more Assignment 6 Released (Due 2-25 11:59 PM)    12 Th 02/21 Introduction to Modeling more   13 M 02/25 Intro to Visualization more Assignment 7 Released (Due 3-14 11:59 PM)    14 Th 02/28 Midterm more **     M 03/04 Spring Break. No Classes.     Th 03/07 Spring Break. No Classes.    15 M 03/11 Intro to Visualization more   16 Th 03/14 Introduction to Modeling II more **    17 M 03/18 Introduction to Modeling II more   18 Th 03/21 Intro to Modeling III: Time Series more Assignment 8 Project Draft (Sections 1-3) Due 13\u0026frasl;21 11:59    19 M 03/25 Intro to Modeling IV: Text more **    20 Th 03/28 Intro to Modeling IV: Text more   21 M 04/01 Introduction to Big Data more   22 Th 04/04 Introduction to Big Data more   23 M 04/08 Introduction to Deep Learning more   24 Th 04/11 Introduction to Deep Learning more   25 M 04/15 Introduction to Deep Learning II more   26 Th 04/18 Introduction to Deep Learning II more   27 M 04/22 Final Presentations more   28 Th 04/25 Final Presentations more     29 TBD TBD Final Exam more    "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/",
-	"title": "Assignment 6",
-	"tags": [],
-	"description": "",
-	"content": " Assignment This assignment should be turned into the LMS as a PDF.\nGetting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.\nThe first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.\n(1). IN YOUR OWN WORDS, describe what the data involves and key fields that are identified.\nImport the Data. You should be able to do this using the instructions from class and the video. We want to get started with identifying the data on a map. Drag the Longitude to the column and the Latitude to the rows.\nFilter the Data. We have 4 cities here but we only want one of them. We need to create a filter that selects based on the longitude/latitude to only the one California.\n(2). IN YOUR OWN WORDS, describe the filter you created to select only one city.\n(3) Change the type to a Map. Select on the Show Me map to show your city on a map. (This actually happens automatically).\n(4) Understand Tags. Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags. Provide an image showing the 5 most frequent tag types (not including NAs).\n(5) Update your Map in order to include Tag Type. Drag the tags over to the colors and select filter and add. Select the top 5 tags and show them on the map.\n(6). Create 4 visualizations that help you to understand more details about the data or make a specific point. At least one should use the Map. Provide 1-3 sentences to describe each visualization.\nHere are some examples.\nYour final submission should have 7 graphs.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/",
@@ -140,13 +98,6 @@
 	"content": "   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/",
-	"title": "Assignment 7",
-	"tags": [],
-	"description": "",
-	"content": " Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/midterm/",
 	"title": "Midterm Appeal",
 	"tags": [],
@@ -168,32 +119,11 @@
 	"content": " Step 2: Install and Configure Anaconda We will be using Anaconda to provide a Jupyter environment for both R and Python.\nFollow the following instructions to install Anaconda from Continuum Analytics. OSX Windows Linux\nOnce you have the Anaconda Distribution, follow below for advanced configuration.\nOSX  Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Windows Windows may often have issues associated with installation if you have had previous versions of Anaconda installed. If it doesn\u0026rsquo;t work, start by uninstalling everything\n Follow the online instructions to install the Anaconda Distribution with Python 3.6 Follow below for advanced configuration.  Linux If you are a Linux user, please help in supporting the class. You likely won\u0026rsquo;t need my help. ;) 1. Follow the online instructions to install the Anaconda Distribution with Python 3.6 2. Follow below for advanced configuration.\nAdvanced Configuration (a.) Windows users, open an \u0026lsquo;Anaconda Prompt\u0026rsquo;. Mac/Linux users open a standard terminal.\n(b.) Change directories to the techfundamentals-spring2018-materials folder you cloned earlier.\ncd \u0026lt;insert full path \u0026gt;\\techfundamentals-spring2018-materials  For the above, changing directories differs for Windows or Mac users. For example, on a Mac it might be:\ncd /Users/jasonkuruzovich/githubdesktop/techfundamentals-spring2018-materials  On Windows, if you have a space somewhere in your path make sure that you include quotes:\ncd \u0026quot;c:\\Users\\jasonkuruzovich\\github\\techfundamentals-spring2018-materials\u0026quot;  (c.) Install required packages. First install pip, which is a package manager similar to conda.\nconda install -c anaconda pip  Then, from the repository install all the packages in requirements.txt.\npip install -r requirements.txt  (d.) Launch a Jupyter notebook with the command:\njupyter notebook  You will need to run c-d each time to launch Jupyter.\n*There may be some other packages you still have to install. You will know this is an issue if an import command fails. You can install packages with:\nconda install \u0026lt;packagename\u0026gt;  or\npip install \u0026lt;packagename\u0026gt;  For example, to install the R Kernal for Jupyter, install the r-essentials package:\nconda install r-essentials  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/final/",
-	"title": "Final Exam",
-	"tags": [],
-	"description": "",
-	"content": " Stop and Read this at Least 2 Times Before You Begin the Exam. The Final Exam will use synthetic heath data.\nYou should spend a bit of time reading through the data dictionary prior to starting the final. This time reviewing the links below and the instructions here does not count as part of the 3 hour limit.\nSynthea Project Description\nData Dictionary\nWhen you are ready to begin. You have 3 hours to work on the final once you accept the assignment and clone it. You can take up to an hour of breaks along the way but you should have committed everything by 4 hours and submitted to LMS shortly after. Make sure you have a quiet place to work alone. You can use any resources but you must do this alone. You can do it!\nThere are 55 possible points. The majority of the points are from answering questions and there will be partial credit given for the code. While I\u0026rsquo;ll make adjustments if any major issues come up please don\u0026rsquo;t stop working on the exam if you can.\nI\u0026rsquo;ve included rough time budgets in the questions. Don\u0026rsquo;t get stuck on a question and fail to finish the exam.\nYou don\u0026rsquo;t have to deal with missing values. Please print intermediate values and break code blocks up into multiple steps.\n Press the button to start the exam. When you clone the repository I get an email and the \u0026ldquo;timer\u0026rdquo; begins.  Start the Exam   Answer the questions in the Jupyter Notebook (questions.ipynb). You can use whatever computational environment you want. You could also use R, but you must be able to generate a pdf at the end.\n Commit your final changes to the Github repository and submit a PDF to the LMS. The pdf will be used for plagiarism detection and grading. Github will be a backup.\n  If you have questions for me please do private messages on Slack.\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/r/",
 	"title": "R",
 	"tags": [],
 	"description": "",
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/",
-	"title": "Project",
-	"tags": [],
-	"description": "",
-	"content": " Link to project sign up sheet. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.\nProject Selection Ongoing.\nIf you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.\nDeliverables  Executive Summary This should be 1 page summary in your own words of the problem, data, and findings. Data description and initial processing. This section should include basic characterization of data. You should run and report basic statistics on the data and generate 3 visualizations. You can review other kernels to understand some different approaches to the data, but this section you are required to generate all analyses (3 pages). Modeling and evaluation of 3 other solutions. Identify 3 other Kaggle solutions completed by others. You can do this by selecting on the project and then clicking on the link to Kernels. Summarize the features, modeling approach, and performance in a table. Then do some further research to comment on (2 pages) Modeling. Modeling should examine relevance of different independent variables (features) and different algorithms. Summary. A summary of overall findings. Appendix. A github repository of all modeling, well commented code.  NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean\u0026rsquo;s office and receive a 0 on the project grade.\nProject Evaluation Metrics. The description below describes an ideal project. Projects will be evaluated subjectively by the instructor according to this rubric.\n Formatting (10 points). The student presented the report in a format that indicated professionalism and care in the organization, writing, and presentation of the overall report.\n Executive summary (20 points, 1 page). The student was able to present the results of modeling in a way that is rich and interesting as well. There is clear representation of key predictors and key algorithms used.\n Data description and initial processing (40 points. 3 pages). The student was able to clearly present an overall picture of the data using techniques presented in the class. This includes basic structure field by field descriptions as well as visualization and basic statistics. Where necessary they have adequately used techniques for cleaning the data or generating new features.\n Modeling and Evaluation(30 points, 2 pages). There is a clear insightful comparison of approaches, and he predictive characteristics of the different models are clearly compared in a table with appropriate conclusions. There are outside resources consulted in the description of specific algorithms if relevant.\n Analysis of relevance of independent variables (25 points. 1.5-2 pages). The student was able to clearly present justification of the value of different independent variables. Where possible, exploration of feature creation is provided.\n Analysis of performance of different model types (25 points, 1.5-2 pages). There are outside resources consulted in the description of specific algorithms if relevant. Outside sources give clarity and there is evidence of some model tuning.\n Commented Code (20 points, as needed). Clearly commented code has been provided in the assigned Jupyter notebook.\n  Project Submission  *The project report is to be submitted to the LMS. The code is to be supported via Github classroom.  NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean\u0026rsquo;s office and receive a 0 on the project grade.\nAccept the Project Assignment  "
-},
-{
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session12/",
-	"title": "Session 12",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",

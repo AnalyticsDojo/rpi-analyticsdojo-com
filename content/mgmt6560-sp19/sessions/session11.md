@@ -2,7 +2,7 @@
 title = "Session 11"
 description = ""
 weight = 11
-draft= true
+draft = true
 +++
 
 ## Visualization

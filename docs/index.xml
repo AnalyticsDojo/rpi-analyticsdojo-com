@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Assignment 1</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</guid>
-      <description>Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below. You must include the initial lab as a pdf in the directory we did in class (lab01.ipynb). You can view the original here.  Accept the Assignment  Grading: Grading will be done via the github repository. Always ensure your changes have been pushed to the GitHub repository.</description>
-    </item>
-    
-    <item>
       <title>Session 1</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,17 +19,6 @@
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</guid>
       <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class
 Before Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone.</description>
-    </item>
-    
-    <item>
-      <title>Assignment 2</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/</guid>
-      <description>Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  Please turn in Lab02 as a pdf in the base directory of the repository.
-ISSUES I mentioned this was my first time changing over to OKpy for these types of homework.
-Don’t worry about the autograding tests. As a result, you won’t have to install any packages.</description>
     </item>
     
     <item>
@@ -86,42 +66,14 @@ Readings (To be done before class):  Additional Suggested Reading: Chapter 1 fro
     </item>
     
     <item>
-      <title>Assignment 3</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/</guid>
-      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
-    </item>
-    
-    <item>
-      <title>Assignment 4</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment4/</guid>
-      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
-    </item>
-    
-    <item>
       <title>Office/Lab Hours</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/office/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/office/</guid>
       <description>Jason Kuruzovich
- Office/Lab Hours: Thursday 10:00 - 12:00 and by appointment  Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge for the majority of the time. If it is occupied with a seminar I&amp;rsquo;ll be in Pittsburgh 4108 (Located in the Severino Center).
-  Lianlian (Dorothy) Jiang (grader)
- Office/Lab Hours: Monday 11:00 AM-1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading.</description>
-    </item>
-    
-    <item>
-      <title>Assignment 5</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/</guid>
-      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
+ Office/Lab Hours: Monday 3:00 - 5:00 and by appointment  Office/Lab Location: I&amp;rsquo;ll hold office hours in the SA lounge or Severino Center, both in Pittsburgh for the majority of the time.   Lianlian (Dorothy) Jiang (grader)
+ Office/Lab Hours: Monday 11:00 AM - 1:00 PM by appointment  Office/Lab Location: 2128 Pittsburgh.   *Please see Dorothy primarily for issues related to grading. She is traveling a good bit this semester on job market so please make an appointment to confirm she is in the building.</description>
     </item>
     
     <item>
@@ -131,17 +83,6 @@ Readings (To be done before class):  Additional Suggested Reading: Chapter 1 fro
       
       <guid>http://rpi.analyticsdojo.com/resources/podcasts/</guid>
       <description> Linear Digressions  </description>
-    </item>
-    
-    <item>
-      <title>Assignment 6</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</guid>
-      <description>Assignment This assignment should be turned into the LMS as a PDF.
-Getting Started with Tableau Desktop. For this lab we will begin the process of learning visualization through the See Click Fix Kaggle Project. Go ahead and download the train file from Github or from the Dropbox/Kaggle folder.
-The first part of any data visualization project is data understanding. Start with the process of understanding the data fields and the context of the data.</description>
     </item>
     
     <item>
@@ -165,15 +106,6 @@ The first part of any data visualization project is data understanding. Start wi
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/grading/</guid>
       <description>   Component Weight     Homeworks and Labs 30%   Projects (Multi-week Homeworks) 30%   Midterm (7th Class) 20%   Final Exam 20%    </description>
-    </item>
-    
-    <item>
-      <title>Assignment 7</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/</guid>
-      <description> Assignment:  More details on the homework assignment process can be found here. The button to accept the assignment is below.  Accept the Assignment  </description>
     </item>
     
     <item>
@@ -219,19 +151,6 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
     </item>
     
     <item>
-      <title>Final Exam</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/final/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/final/</guid>
-      <description>Stop and Read this at Least 2 Times Before You Begin the Exam. The Final Exam will use synthetic heath data.
-You should spend a bit of time reading through the data dictionary prior to starting the final. This time reviewing the links below and the instructions here does not count as part of the 3 hour limit.
-Synthea Project Description
-Data Dictionary
-When you are ready to begin. You have 3 hours to work on the final once you accept the assignment and clone it.</description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>http://rpi.analyticsdojo.com/resources/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -241,30 +160,6 @@ When you are ready to begin. You have 3 hours to work on the final once you acce
  R for Data Science (available online)
  Berkeley R Bootcamp
   </description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/</guid>
-      <description>Link to project sign up sheet. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
-Project Selection Ongoing.
-If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel.</description>
-    </item>
-    
-    <item>
-      <title>Session 12</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session12/</guid>
-      <description>Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.
-Readings (To be done before class): (1) Cross Validation
-(2) The 10 Algorithms Machine Learning Engineers Need to Know.
-(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms
-(5) An Introduction to Machine Learning with Python - Chapter 2-3</description>
     </item>
     
     <item>

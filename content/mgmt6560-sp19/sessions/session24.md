@@ -2,6 +2,7 @@
 title = "Session 24"
 description = ""
 weight = 24
+draft = true
 +++
 
 ## Introduction to Deep Learning

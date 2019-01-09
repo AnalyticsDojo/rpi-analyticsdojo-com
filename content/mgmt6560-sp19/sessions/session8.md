@@ -2,7 +2,7 @@
 title = "Session 8"
 description = ""
 weight = 8
-draft= false
+draft= true
 +++
 
 ## Data Fundamentals and Introduction to Python (continued)

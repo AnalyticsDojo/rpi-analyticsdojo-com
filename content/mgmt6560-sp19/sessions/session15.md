@@ -2,7 +2,7 @@
 title = "Session 15 (midterm)"
 description = ""
 weight = 15
-draft= false
+draft = true
 +++
 
 ## Midterm

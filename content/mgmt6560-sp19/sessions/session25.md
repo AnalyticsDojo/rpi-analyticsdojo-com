@@ -2,6 +2,7 @@
 title = "Session 25"
 description = ""
 weight = 25
+draft = true
 +++
 
 ## Project Work Day

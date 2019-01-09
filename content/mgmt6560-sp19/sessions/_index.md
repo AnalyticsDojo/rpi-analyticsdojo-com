@@ -6,35 +6,36 @@ alwaysopen = true
 +++
 | Session | Day | Date | Topic |
 | :-----: | :-----: | :-----: | ------------------------------------------------- |
-| 1 | F | 08/31 | **Course Overview & Introduction to the Data Science Lifecycle** <br> [more](/mgmt6560-fa18/sessions/session1/) |
-| 2 | T | 09/04 | **Introduction to Technologies Used In Class** <br> [more](/mgmt6560-fa18/sessions/session2/) <br> *[ Assignment 1 Released (Due 9-11 11:59 PM)](/mgmt6560-fa18/assignments/assignment1/)* <br> |
-| 3 | F | 09/07 | **Data Fundamentals and Introduction To Python** <br> [more](/mgmt6560-fa18/sessions/session3/) |
-| 4 | T | 09/11 | **Data Fundamentals and Introduction To Python** <br> [more](/mgmt6560-fa18/sessions/session4/) <br> *[Assignment 2  Released (Due 9-18 11:59 PM)](/mgmt6560-fa18/assignments/assignment3/)* <br> |
-| 5 | F | 09/14 | **Data Fundamentals and Introduction To Python II** <br> [more](/mgmt6560-fa18/sessions/session5/) |
-| 6 | T | 09/18 | **Data Fundamentals and Introduction To Python II** <br> [more](/mgmt6560-fa18/sessions/session6/) <br> *[Assignment 3 Released (Due 9-25 11:59 PM)](/mgmt6560-fa18/assignments/assignment4/)* <br> |
-| 7 | F | 09/21 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-fa18/sessions/session7/) |
-| 8 | T | 09/25 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-fa18/sessions/session8/) <br> *[Assignment 4 Released (Due 10-2 11:59 PM)](/mgmt6560-fa18/assignments/assignment5/)* <br> |
-| 9 | F | 09/28 | **Introduction to R** <br> [more](/mgmt6560-fa18/sessions/session9/) |
-| 10 | T | 10/02 | **Introduction to R** <br> [more](/mgmt6560-fa18/sessions/session10/) <br> *[Assignment 5 Released (Due 10-12 11:59 PM)](/mgmt6560-fa18/assignments/assignment6/)* <br> |
-| 11 | F | 10/05 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session11/) |
-|  | T | 10/09 | **Classes Follow Monday Schedule (no class)** <br>  |
-| 12 | F | 10/12 | **Introduction to Modeling** <br> [more](/mgmt6560-fa18/sessions/session12/) <br> *[Assignment 6 Released (Due 10-25 11:59 PM)](/mgmt6560-fa18/assignments/assignment7/)* <br> |
-| 13 | T | 10/16 | **Intro to Visualization** <br> [more](/mgmt6560-fa18/sessions/session13/) |
-| 14 | F | 10/19 | **Midterm** <br> [more](/mgmt6560-fa18/sessions/session14/) |
-| 15 | T | 10/23 | **Introduction to Modeling (Last day to drop)** <br> [more](/mgmt6560-fa18/sessions/session15/) <br> *[Assignment 7 Released (Due 11-1 11:59 PM)](/mgmt6560-fa18/assignments/assignment8/)* <br> |
-| 16 | F | 10/26 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session16/) |
-| 17 | T | 10/30 | **Introduction to Modeling II** <br> [more](/mgmt6560-fa18/sessions/session17/) |
-| 18 | F | 11/02 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session18/) |
-| 19 | T | 11/06 | **Text Mining and Unstructured Data** <br> [more](/mgmt6560-fa18/sessions/session19/) <br> *[Assignment 8 Project Draft (Sections 1-3) Due 11-9 11:59 PM](/mgmt6560-fa18/assignments/assignment10/)* <br> |
-| 20 | F | 11/09 | **Introduction to Big Data** <br> [more](/mgmt6560-fa18/sessions/session20/) |
-| 21 | T | 11/13 | **Introduction to Big Data** <br> [more](/mgmt6560-fa18/sessions/session21/) |
-| 22 | F | 11/16 | **Deep Learning** <br> [more](/mgmt6560-fa18/sessions/session22/) |
-| 23 | T | 11/20 | **Deep Learning** <br> [more](/mgmt6560-fa18/sessions/session23/) |
-|  | F | 11/23 | **Thanksgiving, No Classes.** <br>  |
-| 24 | T | 11/27 | **Deep Learning II** <br> [more](/mgmt6560-fa18/sessions/session24/) |
-| 25 | F | 11/30 | **Project Work day (Field Trip)** <br> [more](/mgmt6560-fa18/sessions/session25/) |
-| 26 | T | 12/04 | **Time Series and Principal Component Analysis** <br> [more](/mgmt6560-fa18/sessions/session26/) |
-| 27 | F | 12/07 | **Final Presentations** <br> [more](/mgmt6560-fa18/sessions/session27/) <br> *[Project Work](/mgmt6560-fa18/assignments/assignment14/)* <br> |
-| 28 | T | 12/11 | **Class Final Part 1** <br> [more](/mgmt6560-fa18/sessions/session28/) |
-| 29 | W | 12/12  | **Final Part 2 Released** <br> [more](/mgmt6560-fa18/sessions/session29/) |
-| 30 | M | 12/17  | **Final Exam Part 2 and Project Due (BEFORE NOON 11:59 AM)** <br> [more](/mgmt6560-fa18/sessions/session30/) |
+| 1 | Th | 01/10 | **Course Overview & Introduction to the Data Science Lifecycle** <br> [more](/mgmt6560-sp19/sessions/session1/) |
+| 2 | M | 01/14 | **Introduction to Technologies Used In Class** <br> [more](/mgmt6560-sp19/sessions/session2/) <br> *[ Assignment 1 Released (Due 1-24 11:59 PM)](/mgmt6560-sp19/assignments/assignment1/)* <br> |
+| 3 | Th | 01/17 | **Data Fundamentals and Introduction To Python** <br> [more](/mgmt6560-sp19/sessions/session3/) |
+|   | M | 01/21 | **Martin Luther King Jr. Day. No Classes** <br>  <br> ** <br> |
+| 4 | Th | 01/24 | **Data Fundamentals and Introduction To Python** <br> [more](/mgmt6560-sp19/sessions/session4/) <br> *[Assignment 2  Released (Due 1-31 11:59 PM)](/mgmt6560-sp19/assignments/assignment2/)* <br> |
+| 5 | M | 01/28 | **Data Fundamentals and Introduction To Python II** <br> [more](/mgmt6560-sp19/sessions/session5/) <br> ** <br> |
+| 6 | Th | 01/31 | **Data Fundamentals and Introduction To Python II** <br> [more](/mgmt6560-sp19/sessions/session6/) <br> *[Assignment 3 Released (Due 2-7 11:59 PM)](/mgmt6560-sp19/assignments/assignment3/)* <br> |
+| 7 | M | 02/04 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-sp19/sessions/session7/) <br> ** <br> |
+| 8 | Th | 02/07 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-sp19/sessions/session8/) <br> *[Assignment 4 Released (Due 2-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment4/)* <br> |
+| 9 | M | 02/11 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session9/) <br> ** <br> |
+| 10 | Th | 02/14 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session10/) <br> *[Assignment 5 Released (Due 2-19 11:59 PM)](/mgmt6560-sp19/assignments/assignment5/)* <br> |
+|   | M | 02/18 | **President's Day. No Classes.** <br>  | 
+| 11 | Tu | 02/19 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session11/) <br> *[Assignment 6 Released (Due 2-25 11:59 PM)](/mgmt6560-sp19/assignments/assignment6/)* <br> |
+| 12 | Th | 02/21 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session12/) |
+| 13 | M | 02/25 | **Intro to Visualization** <br> [more](/mgmt6560-sp19/sessions/session13/) <br> *[Assignment 7 Released (Due 3-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment7/)* <br> |
+| 14 | Th | 02/28 | **Midterm** <br> [more](/mgmt6560-sp19/sessions/session14/) <br> ** <br> |
+|   | M | 03/04 | **Spring Break. No Classes.** <br>  |
+|   | Th | 03/07 | **Spring Break. No Classes.** <br>  |
+| 15 | M | 03/11 | **Intro to Visualization** <br> [more](/mgmt6560-sp19/sessions/session15/) |
+| 16 | Th | 03/14 | **Introduction to Modeling II** <br> [more](/mgmt6560-sp19/sessions/session16/) <br> ** <br> |
+| 17 | M | 03/18 | **Introduction to Modeling II** <br> [more](/mgmt6560-sp19/sessions/session17/) |
+| 18 | Th | 03/21 | **Intro to Modeling III: Time Series** <br> [more](/mgmt6560-sp19/sessions/session18/) <br> *[Assignment 8 Project Draft (Sections 1-3) Due 13/21 11:59](/mgmt6560-sp19/assignments/assignment8/)* <br> |
+| 19 | M | 03/25 | **Intro to Modeling IV: Text** <br> [more](/mgmt6560-sp19/sessions/session19/) <br> ** <br> |
+| 20 | Th | 03/28 | **Intro to Modeling IV: Text** <br> [more](/mgmt6560-sp19/sessions/session20/) |
+| 21 | M | 04/01 | **Introduction to Big Data** <br> [more](/mgmt6560-sp19/sessions/session21/) |
+| 22 | Th | 04/04 | **Introduction to Big Data** <br> [more](/mgmt6560-sp19/sessions/session22/) |
+| 23 | M | 04/08 | **Introduction to Deep Learning** <br> [more](/mgmt6560-sp19/sessions/session23/) |
+| 24 | Th | 04/11 | **Introduction to Deep Learning** <br> [more](/mgmt6560-sp19/sessions/session24/) |
+| 25 | M | 04/15 | **Introduction to Deep Learning II** <br> [more](/mgmt6560-sp19/sessions/session25/) |
+| 26 | Th | 04/18 | **Introduction to Deep Learning II** <br> [more](/mgmt6560-sp19/sessions/session26/) |
+| 27 | M | 04/22 | **Final Presentations** <br> [more](/mgmt6560-sp19/sessions/session27/) |
+| 28 | Th | 04/25 | **Final Presentations** <br> [more](/mgmt6560-sp19/sessions/session28/) <br> *[ ](/mgmt6560-sp19/assignments/assignment16/)* <br> |
+| 29 | TBD | TBD | **Final Exam** <br> [more](/mgmt6560-sp19/sessions/session29/) |

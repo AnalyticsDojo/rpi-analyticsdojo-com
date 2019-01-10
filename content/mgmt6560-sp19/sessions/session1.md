@@ -8,7 +8,7 @@ draft = false
 ### Course Overview & Introduction to the Data Science
 Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used.
 
-#### During Class
+#### Before Class
 - Sign up for [Slack here](https://join.slack.com/t/techfundament-oc98110/shared_invite/enQtNTIwMjAwMTE4MDY1LWE3NzRlY2Y1ZTNmOTgzNmQ0NWQ5M2JjODE5YWVmMDQzOTdiM2ZjYjdmN2RhZDNlNDlkMmMyMTRkMDlhNmJkOTA).
 - Create a [Github](http://www.github.com) account.
 - [Download](https://slack.com/downloads/) the Slack app for your desktop and phone.

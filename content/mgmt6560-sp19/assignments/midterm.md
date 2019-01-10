@@ -2,7 +2,7 @@
 title = "Midterm Appeal"
 description = ""
 weight = 8
-draft= false
+draft = true
 +++
 
 ### Appeal Process
@@ -23,4 +23,4 @@ If you feel one of your solutions will work but was marked off, you can do the f
 
 Your solution must work 100%. You cannot use this method to request additional partial credit.
 
-No appeals will be accepted after 11:59 PM on 11/1/2018. 
+No appeals will be accepted after 11:59 PM on 11/1/2018.

@@ -18,12 +18,12 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
 pre = "<h3>Important Links</h3>"
 name = "<i class='fa fa-github'></i> Course Materials"
-url = "https://github.com/rpi-techfundamentals/fall2018-materials"
+url = "https://github.com/rpi-techfundamentals/fall2019-materials"
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fa fa-cloud'></i> Jupyterhub"
-url = "http://lab.analyticsdojo.com"
+name = "<i class='fa fa-cloud'></i> Colab"
+url = "http://colab.research.google.com"
 weight = 5
 
 [[menu.shortcuts]]
@@ -34,13 +34,13 @@ weight = 10
 [[menu.shortcuts]]
 name = "<i class='fa fa-slack'></i>Slack"
 identifier = "Slack"
-url = "https://rpi-bsan-2019.slack.com"
+url = "	techfundament-oc98110.slack.com"
 weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-dropbox'></i> Dropbox Share"
 identifier = "Dropbox"
-url = "https://www.dropbox.com/sh/tn7xmg9qo2u8ydz/AAD2SMEPa28NpIGuea25TJUIa?dl=0"
+url = "https://www.dropbox.com/sh/bnxl5hiyb4fsjbw/AABJuu_Cf207LC8CSf23Sr4ha?dl=0"
 weight = 30
 
 [[menu.shortcuts]]

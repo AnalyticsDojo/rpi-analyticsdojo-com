@@ -15,6 +15,6 @@ Currently the learning stack associated with these courses includes: (1) Jupyter
 [Technology Fundamentals for Business Analytics (mgmt6560 Spring 2019)](/mgmt6560-sp19/)
 
 ### Previous Courses:
-[Technology Fundamentals for Business Analytics (mgmt6560 Fall 2018)](http://archive.analyticsdojo.com/mgmt6560-fa18/)
+[Technology Fundamentals for Business Analytics (mgmt6560 Spring 2019)](http://archive.analyticsdojo.com/mgmt6560-fa18/)
 [Technology Fundamentals for Business Analytics (mgmt6560 Fall 2017)](http://archive.analyticsdojo.com/mgmt6560-fa17/)
 [Technology Fundamentals for Business Analytics (mgmt6560 Spring 2018)](http://archive.analyticsdojo.com/mgmt6560-sp18/)

@@ -1,6 +1,6 @@
 baseURL = "http://rpi.analyticsdojo.com/"
 languageCode = "en-us"
-title = "Fall 2018 Course Website for Technology Fundamentals for Business Analytics."
+title = "Spring 2019 Course Website for Technology Fundamentals for Business Analytics."
 theme = "docdock"
 publishDir = "docs"
 [params]

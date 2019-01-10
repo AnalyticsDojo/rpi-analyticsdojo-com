@@ -1,5 +1,5 @@
 +++
-title = "MGMT6560 Fall 2018"
+title = "MGMT6560 Spring 2019"
 description = ""
 weight = 1
 alwaysopen = true
@@ -9,12 +9,12 @@ alwaysopen = true
 
 ### IMPORTANT INFORMATION:
 
-* **When:** Tuesday/Friday  10:00 AM - 11:30AM
-* **Where:** PITTS 5216
+* **When:** Monday/Thursday  12:00 PM - 2:50 PM
+* **Where:**
 
 The [Schedule](sessions/) for the course.
 
-The [Course Materials](https://github.com/rpi-techfundamentals/techfundamentals-fall2018-materials), including all data and jupyter notebooks.
+The [Course Materials](https://github.com/rpi-techfundamentals/techfundamentals-fall2019-materials), including all data and jupyter notebooks.
 
 The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 

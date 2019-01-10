@@ -27,4 +27,11 @@ In this class we will review the syllabus and discuss the broader issues of data
 #### In Class Activities:
 - The presentation will always be in Dropbox, which is always linked on on the main rpi.analyticsdojo.com website on the left side.
 
+What is Jupyter?
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring-materials/blob/master/01-overview/01-what-is-jupyter.ipynb)
+
+
+
+
+
 In addition, please always look through the readings for the next session.

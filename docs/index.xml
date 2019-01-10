@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</guid>
-      <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used. There is lots to cover so it would be good to do the following prior to the first class
-Before Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone.</description>
+      <description>Course Overview &amp;amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used.
+During Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda with Python 3.7. Sign up for Google Colab  I prefer to use Slack for class.</description>
     </item>
     
     <item>
@@ -60,9 +60,8 @@ I&amp;rsquo;d prefer that you address other messages to me also through Slack (r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session2/</guid>
-      <description>Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
-Readings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages (see Dropbox)
- Installing a package locally:</description>
+      <description> Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
+Readings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages (see Dropbox)  </description>
     </item>
     
     <item>

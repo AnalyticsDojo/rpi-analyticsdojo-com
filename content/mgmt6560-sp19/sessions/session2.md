@@ -18,13 +18,3 @@ The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
 
 #### In Class Activities:
 - Running code, Data and Packages (see Dropbox)
-
-- Installing a package locally:
-```
-conda install -c conda-forge fastparquet
-```
-- Cloning and using notebooks in the cloud at [lab.analyticsdojo.com]()
-```
-git clone https://github.com/jkuruzovich/techfundamentals-spring2018-materials
-```
-- [Assignment 1](/assignment1)

@@ -18,7 +18,7 @@ home = [ "HTML", "RSS", "JSON"]
 [[menu.shortcuts]]
 pre = "<h3>Important Links</h3>"
 name = "<i class='fa fa-github'></i> Course Materials"
-url = "https://github.com/rpi-techfundamentals/fall2019-materials"
+url = "https://github.com/rpi-techfundamentals/spring2019-materials"
 weight = 1
 
 [[menu.shortcuts]]

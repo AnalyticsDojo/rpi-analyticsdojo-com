@@ -14,12 +14,12 @@ alwaysopen = true
 
 The [Schedule](sessions/) for the course.
 
-The [Course Materials](https://github.com/rpi-techfundamentals/techfundamentals-fall2019-materials), including all data and jupyter notebooks.
+The [Course Materials](https://github.com/rpi-techfundamentals/techfundamentals-fall2019-materials), including all data and Jupyter notebooks.
 
 The [LMS](https://lms.rpi.edu) will be used for submissions of projects.
 
 [Github](https://github.com) will be used for programming assignment collection. See [assignments](assignments/) for more detailed procedures.
 
-[Slack](https://techfund-sp2018.slack.com) will be the primary method of communication. Please download the Slack App for your [mobile and desktop](https://slack.com/downloads/).
+[Slack](https://techfundament-oc98110.slack.com) will be the primary method of communication. Please download the Slack App for your [mobile and desktop](https://slack.com/downloads/).
 
-This [Dropbox Share](https://www.dropbox.com/sh/tn7xmg9qo2u8ydz/AAD2SMEPa28NpIGuea25TJUIa?dl=0) will include all presentations.
+This [Dropbox Share](https://www.dropbox.com/sh/bnxl5hiyb4fsjbw/AABJuu_Cf207LC8CSf23Sr4ha?dl=0) will include all presentations.

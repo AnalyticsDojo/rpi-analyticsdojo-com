@@ -16,5 +16,16 @@ The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
 - [Assignment Process](/assignments)
 - [Running Jupyter locally](http://rpi.analyticsdojo.com/setup/anaconda/)
 
+
 #### In Class Activities:
-- Running code, Data and Packages (see Dropbox)
+- Running code, Data and Packages
+
+
+
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  Python Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/01-intro-python-overview.ipynb)  |
+|  Notebook Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/02-intro-python-datastructures.ipynb) |
+|  Running Code     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/03-intro-python-numpy.ipynb)  |
+|  Markdown         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/04-intro-python-pandas.ipynb) |
+|  More on Colab    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/welcome.ipynb) |

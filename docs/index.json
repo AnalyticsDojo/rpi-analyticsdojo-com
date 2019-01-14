@@ -46,7 +46,7 @@
 	"title": "Session 2",
 	"tags": [],
 	"description": "",
-	"content": " Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages      Topic   Link      Python Overview    Notebook Basics    Running Code    Markdown    More on Colab     "
+	"content": " Session 2 Class Objective: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.\nReadings (To be done before class):  Additional Suggested Reading: Chapter 1 from Doing Data Science and Chapter 1 from Data Science for Business (Both available through library). Command Line Cheat Sheet Assignment Process Running Jupyter locally  In Class Activities:  Running code, Data and Packages      Topic   Link      Python Overview    Basic Data Structures    Numpy    Pandas    Lab Part 1    Lab Part 2    Homework 1     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/",

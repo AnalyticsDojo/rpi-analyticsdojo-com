@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment1/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/</loc>
   </url>
   
@@ -35,7 +39,15 @@
   </url>
   
   <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session3/</loc>
+  </url>
+  
+  <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/office/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session4/</loc>
   </url>
   
   <url>

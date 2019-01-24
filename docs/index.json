@@ -21,6 +21,13 @@
 	"content": " Course Overview \u0026amp; Introduction to the Data Science Welcome to Technology Fundamentals for Business Analytics. We are going to familiarize you with all phases of the data science lifecycle and a wide variety of the technologies used.\nBefore Class  Sign up for Slack here. Create a Github account. Download the Slack app for your desktop and phone. Download the Github Desktop app. Download Anaconda with Python 3.7. Sign up for Google Colab  I prefer to use Slack for class. It allows me to be more responsive and track communications. Students have found it useful and continue to use it even after the class.\nVersion control and reproducibility are important. We will use GitHub classroom to collect all assignments.\nClass Objective: In this class we will review the syllabus and discuss the broader issues of data analytics, the approach of the class, and the technologies to be utilized.\nIn Class Activities:  The presentation will always be in Dropbox, which is always linked on on the main rpi.analyticsdojo.com website on the left side.      Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab     "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment2/",
+	"title": "Assignment 2",
+	"tags": [],
+	"description": "",
+	"content": " Assignment:     Topic   Link      Assignment 2     Grading: Grading will be done via LMS. Please upload a PDF of the completed assignment.\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/setup/",
 	"title": "Compute Environment",
 	"tags": [],

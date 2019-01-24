@@ -13,7 +13,7 @@ The goal of this class is to introduce you to some of the foundational aspects o
 
 ### Readings (To be done before class):
 - [Chapters 1-3 from Principles of Data Wrangling] (http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/databases/business-intelligence/9781491938911)
-- Get started with HM1. 
+- Get started with HM1, LAB1
 
 #### In Class Activities:
 - See Dropbox for presentation.

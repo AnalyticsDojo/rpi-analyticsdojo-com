@@ -17,7 +17,7 @@ alwaysopen = true
 | 8 | Th | 02/07 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-sp19/sessions/session8/) <br> *[Assignment 4 Released (Due 2-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment4/)* <br> |
 | 9 | M | 02/11 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session9/) <br> ** <br> |
 | 10 | Th | 02/14 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session10/) <br> *[Assignment 5 Released (Due 2-19 11:59 PM)](/mgmt6560-sp19/assignments/assignment5/)* <br> |
-|   | M | 02/18 | **President's Day. No Classes.** <br>  | 
+|   | M | 02/18 | **President's Day. No Classes.** <br>  |
 | 11 | Tu | 02/19 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session11/) <br> *[Assignment 6 Released (Due 2-25 11:59 PM)](/mgmt6560-sp19/assignments/assignment6/)* <br> |
 | 12 | Th | 02/21 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session12/) |
 | 13 | M | 02/25 | **Intro to Visualization** <br> [more](/mgmt6560-sp19/sessions/session13/) <br> *[Assignment 7 Released (Due 3-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment7/)* <br> |
@@ -37,5 +37,6 @@ alwaysopen = true
 | 25 | M | 04/15 | **Introduction to Deep Learning II** <br> [more](/mgmt6560-sp19/sessions/session25/) |
 | 26 | Th | 04/18 | **Introduction to Deep Learning II** <br> [more](/mgmt6560-sp19/sessions/session26/) |
 | 27 | M | 04/22 | **Final Presentations** <br> [more](/mgmt6560-sp19/sessions/session27/) |
-| 28 | Th | 04/25 | **Final Presentations** <br> [more](/mgmt6560-sp19/sessions/session28/) <br> *[ ](/mgmt6560-sp19/assignments/assignment16/)* <br> |
+|    |   | 04/25 | **No Class - Event Instead** <br>  |
+| 28 | F | 04/26 | **Attend Center for Supply Networks and Analytics Annual Symposium (Sign In Required) <br> [more](/mgmt6560-sp19/sessions/session28/) <br> *[ ](/mgmt6560-sp19/assignments/assignment16/)* <br> |
 | 29 | TBD | TBD | **Final Exam** <br> [more](/mgmt6560-sp19/sessions/session29/) |

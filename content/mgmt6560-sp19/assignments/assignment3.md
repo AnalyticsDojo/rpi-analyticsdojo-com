@@ -2,11 +2,14 @@
 title = "Assignment 3"
 description = ""
 weight = 3
-draft = true
+draft = false
 +++
 
-
 #### Assignment:
-- More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
 
-{{< button href="https://classroom.github.com/a/l02_Djso" >}} Accept the Assignment {{< /button >}}
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  Assignment 3   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/hm-03/hm03.ipynb) |
+
+Grading:
+Grading will be done via LMS.  Please upload a PDF of the completed assignment.

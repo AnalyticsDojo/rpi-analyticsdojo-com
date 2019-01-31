@@ -70,6 +70,13 @@
 	"content": "As a data scientist, there are a wide variety of technologies you can be expected to understand and use. These are a number of recommended resources.\nPlease help to augment these resources by issuing pull requests.\nNote: As a student you are welcome to a really cool student developer pack that even faculty don\u0026rsquo;t qualify for. You can download it at https://education.github.com/pack.\n"
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment3/",
+	"title": "Assignment 3",
+	"tags": [],
+	"description": "",
+	"content": " Assignment:     Topic   Link      Assignment 3     Grading: Grading will be done via LMS. Please upload a PDF of the completed assignment.\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session3/",
 	"title": "Session 3",
 	"tags": [],
@@ -137,7 +144,7 @@
 	"title": "Session 6",
 	"tags": [],
 	"description": "",
-	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations  "
+	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations      Topic   Link      Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session7/",

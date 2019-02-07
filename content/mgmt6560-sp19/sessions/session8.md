@@ -66,3 +66,6 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Plot.ly](https://plot.ly)
 - [Google Data Studio Beta](https://datastudio.google.com/u/0/navigation/reporting)
 - [Sisense](https://www.sisense.com)
+
+[Project Exercise](https://docs.google.com/presentation/d/1K2G_ILKZlk2-jFwT2hEeQOvJCD9TeMjcveqcAIUfhqw/edit?usp=sharing)
+Please look through Kaggle and select a project. 

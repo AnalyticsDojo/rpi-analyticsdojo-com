@@ -1,8 +1,8 @@
 +++
-title = "Session 11"
+title = "Session 8"
 description = ""
-weight = 11
-draft = true
+weight = 8
+draft = false
 +++
 
 ## Visualization
@@ -63,3 +63,5 @@ The goal of this class is to introduce principles of visualization and to show e
 - [Plot.ly](https://plot.ly)
 - [Google Data Studio Beta](https://datastudio.google.com/u/0/navigation/reporting)
 - [Sisense](https://www.sisense.com)
+
+## Assignment

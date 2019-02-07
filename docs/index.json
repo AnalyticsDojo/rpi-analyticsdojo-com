@@ -168,13 +168,6 @@
 	"content": "  Introduction to Machine Learning with Python by Andreas C. Müller; Sarah Guido (Available through library) Think Stats Probability and Statistics for Programmers in Python (free download)\n Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\nPython: Conda\n Python + Numpy Tutorial\n Python Docs Tutorial\n Plotting:\n matplotlib.pyplot tutorial: This short tutorial provides an overview of the basic plotting utilities we will be using.\n seaborn: The Seaborn library has some nice additional visualization functions that we may use occasionally.\n Pandas:\n Learn Pandas A set of lessons providing an overview of the Pandas library.\n Python for Data Science Another set of notebook demonstrating Pandas functionality.\n  "
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session11/",
-	"title": "Session 8",
-	"tags": [],
-	"description": "",
-	"content": " Visualization Class Objective: The goal of this class is to introduce principles of visualization and to show examples from a variety of different tools and packages useful for developing visualizations.\nAssignment (To be done before class):  Install Tableau Free for university students. Tableau - Data analytics for university students guide Designing Great Visualizations Tableau getting Started Ted Talk  In Class Activities: Classic Examples  Nightingale\u0026rsquo;s \u0026lsquo;Coxcombs\u0026rsquo; Napolean\u0026rsquo;s March  Explaining Complex Data  Social Media in one Live Wind Map 538 Trump vs Clinton 1 Sentiment  Making a Point/Points  Military Spending Mountains Out of Molehills Billion Dollar O\u0026rsquo;Gram  Uncovering Patterns  The Dude Map\n Peak Breakup Times Tags and the City  Interactive Examples  Snake Oil Supplements Media Campaign Staff Connections GapMinder Classic Toys in the World  Tool List Publication Optimized  MatPlotLib ggPLOT2  Web Optimimized  D3 Gallery Seaborn Kaggle  Business Applications/Dashboards  Microsoft PowerBI Tableau Plot.ly Google Data Studio Beta Sisense  Assignment "
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session8/",
 	"title": "Session 8",
 	"tags": [],

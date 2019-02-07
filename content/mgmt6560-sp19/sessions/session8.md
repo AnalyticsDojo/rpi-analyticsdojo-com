@@ -1,8 +1,8 @@
 +++
-title = "Session 13"
+title = "Session 8"
 description = ""
-weight = 13
-draft = true
+weight = 8
+draft = false
 +++
 
 ## Intro to Visualization

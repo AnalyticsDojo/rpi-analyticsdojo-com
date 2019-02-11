@@ -260,6 +260,17 @@ OSX  Follow the online instructions to install the Anaconda Distribution with Py
     </item>
     
     <item>
+      <title>Project</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/</guid>
+      <description>Link to project sign up sheet. This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel. Project Objective The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and evaluation.
+Project Selection Project Exercise
+If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel.</description>
+    </item>
+    
+    <item>
       <title>Books</title>
       <link>http://rpi.analyticsdojo.com/resources/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

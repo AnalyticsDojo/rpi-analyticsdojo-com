@@ -26,8 +26,8 @@ Please look through Kaggle and select a project.
 ### Notebooks
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|
-|  Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-Neural-Networks.ipynb)  |
+|  The Simplest Neural Network with Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-Neural-Networks.ipynb)  |
 |  Train Test Split  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-training-test-split.ipynb) |
 |  Introduction to Logistic Regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/02-intro-logistic-knn.ipynb)  |
-|  KNN        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/03-knn.ipynb) |
-|  SVM  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/04-svm-roc.ipynb) |
+|  K Nearest Neighbor        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/03-knn.ipynb) |
+|  ROC and SVM  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/04-svm-roc.ipynb) |

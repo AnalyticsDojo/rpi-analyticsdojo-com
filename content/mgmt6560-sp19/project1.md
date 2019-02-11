@@ -5,17 +5,17 @@ weight = 12
 draft = false
 +++
 
-#### Link to project sign up sheet.
+### Project Selection
+This is a summary from the in class exercise.
+
+[Project Exercise](https://docs.google.com/presentation/d/1K2G_ILKZlk2-jFwT2hEeQOvJCD9TeMjcveqcAIUfhqw/edit?usp=sharing)
+
 
 #### This is an individual project, but like the homework you can ask for advice from others directly and in the Slack Channel.
 
 
 ###  Project Objective
 The goal is to develop an understanding of how individuals approach data science projects, seeing the entire process from exploratory data analysis to modeling and  evaluation.
-
-### Project Selection
-[Project Exercise](https://docs.google.com/presentation/d/1K2G_ILKZlk2-jFwT2hEeQOvJCD9TeMjcveqcAIUfhqw/edit?usp=sharing)
-
 
 If you feel there is another Kaggle contest you would like to do, just ask in the #projects slack channel. You should make sure that there are existing solutions (kernels) and make sure that there is business relevance. You should avoid image based data or projects that only require visualizations.
 

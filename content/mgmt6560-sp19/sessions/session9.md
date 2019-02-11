@@ -3,22 +3,28 @@ title = "Session 9"
 description = ""
 weight = 9
 draft = false
+
 +++
 
-## Data Fundamentals and Introduction to Python (continued)
-
-## Introduction to R
+## Introduction to Modeling
 
 ### Class Objective:
 
-The goal of this class is to get you familiar to using R. While we will be Jupyter notebooks, we will also examine using RStudio. Now that you have already started with Python, many of the concepts will map.
+The goal of this class is to expose you more to the introduction of the analysis process.
 
 ### Readings (To be done before class):
-[R for Data Science](https://r4ds.had.co.nz) Chapters 1-3
+(1) [Cross Validation](https://www.analyticsvidhya.com/blog/2015/11/improve-model-performance-cross-validation-in-python-r/)<br>
+(2) [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.4rekzo2o1).<br>
+(3) [15 Algorithms Machine Learning Engineers Must Need to Know](https://www.favouriteblog.com/15-algorithms-machine-learning-engineers/)
+(4) [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)<br>
+(5) [An Introduction to Machine Learning with Python - Chapter 2-3](http://proquestcombo.safaribooksonline.com/book/programming/machine-learning/9781449369880)
 
-#### In Class Activities:
-- Install r-essentials from conda
-  `conda install -y r-essentials`
-  (If running from jupyter notebook.)
-- See Dropbox for Presentations.
-- See materials repository for notebooks.
+
+### Notebooks
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  Neural Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-Neural-Networks.ipynb)  |
+|  Train Test Split  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-training-test-split.ipynb) |
+|  Introduction to Logistic Regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/02-intro-logistic-knn.ipynb)  |
+|  KNN        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/03-knn.ipynb) |
+|  SVM  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/04-svm-roc.ipynb) |

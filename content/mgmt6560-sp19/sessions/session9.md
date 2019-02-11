@@ -19,6 +19,9 @@ The goal of this class is to expose you more to the introduction of the analysis
 (4) [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)<br>
 (5) [An Introduction to Machine Learning with Python - Chapter 2-3](http://proquestcombo.safaribooksonline.com/book/programming/machine-learning/9781449369880)
 
+### In Class Exercises
+[Project Exercise](https://docs.google.com/presentation/d/1K2G_ILKZlk2-jFwT2hEeQOvJCD9TeMjcveqcAIUfhqw/edit?usp=sharing)
+Please look through Kaggle and select a project.
 
 ### Notebooks
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |

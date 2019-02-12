@@ -20,22 +20,25 @@ We want to get started with identifying the data on a map.  Drag the Longitude t
 
 *Filter the Data.*  We have 4 cities here but we only want one of them.  We need to create a filter that selects based on the longitude/latitude to only the one California.
 
+
 (2). IN YOUR OWN WORDS, describe the filter you created to select only one city.
 
 (3) *Change the type to a Map.*  Select on the *Show Me* map to show your city on a map.  (This actually happens automatically).
 
-<Insert your graph here.>
+[Figure 1: Show the city]
 
 (4) *Understand Tags*.  Create a new worksheet and drag Tag Type from the dimensions and create a visualization that is sorted by the count of the number of tags. Provide an image showing the 5 most frequent tag types (not including NAs).
 
-<Insert your graph here.>
+[Figure 2: Show the tags.]
 
 (5) *Update your Map in order to include Tag Type.* Drag the tags over to the colors and select filter and add.  Select the top 5 tags and show them on the map.
 
-<Insert your graph here.>
+[Figure 3: Show tag type on map.]
 
 (6).  Create 4 visualizations that help you to understand more details about the data or make a specific point.  At least one should use the Map.  Provide 1-3 sentences to describe each visualization.
 
 Here are some [examples](https://gist.github.com/jkuruzovich/a3b49f5004ad1e466ae5ddc97662d3e6).
 
-Your final submission should have 7 graphs.
+[Figure 4-7: Your visualizations]
+
+Your final submission should have 7 graphs.  Don't forget the 1-3 sentences to describe graphs 4-7.

@@ -2,11 +2,12 @@
 title = "Assignment 5"
 description = ""
 weight = 5
-draft = true
+draft = false
 +++
 
 
 #### Assignment:
-- More details on the homework assignment process can be found [here](/mgmt6560-sp18/assignments/). The button to accept the assignment is below.
-
-{{< button href="https://classroom.github.com/a/xUmyiMh5" >}} Accept the Assignment {{< /button >}}
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  HM5A Visualization & Screen Scraping | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/hm5/homework_05A.ipynb) |
+|  HM5B Intro Modeling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/hm5/homework_05B.ipynb) |

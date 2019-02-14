@@ -105,6 +105,13 @@
 	"content": " Data Fundamentals and Introduction to Python Class Objective: The goal of this class is to introduce you to some basic data structures using Python.\nReadings (To be done before class):  Chapter 1 Introduction to Machine Learning with Python  In Class Activities:  See the Tech Fundamentals class materials repository. Be sure to download updates by using the sync or pull buttons on GitHub Desktop.      Topic   Link      Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2     "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment5/",
+	"title": "Assignment 5",
+	"tags": [],
+	"description": "",
+	"content": " Assignment:     Topic   Link      HM5A Visualization \u0026amp; Screen Scraping    HM5B Intro Modeling     "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/resources/podcasts/",
 	"title": "Podcasts",
 	"tags": [],
@@ -179,7 +186,7 @@
 	"title": "Session 9",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\nIn Class Exercises Project Exercise Please look through Kaggle and select a project.\nNotebooks     Topic   Link      The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC and SVM     "
+	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\nIn Class Exercises Project Exercise Please look through Kaggle and select a project.\nNotebooks     Topic   Link      The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC and SVM    HM5A Visualization \u0026amp; Screen Scraping    HM5B Intro Modeling     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
@@ -194,6 +201,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Introduction to Statistical Learning (Free online PDF)\n R for Data Science (available online)\n Berkeley R Bootcamp\n  "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session10/",
+	"title": "Session 10",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\nIn Class Exercises Project Exercise Please look through Kaggle and select a project.\nNotebooks     Topic   Link      The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC and SVM    HM5A Visualization \u0026amp; Screen Scraping    HM5B Intro Modeling     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/project1/",

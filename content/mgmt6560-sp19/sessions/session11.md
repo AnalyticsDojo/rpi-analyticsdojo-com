@@ -1,8 +1,8 @@
 +++
-title = "Session 9"
+title = "Session 11"
 description = ""
-weight = 9
-draft = true
+weight = 11
+draft = false
 +++
 
 ## Data Fundamentals and Introduction to Python (continued)
@@ -15,10 +15,19 @@ The goal of this class is to get you familiar to using R. While we will be Jupyt
 
 ### Readings (To be done before class):
 [R for Data Science](https://r4ds.had.co.nz) Chapters 1-3
+Prior to class, please create an account on [RStudio Cloud](https://rstudio.cloud).
 
-#### In Class Activities:
+
+### In Class Activities:
 - Install r-essentials from conda
   `conda install -y r-essentials`
   (If running from jupyter notebook.)
 - See Dropbox for Presentations.
 - See materials repository for notebooks.
+
+R Notebooks
+- This is everything you need for the homework.
+
+R Homework
+- This is the link to launch the R homework.
+[Click Here](https://rstudio.cloud/spaces/7409/join?access_code=txUupCHpcn7IMb1kQsy5a7Ig9bjgujLfq3Cr%2F25x)

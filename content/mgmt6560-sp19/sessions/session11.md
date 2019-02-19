@@ -27,6 +27,7 @@ Prior to class, please create an account on [RStudio Cloud](https://rstudio.clou
 
 R Notebooks
 - This is everything you need for the homework.
+[Click Here](https://github.com/rpi-techfundamentals/spring2019-materials/tree/master/06-intro-r)
 
 R Homework
 - This is the link to launch the R homework.

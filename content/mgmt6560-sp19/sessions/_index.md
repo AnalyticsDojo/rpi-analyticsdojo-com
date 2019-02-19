@@ -15,11 +15,11 @@ alwaysopen = true
 | 6 | Th | 01/31 | **Data Fundamentals and Introduction To Python II** <br> [more](/mgmt6560-sp19/sessions/session6/) <br> *[Assignment 3 Released (Due 2-7 11:59 PM)](/mgmt6560-sp19/assignments/assignment3/)* <br> |
 | 7 | M | 02/04 | **Data Fundamentals and Introduction To Python III** <br> [more](/mgmt6560-sp19/sessions/session7/) <br> ** <br> |
 | 8 | Th | 02/07 | **Intro to Visualization** <br> [more](/mgmt6560-sp19/sessions/session8/) <br> *[Assignment 4 Released (Due 2-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment4/)* <br> |
-| 9 | M | 02/11 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session9/) <br> *[Assignment 6 Released (Due 2-25 11:59 PM)](/mgmt6560-sp19/assignments/assignment6/)* <br> |
+| 9 | M | 02/11 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session9/) <br> *[Assignment 5 Released (Due 2-21 11:59 PM)](/mgmt6560-sp19/assignments/assignment5/)* <br> |
 | 10 | Th | 02/14 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session10/) |
 |   | M | 02/18 | **President's Day. No Classes.** <br>  |
-| 11 | M | 02/19 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session11/) <br> ** <br> |
-| 12 | Th | 02/14 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session12/) <br> *[Assignment 5 Released (Due 2-21 11:59 PM)](/mgmt6560-sp19/assignments/assignment5/)* <br> |
+| 11 | M | 02/19 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session11/) <br> *[Assignment 6 Released (Due 3-12 11:59 PM)](/mgmt6560-sp19/assignments/assignment6/)* <br> |
+| 12 | Th | 02/14 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session12/) <br>  <br> |
 | 13 | M | 02/25 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session13/) <br> *[Assignment 7 Released (Due 3-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment7/)* <br> |
 | 14 | Th | 02/28 | **Midterm** <br> [more](/mgmt6560-sp19/sessions/session14/) <br> ** <br> |
 |   | M | 03/04 | **Spring Break. No Classes.** <br>  |

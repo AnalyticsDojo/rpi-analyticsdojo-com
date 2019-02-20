@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>DATA@RENSSELAER</title>
+      <link>http://rpi.analyticsdojo.com/resources/datarpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/resources/datarpi/</guid>
+      <description> OVERVIEW PYTHON: The goal will be to you how to work in Jupyter Notebooks and with Git/Github.
+    Topic   Link      Functions - Content Example    Assignment Example     
+RSTUDIO Click Here GitHub Classroom - More details on the homework assignment process can be found here. The button to accept the assignment is below. Accept the Assignment  </description>
+    </item>
+    
+    <item>
       <title>Session 1</title>
       <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

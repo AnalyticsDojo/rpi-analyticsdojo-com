@@ -54,3 +54,5 @@ The description below describes an ideal project.  Projects will be evaluated su
 - *The project report is to be submitted to the [LMS](https://lms.rpi.edu). The code is to be supported via Github classroom.
 
 **NOTE: If you copy and paste from the Kaggle description that is plagiarism and you will be reported to the Associate Dean's office and receive a 0 on the project grade.**
+
+[Final Code Submission](https://classroom.github.com/a/8DCyNbUU) must be done via GitHub.

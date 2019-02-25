@@ -19,8 +19,10 @@ The goal of this class is to expose you more to the introduction of the analysis
 (4) [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)<br>
 (5) [An Introduction to Machine Learning with Python - Chapter 2-3](http://proquestcombo.safaribooksonline.com/book/programming/machine-learning/9781449369880)
 
+### In Class:
+
 R Examples
-[Modeling with R](https://rstudio.cloud/project/232375)
+[R Tree Modeling with R](https://rstudio.cloud/project/232375)
 
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|

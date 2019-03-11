@@ -15,3 +15,12 @@ The goal of this class is to investigate basic concepts surrounding text mining.
 - [The Amazing Power of Word Vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 - [Bag of Words Tutorial](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 - [Word Vectors](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors)
+
+### In Classes
+
+
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  Titanic Feature Creation    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/01_titanic_feature_creation.ipynb)  |
+|  Intro to Corpus    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/02_corpus_simple.ipynb)  |
+|  Scikit Learn Text  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/03_scikit_learn_text.ipynb)  |

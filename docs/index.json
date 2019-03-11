@@ -144,7 +144,7 @@
 	"title": "Assignment 6",
 	"tags": [],
 	"description": "",
-	"content": " Assignment:  This is the link to launch the R homework.  Click Here Alternate Zip\n"
+	"content": " Assignment:  This is the link to launch the R homework.   Click Here Alternate Zip\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/",
@@ -271,6 +271,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Project Work Day Class Objective: The goal of this is to do some active work on the project.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session16/",
+	"title": "Session 16",
+	"tags": [],
+	"description": "",
+	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",

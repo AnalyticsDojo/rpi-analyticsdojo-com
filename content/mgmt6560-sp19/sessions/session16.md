@@ -1,8 +1,8 @@
 +++
-title = "Session 20"
+title = "Session 16"
 description = ""
-weight = 20
-draft = true
+weight = 16
+draft = false
 +++
 
 ## Text Mining and Unstructured Data

@@ -179,7 +179,7 @@ Readings (To be done before class):  Chapter 1 Introduction to Machine Learning 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment6/</guid>
-      <description>Assignment:  This is the link to launch the R homework.  Click Here Alternate Zip</description>
+      <description>Assignment:  This is the link to launch the R homework.   Click Here Alternate Zip</description>
     </item>
     
     <item>
@@ -374,6 +374,16 @@ Readings (To be done before class): (1) Cross Validation
       
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session15/</guid>
       <description>Project Work Day Class Objective: The goal of this is to do some active work on the project.</description>
+    </item>
+    
+    <item>
+      <title>Session 16</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session16/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  </description>
     </item>
     
     <item>

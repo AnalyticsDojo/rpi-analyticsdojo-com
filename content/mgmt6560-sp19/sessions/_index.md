@@ -20,7 +20,7 @@ alwaysopen = true
 |   | M | 02/18 | **President's Day. No Classes.** <br>  |
 | 11 | M | 02/19 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session11/) <br> *[Assignment 6 Released (Due 3-12 11:59 PM)](/mgmt6560-sp19/assignments/assignment6/)* <br> |
 | 12 | Th | 02/21 | **Introduction to R** <br> [more](/mgmt6560-sp19/sessions/session12/) <br>  <br> |
-| 13 | M | 02/25 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session13/) <br> *<br> |
+| 13 | M | 02/25 | **Introduction to Modeling** <br> [more](/mgmt6560-sp19/sessions/session13/) <br> *[Assignment 7 Released (Due 3-14 11:59 PM)](/mgmt6560-sp19/assignments/assignment7/)* <br> |
 | 14 | Th | 02/28 | **Midterm** <br> [more](/mgmt6560-sp19/sessions/session14/) <br> ** <br> |
 |   | M | 03/04 | **Spring Break. No Classes.** <br>  |
 |   | Th | 03/07 | **Spring Break. No Classes.** <br>  |

@@ -18,9 +18,10 @@ The goal of this class is to investigate basic concepts surrounding text mining.
 
 ### In Classes
 
-
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|
 |  Titanic Feature Creation    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/01_titanic_feature_creation.ipynb)  |
 |  Intro to Corpus    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/02_corpus_simple.ipynb)  |
 |  Scikit Learn Text  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/03_scikit_learn_text.ipynb)  |
+|  What's Cooking   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/04_what_cooking_python.ipynb)  |
+|  Bag of Popcorn    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/05_bag_popcorn_bag_words.ipynb)  |

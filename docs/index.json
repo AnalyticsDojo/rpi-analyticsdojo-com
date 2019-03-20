@@ -280,6 +280,20 @@
 	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  In Classes     Topic   Link      Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What\u0026rsquo;s Cooking    Bag of Popcorn    Sentiment     "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session172/",
+	"title": "Session 16",
+	"tags": [],
+	"description": "",
+	"content": " Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.\nReadings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  In Classes     Topic   Link      Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What\u0026rsquo;s Cooking    Bag of Popcorn    Sentiment     "
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session17/",
+	"title": "Session 17",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",
 	"title": "Books",
 	"tags": [],

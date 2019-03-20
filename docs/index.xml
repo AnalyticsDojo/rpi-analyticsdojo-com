@@ -389,6 +389,26 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
     </item>
     
     <item>
+      <title>Session 16</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session172/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session172/</guid>
+      <description> Text Mining and Unstructured Data Class Objective: The goal of this class is to investigate basic concepts surrounding text mining.
+Readings (To be done before class):  The Seven Practice Areas of Text Mining The Amazing Power of Word Vectors Bag of Words Tutorial Word Vectors  In Classes     Topic   Link      Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment     </description>
+    </item>
+    
+    <item>
+      <title>Session 17</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session17/</guid>
+      <description>Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
+Readings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies</description>
+    </item>
+    
+    <item>
       <title>Books</title>
       <link>http://rpi.analyticsdojo.com/resources/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

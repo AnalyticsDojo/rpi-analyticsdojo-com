@@ -294,6 +294,20 @@
 	"content": " Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies\nIn Class     Topic   Link      Time Series intro    Notebook Basics         "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session19/",
+	"title": "Session 19",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session190/",
+	"title": "Session 19",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",
 	"title": "Books",
 	"tags": [],

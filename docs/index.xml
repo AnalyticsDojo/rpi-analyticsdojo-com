@@ -421,17 +421,6 @@ In Class Exercises On the DataBricks Platform you should execute both the Introd
     </item>
     
     <item>
-      <title>Session 19</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session190/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session190/</guid>
-      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
-Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
-In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
-    </item>
-    
-    <item>
       <title>Books</title>
       <link>http://rpi.analyticsdojo.com/resources/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -452,6 +441,17 @@ Git  Pro Git  PYTHON  Introduction to Machine Learning with Python Data Science 
       <description>Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.
 For the Data 8 class, the University of California at Berkley has developed an open curriculum and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.
 This proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.</description>
+    </item>
+    
+    <item>
+      <title>Session 20</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session20/</guid>
+      <description>Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem
+In Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.</description>
     </item>
     
     <item>

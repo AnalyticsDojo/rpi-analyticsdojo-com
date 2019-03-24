@@ -301,13 +301,6 @@
 	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
 },
 {
-	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session190/",
-	"title": "Session 19",
-	"tags": [],
-	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
-},
-{
 	"uri": "http://rpi.analyticsdojo.com/resources/books/",
 	"title": "Books",
 	"tags": [],
@@ -320,6 +313,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Data literacy is a foundational component of a modern technical and scientific education. Critical to creating data literate graduates.\nFor the Data 8 class, the University of California at Berkley has developed an open curriculum and extensive teaching infrastructure (online textbook, auto-grader, Jupyter-based cloud computing infrastructure for data science) created the worlds largest data science class.\nThis proposal suggests creating an instance of the Data 8 class @ Rensselaer. All materials for the Data 8 course have been released under a compatible Creative Commons license.\nThis course integrates programming, statistics, and analysis in a single course using the Python programming language.\nSharing of highly developed classes from one university to another has had a positive impact in other cases. For example, CS50 @ Yale-companion course to Harvard\u0026rsquo;s popular introductory CS course-was the most popular course at Yale last year.\nBringing a well developed curriculum regarding data science to campus would provide an extremely well documented platform on which to build additional bridge course, which could follow the Connector Courses model but be aligned with the Unique offerings of Rensselaer.\nFollowing the marketing of the course at Berkley, Data 8 @ Rensselaer would be cross-listed as an introductory course across a variety of disciplines, potentially including ITWS, MATH, MGMT, ISYE, and any other areas that would see value.\n"
+},
+{
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session20/",
+	"title": "Session 20",
+	"tags": [],
+	"description": "",
+	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/proposals/winterbreak/",

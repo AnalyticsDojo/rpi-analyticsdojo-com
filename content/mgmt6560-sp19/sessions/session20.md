@@ -1,7 +1,7 @@
 +++
-title = "Session 19"
+title = "Session 20"
 description = ""
-weight = 19
+weight = 20
 draft = false
 +++
 

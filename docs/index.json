@@ -175,6 +175,13 @@
 	"content": " Data Fundamentals and Introduction to Python (continued) Class Objective: The goal of this class is to continue to extend our knowledge of some basic python data structures and syntax. We will also more generally discuss data merging, cleaning, filtering, and aggregation.\nReadings (To be done before class):  Pandas Intro to Data Structures (series and dataframe only)  In Class Activities:  See Dropbox for Presentations      Topic   Link      Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3     "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/assignments/assignment7/",
+	"title": "Assignment 7",
+	"tags": [],
+	"description": "",
+	"content": " Assignment: This should be completed using Apache Spark Community Addition.\nCreate a DataBricks Community Edition Account Login to Community Edition Account 03-spark-questions.ipynb (Due 4\u0026frasl;4 11:59 PM) https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb\n"
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session7/",
 	"title": "Session 7",
 	"tags": [],
@@ -319,7 +326,7 @@
 	"title": "Session 20",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\n"
+	"content": " Introduction to Big Data Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): Create a DataBricks Community Edition Account Gentle Introduction To Spark - Download ebook Review the Hadoop Ecosystem\nIn Class Exercises On the DataBricks Platform you should execute both the Introduction to Apache Spark on Databricks and the Databricks for Data Scientists.\nConcepts from these will be included in the final.\nClick on DataBricks Import.\nNotebooks. 01-intro-mapreduce.ipynb https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb\n02-intro-spark.ipynb https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb\n03-spark-questions.ipynb (Due 4\u0026frasl;4 11:59 PM) https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb\n"
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/proposals/winterbreak/",

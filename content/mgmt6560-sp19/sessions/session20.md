@@ -30,5 +30,8 @@ Click on DataBricks Import.
 02-intro-spark.ipynb
 `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`
 
+Gentle Introduction to DataBricks
+`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html`
+
 03-spark-questions.ipynb (Due 4/4 11:59 PM)
 `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`

@@ -22,13 +22,13 @@ Concepts from these will be included in the final.
 
 Click on DataBricks Import.
 
-# Notebooks. 
+# Notebooks.
 
 01-intro-mapreduce.ipynb
-*https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb*
+`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb`
 
 02-intro-spark.ipynb
-*https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb*
+`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`
 
 03-spark-questions.ipynb (Due 4/4 11:59 PM)
-*https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb*
+`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`

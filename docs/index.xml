@@ -486,22 +486,6 @@ In Class Exercises Deep learning exercises on Dropbox.</description>
     </item>
     
     <item>
-      <title>Session 22</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</guid>
-      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.
-In Class Exercises Neural Networks Quick Overview 
-Tensor Tutorial 
-Convolutional Neural Network Tutorial 
-MNIST Pytorch on Colab 
-Tensorflow Intro on Colab 
-MNIST Tensorflow on Colab 
-FAST-AI Movielens Unfortunately this can&amp;rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>http://rpi.analyticsdojo.com/_header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

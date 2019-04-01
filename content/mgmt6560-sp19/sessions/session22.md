@@ -2,20 +2,34 @@
 title = "Session 22"
 description = ""
 weight = 22
-draft = true
+draft = false
 +++
 
 ## Introduction to Deep Learning
 
 ### Class Objective:
-The goal here is to provide an overview of how data processes can be scaled with Spark.
-
-
-### Readings (To be done before class):
-[You can do Deep Learning](http://www.fast.ai/2018/04/10/stanford-salon/)
-[Neural Networks - The Math of Intelligence #4](https://www.youtube.com/watch?v=ov_RkIJptwE)
-[Play Around with this Hands-On Machine Learning](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.44854&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-[Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron](http://proquestcombo.safaribooksonline.com.libproxy.rpi.edu/book/programming/9781491962282) (Skim Chapters 9-11)
+The goal here is to provide an overview of deep learning.
 
 ### In Class Exercises
-Deep learning exercises on Dropbox.
+
+Neural Networks Quick Overview
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/01_neural_networks.ipynb)
+
+Tensor Tutorial
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/02_tensor_tutorial.ipynb)
+
+Convolutional Neural Network Tutorial
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/03_covnet_tutorial.ipynb)
+
+MNIST Pytorch on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/04-pytorch-mnist.ipynb)
+
+Tensorflow Intro on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/05-intro-tensorflow.ipynb)
+
+MNIST Tensorflow on Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/fall2018-materials/blob/master/10-deep-learning/06-tensorflow-minst.ipynb)
+
+FAST-AI Movielens
+Unfortunately this can't be run in colab yet.  This is a similar example to what we saw in the excel spreadsheet.
+https://github.com/fastai/fastai/blob/master/courses/dl1/lesson5-movielens.ipynb

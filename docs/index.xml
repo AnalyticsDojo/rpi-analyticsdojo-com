@@ -416,7 +416,7 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session18/</guid>
       <description> Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
 Readings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies
-In Class     Topic   Link      Time Series intro    Notebook Basics         </description>
+In Class     Topic   Link      Time Series Intro    2_focasting_rossman         </description>
     </item>
     
     <item>
@@ -472,6 +472,33 @@ In Class Exercises On the DataBricks Platform you should execute both the Introd
       <guid>http://rpi.analyticsdojo.com/proposals/winterbreak/</guid>
       <description>It&amp;rsquo;s great to have stories as an outcome of the program. Why not work on something over the break that will create one? Here is a list of a few projects where you could get involved.
  Autograding with TravisCI. As part of this class we incorporate tests as a way to see that the the student has completed the assignment. However, there is a risk that students could &amp;ldquo;fake the tests&amp;rdquo; and as a result not do the work.</description>
+    </item>
+    
+    <item>
+      <title>Session 21</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session21/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.
+Readings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)
+In Class Exercises Deep learning exercises on Dropbox.</description>
+    </item>
+    
+    <item>
+      <title>Session 22</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session22/</guid>
+      <description>Introduction to Deep Learning Class Objective: The goal here is to provide an overview of deep learning.
+In Class Exercises Neural Networks Quick Overview 
+Tensor Tutorial 
+Convolutional Neural Network Tutorial 
+MNIST Pytorch on Colab 
+Tensorflow Intro on Colab 
+MNIST Tensorflow on Colab 
+FAST-AI Movielens Unfortunately this can&amp;rsquo;t be run in colab yet. This is a similar example to what we saw in the excel spreadsheet.</description>
     </item>
     
     <item>

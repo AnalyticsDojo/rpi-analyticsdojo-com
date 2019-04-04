@@ -1,8 +1,8 @@
 +++
-title = "Assignment 8"
+title = "Project draft"
 description = ""
 weight = 8
-draft = true
+draft = false
 +++
 
 #### Assignment:

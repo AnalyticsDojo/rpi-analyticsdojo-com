@@ -1,18 +1,13 @@
 +++
 title = "Assignment 9"
 description = ""
-weight = 9
-draft = true
+weight = 10
+draft = false
 +++
 
 #### Assignment:
 
-This should be completed using Apache Spark Community Addition.
+Please upload your final notebook.  All work should be yours. This is an individual assignment.
 
-[Create a DataBricks Community Edition Account](https://accounts.cloud.databricks.com/registration.html#signup/community) <br>
-
-[Login to Community Edition Account](https://community.cloud.databricks.com) <br>
-
-
-03-spark-questions.ipynb (Due 4/4 11:59 PM)
-*https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb*
+Use the excel notebooks in this directory. 
+https://www.dropbox.com/sh/znfag1qic4djyod/AADrfv3E2e705r8nruDlQXTka?dl=0

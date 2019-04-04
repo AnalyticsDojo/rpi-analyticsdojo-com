@@ -27,11 +27,11 @@ alwaysopen = true
 | 15 | M | 03/11 | **Project Work Day** <br> [more](/mgmt6560-sp19/sessions/session15/) |
 | 16 | Th | 03/14 | **Intro to Modeling: Text** <br> [more](/mgmt6560-sp19/sessions/session16/) <br> ** <br> |
 | 17 | M | 03/18 | **Introduction to Modeling: Text** <br> [more](/mgmt6560-sp19/sessions/session17/) |
-| 18 | Th | 03/21 | **Intro to Modeling: Time Series** <br> [more](/mgmt6560-sp19/sessions/session18/) <br> *[Assignment 8 Project Draft (Sections 1-3) Due 3/21 11:59](/mgmt6560-sp19/assignments/assignment8/)* <br> |
+| 18 | Th | 03/21 | **Intro to Modeling: Time Series** <br> [more](/mgmt6560-sp19/sessions/session18/) <br> *[Project Draft (Sections 1-3) Due 3-21 11:59](/mgmt6560-sp19/assignments/assignment_project/)* <br> |
 | 19 | M | 03/25 | **Introduction to Big Data**<br> [more](/mgmt6560-sp19/sessions/session19/) <br> ** <br> |
-| 20 | Th | 03/28 | **Introduction to Big Data** <br> [more](/mgmt6560-sp19/sessions/session20/) |
+| 20 | Th | 03/28 | **Introduction to Big Data** <br> [more](/mgmt6560-sp19/sessions/session20/) <br> *[Assignment 8 Released (Due 4-4 11:59)](/mgmt6560-sp19/assignments/assignment8/)|
 | 21 | M | 04/01 | **Introduction to Deep Learning**<br> [more](/mgmt6560-sp19/sessions/session21/) |
-| 22 | Th | 04/04 | **Introduction to Deep Learning**<br> [more](/mgmt6560-sp19/sessions/session22/) |
+| 22 | Th | 04/04 | **Introduction to Deep Learning**<br> [more](/mgmt6560-sp19/sessions/session22/) <br> *[Assignment 9 Released (Due 4-11 11:59)](/mgmt6560-sp19/assignments/assignment9/) |
 | 23 | M | 04/08 | **Introduction to Deep Learning** <br> [more](/mgmt6560-sp19/sessions/session23/) |
 | 24 | Th | 04/11 | **Introduction to Deep Learning** <br> [more](/mgmt6560-sp19/sessions/session24/) |
 | 25 | M | 04/15 | **Introduction to Deep Learning II** <br> [more](/mgmt6560-sp19/sessions/session25/) |

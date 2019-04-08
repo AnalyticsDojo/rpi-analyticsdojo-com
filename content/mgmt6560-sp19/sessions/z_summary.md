@@ -5,8 +5,6 @@ weight = 10
 draft = false
 +++
 
-
-
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|
 |  What is Jupyter? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/01-overview/01-notebook-basics/01-what-is-jupyter.ipynb)  |
@@ -58,3 +56,9 @@ draft = false
 |  Neural Networks Quick Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/01_neural_networks.ipynb)  |
 |  Tensor Tutorial  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/02_tensor_tutorial.ipynb) |
 |  Convolutional Neural Network Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/03_covnet_tutorial.ipynb)  |
+|  Pytorch MNIST | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/04_pytorch_mnist.ipynb)  |
+|  Introduction to Tensorflow  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/05_intro_tensorflow.ipynb) |
+|  Convolutional Neural Network Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/06_tensorflow_minst.ipynb)  |
+|  Revisiting IRIS with PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/01_pytorch_iris.ipynb)  |
+|  Revisiting Boston Housing with Pytorch  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/02_regression_boston_housing_pytorch.ipynb) |
+|  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/03_titanic_pytorch.ipynb)  |

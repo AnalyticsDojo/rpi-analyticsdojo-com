@@ -1,0 +1,60 @@
++++
+title = "All Notebooks"
+description = ""
+weight = 10
+draft = false
++++
+
+
+
+|    <center>   Topic   </center>     |   <center>  Link  </center>     |
+| :--------------- |:------------|
+|  What is Jupyter? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/01-overview/01-notebook-basics/01-what-is-jupyter.ipynb)  |
+|  Notebook Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/01-overview/01-notebook-basics/02-notebook-basics.ipynb) |
+|  Running Code     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/01-overview/01-notebook-basics/03-running-code.ipynb)  |
+|  Markdown         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/01-overview/01-notebook-basics/04-markdown.ipynb) |
+|  More on Colab    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/welcome.ipynb) |
+|  Python Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/01-intro-python-overview.ipynb)  |
+|  Basic Data Structures  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/02-intro-python-datastructures.ipynb) |
+|  Numpy     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/03-intro-python-numpy.ipynb)  |
+|  Pandas         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/04-intro-python-pandas.ipynb) |
+|  Lab    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/lab/lab.ipynb) |
+|  Homework 1    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/02-intro-python/hm-01/hm01.ipynb) |
+|  Conditionals-Loops | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/01-intro-python-conditionals-loops.ipynb)  |
+|  Functions  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/02-intro-python-functions.ipynb) |
+|  Null Values     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/03-intro-python-null-values.ipynb)  |
+|  Groupby         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/04-intro-python-groupby.ipynb) |
+|  Kaggle Baseline   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/05-intro-kaggle-baseline.ipynb) |
+|  Assignment 2   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/03-python/hm-02/hm02.ipynb) |
+|  Twitter | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/01_intro_api_twitter.ipynb)  |
+|  Web Mining  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/02_intro_python_webmining.ipynb) |
+|  Visualizations - Seaborn     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/03_visualization_python_seaborn.ipynb)  |
+|  Strings - Regular Expressions         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/04_strings_and_regular_expressions.ipynb) |
+|  Feature Dummies  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/05_features_dummies.ipynb) |
+|  Assignment 3   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/04-viz-api-scraper/hm-03/hm03.ipynb) |
+|  The Simplest Neural Network with Numpy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-Neural-Networks.ipynb)  |
+|  Train Test Split  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/01-training-test-split.ipynb) |
+|  Introduction to Logistic Regression   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/02-intro-logistic-knn.ipynb)  |
+|  K Nearest Neighbor        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/03-knn.ipynb) |
+|  ROC Support Vector Machines  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/04-svm-roc.ipynb) |
+|  Visualization & Screen Scraping  Homework| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/hm5/homework_05A.ipynb) |
+|  Intro Modeling Homework  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/05-intro-modeling/hm5/homework_05B.ipynb) |
+|  Matrix Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/07-intro-modeling2/Python/01-matrix-regression-gradient-decent-python.ipynb)  |
+|  Regression Basics  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/07-intro-modeling2/Python/02-regression-boston-housing-python.ipynb) |
+|  Ridge and Lasso Regression     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/07-intro-modeling2/Python/03-ridge-lasso-python.ipynb)  |
+|  Principal Component Analysis    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/07-intro-modeling2/Python/04_introduction_pca.ipynb)  |
+|  Titanic Feature Creation    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/01_titanic_feature_creation.ipynb)  |
+|  Intro to Corpus    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/02_corpus_simple.ipynb)  |
+|  Scikit Learn Text  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/03_scikit_learn_text.ipynb)  |
+|  What's Cooking   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/04_what_cooking_python.ipynb)  |
+|  Bag of Popcorn    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/05_bag_popcorn_bag_words.ipynb)  |
+|  Sentiment    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/06_sentiment.ipynb)  |
+|  Time Series Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/1_time_series.ipynb)  |
+|  Forcasting Rossman  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/2_focasting_rossman.ipynb) |
+|  Intro to Map Reduce | Run on DataBricks: `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb` |
+|  Intro to Spark  | Run on DataBricks:`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`|
+|  Intro to Data Bricks | Run on DataBricks: `https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html` |
+|  Spark Homework | Run on DataBricks: `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`|
+|  Neural Networks Quick Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/01_neural_networks.ipynb)  |
+|  Tensor Tutorial  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/02_tensor_tutorial.ipynb) |
+|  Convolutional Neural Network Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/03_covnet_tutorial.ipynb)  |

@@ -20,5 +20,5 @@ This will include more discussion of models, with more details and types. Specif
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|
 |  Time Series Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/1_time_series.ipynb)  |
-|  2_focasting_rossman  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/2_focasting_rossman.ipynb) |
+|  Forcasting Rossman  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/2_focasting_rossman.ipynb) |
 |

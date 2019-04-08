@@ -307,6 +307,15 @@ Readings (To be done before class): (1) Cross Validation
     </item>
     
     <item>
+      <title>All Notebooks</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</guid>
+      <description>Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab    Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1    Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2    Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3    The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC Support Vector Machines    Visualization &amp;amp; Screen Scraping Homework    Intro Modeling Homework    Matrix Regression    Regression Basics    Ridge and Lasso Regression    Principal Component Analysis    Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment    Time Series Intro    Forcasting Rossman    Intro to Map Reduce Run on DataBricks: https://raw.</description>
+    </item>
+    
+    <item>
       <title>Anaconda</title>
       <link>http://rpi.analyticsdojo.com/setup/anaconda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -446,7 +455,7 @@ Readings (To be done before class):  The Seven Practice Areas of Text Mining The
       <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session18/</guid>
       <description> Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.
 Readings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies
-In Class     Topic   Link      Time Series Intro    2_focasting_rossman         </description>
+In Class     Topic   Link      Time Series Intro    Forcasting Rossman         </description>
     </item>
     
     <item>

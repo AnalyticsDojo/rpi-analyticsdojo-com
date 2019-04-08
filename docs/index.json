@@ -231,6 +231,13 @@
 	"content": " Introduction to Modeling Class Objective: The goal of this class is to expose you more to the introduction of the analysis process.\nReadings (To be done before class): (1) Cross Validation\n(2) The 10 Algorithms Machine Learning Engineers Need to Know.\n(3) 15 Algorithms Machine Learning Engineers Must Need to Know (4) A Tour of Machine Learning Algorithms\n(5) An Introduction to Machine Learning with Python - Chapter 2-3\nIn Class Exercises Project Exercise Please look through Kaggle and select a project.\nNotebooks     Topic   Link      The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC and SVM    HM5A Visualization \u0026amp; Screen Scraping    HM5B Intro Modeling     "
 },
 {
+	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/",
+	"title": "All Notebooks",
+	"tags": [],
+	"description": "",
+	"content": "    Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab    Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1    Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2    Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3    The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC Support Vector Machines    Visualization \u0026amp; Screen Scraping Homework    Intro Modeling Homework    Matrix Regression    Regression Basics    Ridge and Lasso Regression    Principal Component Analysis    Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What\u0026rsquo;s Cooking    Bag of Popcorn    Sentiment    Time Series Intro    Forcasting Rossman    Intro to Map Reduce Run on DataBricks: https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb   Intro to Spark Run on DataBricks:https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb   Intro to Data Bricks Run on DataBricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html   Spark Homework Run on DataBricks: https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb   Neural Networks Quick Overview    Tensor Tutorial    Convolutional Neural Network Tutorial     "
+},
+{
 	"uri": "http://rpi.analyticsdojo.com/setup/anaconda/",
 	"title": "Anaconda",
 	"tags": [],
@@ -319,7 +326,7 @@
 	"title": "Session 18",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies\nIn Class     Topic   Link      Time Series Intro    2_focasting_rossman         "
+	"content": " Introduction to Time Series Analysis Class Objective: This will include more discussion of models, with more details and types. Specifically, we will go over tree models and regression models.\nReadings (To be done before class): (1) Introduction to Time Series (2) 7 Ways Time Series Forecasting Differs from Machine Learning (3) Aggregation Techniques and Cryptocurrencies\nIn Class     Topic   Link      Time Series Intro    Forcasting Rossman         "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session19/",

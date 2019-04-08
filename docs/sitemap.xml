@@ -135,10 +135,6 @@
   </url>
   
   <url>
-    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</loc>
-  </url>
-  
-  <url>
     <loc>http://rpi.analyticsdojo.com/setup/anaconda/</loc>
   </url>
   
@@ -220,6 +216,10 @@
   
   <url>
     <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session23/</loc>
+  </url>
+  
+  <url>
+    <loc>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</loc>
   </url>
   
   <url>

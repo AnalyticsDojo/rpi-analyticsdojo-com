@@ -307,15 +307,6 @@ Readings (To be done before class): (1) Cross Validation
     </item>
     
     <item>
-      <title>All Notebooks</title>
-      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</guid>
-      <description>Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab    Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1    Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2    Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3    The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC Support Vector Machines    Visualization &amp;amp; Screen Scraping Homework    Intro Modeling Homework    Matrix Regression    Regression Basics    Ridge and Lasso Regression    Principal Component Analysis    Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment    Time Series Intro    Forcasting Rossman    Intro to Map Reduce Run on DataBricks: https://raw.</description>
-    </item>
-    
-    <item>
       <title>Anaconda</title>
       <link>http://rpi.analyticsdojo.com/setup/anaconda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -544,6 +535,15 @@ In Class Exercises Deep learning exercises on Dropbox.</description>
       <description> Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.
 Readings (To be done before class): In Class Exercises Deep learning exercises on Dropbox.
 In Class     Topic   Link      Revisiting IRIS with PyTorch    Revisiting Boston Housing with Pytorch    Revisiting Titanic with Pytorch     </description>
+    </item>
+    
+    <item>
+      <title>All Notebooks</title>
+      <link>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/</guid>
+      <description>Topic   Link      What is Jupyter?    Notebook Basics    Running Code    Markdown    More on Colab    Python Overview    Basic Data Structures    Numpy    Pandas    Lab    Homework 1    Conditionals-Loops    Functions    Null Values    Groupby    Kaggle Baseline    Assignment 2    Twitter    Web Mining    Visualizations - Seaborn    Strings - Regular Expressions    Feature Dummies    Assignment 3    The Simplest Neural Network with Numpy    Train Test Split    Introduction to Logistic Regression    K Nearest Neighbor    ROC Support Vector Machines    Visualization &amp;amp; Screen Scraping Homework    Intro Modeling Homework    Matrix Regression    Regression Basics    Ridge and Lasso Regression    Principal Component Analysis    Titanic Feature Creation    Intro to Corpus    Scikit Learn Text    What&amp;rsquo;s Cooking    Bag of Popcorn    Sentiment    Time Series Intro    Forcasting Rossman    Intro to Map Reduce Run on DataBricks: https://raw.</description>
     </item>
     
     <item>

@@ -49,10 +49,6 @@ draft = true
 |  Sentiment    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/06_sentiment.ipynb)  |
 |  Time Series Intro | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/1_time_series.ipynb)  |
 |  Forcasting Rossman  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/2_focasting_rossman.ipynb) |
-|  Intro to Map Reduce | Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb` |
-|  Intro to Spark  | Run on DataBricks: <br>`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`|
-|  Intro to Data Bricks | Run on DataBricks: <br>`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html` |
-|  Spark Homework | Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`|
 |  Neural Networks Quick Overview | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/01_neural_networks.ipynb)  |
 |  Tensor Tutorial  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/02_tensor_tutorial.ipynb) |
 |  Convolutional Neural Network Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/03_covnet_tutorial.ipynb)  |
@@ -62,3 +58,10 @@ draft = true
 |  Revisiting IRIS with PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/01_pytorch_iris.ipynb)  |
 |  Revisiting Boston Housing with Pytorch  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/02_regression_boston_housing_pytorch.ipynb) |
 |  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/03_titanic_pytorch.ipynb)  |
+
+These are the Big Data Exercises for DataBricks:
+
+|  Intro to Map Reduce  Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb` |
+|  Intro to Spark   Run on DataBricks: <br>`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`|
+|  Intro to Data Bricks  Run on DataBricks: <br>`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html` |
+|  Spark Homework  Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`|

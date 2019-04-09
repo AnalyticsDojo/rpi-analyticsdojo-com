@@ -49,10 +49,6 @@ draft = false
 |  Sentiment    | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/08-intro-nlp/06_sentiment.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
 |  Time Series Intro | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/1_time_series.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
 |  Forcasting Rossman  | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/09-intro-timeseries/2_focasting_rossman.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a> |
-|  Intro to Map Reduce | Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb` |
-|  Intro to Spark  | Run on DataBricks: <br>`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`|
-|  Intro to Data Bricks | Run on DataBricks: <br>`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html` |
-|  Spark Homework | Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`|
 |  Neural Networks Quick Overview | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/01_neural_networks.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
 |  Tensor Tutorial  | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/02_tensor_tutorial.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a> |
 |  Convolutional Neural Network Tutorial | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning1/03_covnet_tutorial.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
@@ -62,3 +58,10 @@ draft = false
 |  Revisiting IRIS with PyTorch | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/01_pytorch_iris.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
 |  Revisiting Boston Housing with Pytorch  | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/02_regression_boston_housing_pytorch.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a> |
 |  Revisiting Titanic with Pytorch | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/03_titanic_pytorch.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
+
+|    <center>   Topic   </center>        <center>  Link  </center>     |
+| :---------------------------|
+|  Intro to Map Reduce -  Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/01-intro-mapreduce.ipynb` |
+|  Intro to Spark  - Run on DataBricks: <br>`https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/02-intro-spark.ipynb`|
+|  Intro to Data Bricks  Run on DataBricks: <br>`https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/346304/2168141618055043/484361/latest.html` |
+|  Spark Homework  Run on DataBricks:<br> `https://raw.githubusercontent.com/rpi-techfundamentals/spring2019-materials/master/10-big-data/03-spark-questions.ipynb`|

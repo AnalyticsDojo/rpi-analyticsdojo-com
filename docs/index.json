@@ -368,7 +368,7 @@
 	"title": "Session 22",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Exercises Deep learning exercises on Dropbox.\nIn Class     Topic   Link      Neural Networks Quick Overview    Tensor Tutorial    Convolutional Neural Network Tutorial    Pytorch MNIST    Introduction to Tensorflow    Convolutional Neural Network Tutorial     "
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark.\nReadings (To be done before class): You can do Deep Learning Neural Networks - The Math of Intelligence #4 Play Around with this Hands-On Machine Learning Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron (Skim Chapters 9-11)\nIn Class Exercises Deep learning exercises on Dropbox.\nIn Class     Topic   Link      Neural Networks Quick Overview    Tensor Tutorial    Convolutional Neural Network Tutorial     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/session23/",

@@ -20,4 +20,4 @@ Deep learning exercises on Dropbox.
 | :--------------- |:------------|
 |  Revisiting IRIS with PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/01_pytorch_iris.ipynb)  |
 |  Revisiting Boston Housing with Pytorch  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/02_regression_boston_housing_pytorch.ipynb) |
-|  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/03_titanic_pytorch.ipynb)  |
+|  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/03-titanic-pytorch.ipynb)  |

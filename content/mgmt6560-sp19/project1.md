@@ -5,6 +5,9 @@ weight = 12
 draft = false
 +++
 
+## Final Project 
+04/29 Final Project Due  (11:59 PM)
+
 ### Project Selection
 This is a summary from the in class exercise.
 

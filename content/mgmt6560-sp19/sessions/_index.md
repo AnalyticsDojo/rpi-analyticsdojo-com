@@ -39,4 +39,5 @@ alwaysopen = true
 | 27 | M | 04/22 | **Final Presentations** <br> [more](/mgmt6560-sp19/sessions/session27/) |
 |    |   | 04/25 | **No Class - Event Instead** <br>  |
 | 28 | F | 04/26 | **Attend Center for Supply Networks and Analytics Annual Symposium (Sign In Required) <br> [more](/mgmt6560-sp19/sessions/session28/) <br> *[ ](/mgmt6560-sp19/assignments/assignment16/)* <br> |
+| 28 | F | 04/29 | Final Project Due  (11:59 PM)|
 | 29 | Th | 5/2 | **Final Exam 11:30-2:30** <br> [more](/mgmt6560-sp19/sessions/session29/) |

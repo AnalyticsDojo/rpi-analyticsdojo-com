@@ -19,5 +19,8 @@ Deep learning exercises on Dropbox.
 |    <center>   Topic   </center>     |   <center>  Link  </center>     |
 | :--------------- |:------------|
 |  Revisiting Titanic with FastAI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/01_titanic_fastai.ipynb)  |
-|  Ludwig  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sJp9FrTK9p4Ozy0BpBXt6Fi8ATOpscFB) |
-|  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/03-titanic-pytorch.ipynb)  |
+|  Revisiting Titanic with Ludwig  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/02_ludwig.ipynb) |
+|  FastAI - Pets  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson1_pets.ipynb) |
+|  FastAI - Tabular  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson4-tabular.ipynb) |
+|  FastAI - Rossman  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson6-rossmann.ipynb) |
+|  AutoML with TPOT| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/14-automl/01_auto_ml_tpot.ipynb)  |

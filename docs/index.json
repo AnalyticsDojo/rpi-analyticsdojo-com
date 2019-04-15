@@ -382,7 +382,7 @@
 	"title": "Session 24",
 	"tags": [],
 	"description": "",
-	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): In Class Exercises Deep learning exercises on Dropbox.\nIn Class     Topic   Link      Revisiting Titanic with FastAI    Revisiting Titanic with Ludwig    FastAI - Pets    FastAI - Tabular    FastAI - Rossman    AutoML with TPOT     "
+	"content": " Introduction to Deep Learning Class Objective: The goal here is to provide an overview of how data processes can be scaled with Spark and to give an overview of Hadoop.\nReadings (To be done before class): In Class Exercises Deep learning exercises on Dropbox.\nIn Class     Topic   Link      Revisiting Titanic with Ludwig    Revisiting Titanic with FastAI    FastAI - Tabular    FastAI - Pets    AutoML with TPOT     "
 },
 {
 	"uri": "http://rpi.analyticsdojo.com/mgmt6560-sp19/sessions/z_summary/",

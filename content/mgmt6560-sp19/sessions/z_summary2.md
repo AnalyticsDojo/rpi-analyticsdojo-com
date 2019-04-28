@@ -58,6 +58,12 @@ draft = true
 |  Revisiting IRIS with PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/01_pytorch_iris.ipynb)  |
 |  Revisiting Boston Housing with Pytorch  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/02_regression_boston_housing_pytorch.ipynb) |
 |  Revisiting Titanic with Pytorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/11-deep-learning2/03_titanic_pytorch.ipynb)  |
+|  Revisiting Titanic with Ludwig | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/02_ludwig.ipynb)  |
+|  Revisiting Titanic with FastAI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/01_titanic_fastai.ipynb)  |
+|  FastAI - Tabular  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson4-tabular.ipynb) |
+|  FastAI - Pets | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson1_pets.ipynb)  |
+|  AutoML with TPOT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/14-automl/01_auto_ml_tpot.ipynb)  |
+
 
 These are the Big Data Exercises for DataBricks:
 

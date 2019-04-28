@@ -58,6 +58,12 @@ draft = false
 |  Revisiting IRIS with PyTorch | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/01_pytorch_iris.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
 |  Revisiting Boston Housing with Pytorch  | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/02_regression_boston_housing_pytorch.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a> |
 |  Revisiting Titanic with Pytorch | <a href="https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/12-deep-learning2/03-titanic-pytorch.ipynb" target="_blank"><img src=https://colab.research.google.com/assets/colab-badge.svg alt="Open in Colab"></a>  |
+|  Revisiting Titanic with Ludwig | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/02_ludwig.ipynb)  |
+|  Revisiting Titanic with FastAI | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/01_titanic_fastai.ipynb)  |
+|  FastAI - Tabular  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson4-tabular.ipynb) |
+|  FastAI - Pets | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/13-deep-learning3/fastai_v3/lesson1_pets.ipynb)  |
+|  AutoML with TPOT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rpi-techfundamentals/spring2019-materials/blob/master/14-automl/01_auto_ml_tpot.ipynb)  |
+
 
 |    <center>   Topic   </center>        <center>  Link  </center>     |
 | :---------------------------|

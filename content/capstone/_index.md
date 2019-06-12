@@ -5,7 +5,7 @@ weight = 6
 alwaysopen = false
 +++
 
-# The MS Business Analytics Capstone Course
+## **The MS Business Analytics Capstone Course**
 
  **The Business Analytics capstone is the culminating experience of our Masters Program in Business Analytics. Students work in small groups, supervised by an experienced Faculty member, to provide data insights to client organizations.**
 ​

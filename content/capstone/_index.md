@@ -5,7 +5,9 @@ weight = 6
 alwaysopen = false
 +++
 
-# **The Business Analytics capstone is the culminating experience of our Masters Program in Business Analytics. Students work in small groups, supervised by an experienced Faculty member, to provide data insights to client organizations.**
+# The MS Business Analytics Capstone Course
+
+ **The Business Analytics capstone is the culminating experience of our Masters Program in Business Analytics. Students work in small groups, supervised by an experienced Faculty member, to provide data insights to client organizations.**
 ​
 Skills you can expect to have within the team: Python, R, SQL, Statistics, Advanced analytics models and algorithms.
 

@@ -1,8 +1,8 @@
 +++
 title = "Business Analytics Capstone"
-description = "Hands-on Projects with RPI Students"
-date = "2017-04-24T18:36:24+02:00"
-
+description = ""
+weight = 6
+alwaysopen = false
 +++
 
 ![](/images/dojo.png)

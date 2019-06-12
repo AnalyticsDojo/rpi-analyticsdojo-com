@@ -1,13 +1,11 @@
 +++
-title = "Business Analytics Capstone"
+title = ""
 description = ""
 weight = 6
 alwaysopen = false
 +++
 
-![](/images/dojo.png)
-
-### The Business Analytics capstone is the culminating experience of our Masters Program in Business Analytics. Students work in small groups, supervised by an experienced Faculty member, to provide data insights to client organizations.
+# **The Business Analytics capstone is the culminating experience of our Masters Program in Business Analytics. Students work in small groups, supervised by an experienced Faculty member, to provide data insights to client organizations.**
 ​
 Skills you can expect to have within the team: Python, R, SQL, Statistics, Advanced analytics models and algorithms.
 
@@ -22,19 +20,19 @@ Generally, there are some core types of projects.
 - Have a business process some data but not sure of role of analytics?  The team can provide initial exploratory analysis to develop an approach that could have one of the above elements.
 
 #### Predictive Modeling
-Prediction of a specific aspect of a business process.
+- Prediction of a specific aspect of a business process.
 
 #### Dashboarding
-Business visibility to key performance metrics.
+- Business visibility to key performance metrics.
 
 #### Business Understanding
-Want to better understand a key aspect of a business process through analysis and visualization? Teams can generate business understanding.
+- Want to better understand a key aspect of a business process through analysis and visualization? Teams can generate business understanding.
 
 #### Prototyping
-Developing an analytics product as a part of an existing product or services?  The team can prototype.
+- Developing an analytics product as a part of an existing product or services?  The team can prototype.
 
 ## Spring 2019 Examples
-These are some examples of projects from Spring 2019.
+- These are some examples of projects from Spring 2019.
 
 | Company Name                        | Brief Description of Project (1-2 Sentences)                                                                                                                                                                                                                                                                                              |
 |-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

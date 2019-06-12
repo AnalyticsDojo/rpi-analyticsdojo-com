@@ -13,6 +13,7 @@ Currently the learning stack associated with these courses includes: (1) Jupyter
 
 ### Current Courses:
 [Technology Fundamentals for Business Analytics (mgmt6560 Spring 2019)](/mgmt6560-sp19/)
+[Business Analytics Capstone Project Recruitment](/capstone/)
 
 ### Previous Courses:
 [Technology Fundamentals for Business Analytics (mgmt6560 Fall 2018)](http://archive.analyticsdojo.com/mgmt6560-fa18/)
